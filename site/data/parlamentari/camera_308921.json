@@ -1,0 +1,126 @@
+{
+  "id": "camera_308921",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Giovanna",
+    "cognome": "Miele",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308921.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308921&legislatura=19",
+    "data_nascita": "1980-07-24",
+    "luogo_nascita": "Latina",
+    "titolo_studio": "Laurea in scienze dell'educazione e della formazione",
+    "professione": "Dipendente pubblico"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "LAZIO 2 - P02",
+    "collegio": null,
+    "lista": "LEGA PER SALVINI PREMIER",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4132",
+      "nome": "LEGA - SALVINI PREMIER",
+      "sigla": "LEGA",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4132",
+        "nome": "LEGA - SALVINI PREMIER",
+        "sigla": "LEGA",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3506",
+        "nome": "VI COMMISSIONE (FINANZE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Sostituto",
+        "dal": "2022-11-09",
+        "al": "2023-03-27"
+      },
+      {
+        "organo_id": "o19_3505",
+        "nome": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Sostituto",
+        "dal": "2023-03-27",
+        "al": "2023-04-05"
+      },
+      {
+        "organo_id": "o19_3507",
+        "nome": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3961",
+        "nome": "COMMISSIONE PARLAMENTARE PER L'INFANZIA E L'ADOLESCENZA",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI INDIRIZZO, VIGILANZA E CONTROLLO",
+        "ruolo": "Titolare",
+        "dal": "2023-07-12",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "dal": "2026-02-10",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308921",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308921",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308921_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308921#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/e66dd26b-a8c9-4221-af2e-22e962445604"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/2c005bea-7eeb-4da6-a50b-50b333673865"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/c1463abc-e681-4d81-9aae-8702dfbd345f"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/353037c3-4193-4ad2-9779-13e8d216c9c3"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/MIELE_GIOVANNA.pdf?t=1751726065"
+}

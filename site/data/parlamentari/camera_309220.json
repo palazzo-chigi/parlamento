@@ -1,0 +1,106 @@
+{
+  "id": "camera_309220",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Alberto",
+    "cognome": "Pandolfo",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d309220.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=309220&legislatura=19",
+    "data_nascita": "1985-11-29",
+    "luogo_nascita": "Genova",
+    "titolo_studio": "Laurea in ingegneria edile - architettura",
+    "professione": "Ingegnere"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "LIGURIA - P01",
+    "collegio": null,
+    "lista": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2025-01-07",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2025-01-07",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4136",
+      "nome": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+      "sigla": "PD-IDP",
+      "dal": "2025-01-07",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4136",
+        "nome": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+        "sigla": "PD-IDP",
+        "dal": "2025-01-07",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3510",
+        "nome": "X COMMISSIONE (ATTIVITA'  PRODUTTIVE, COMMERCIO E TURISMO)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-01-07",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4182",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CAUSE DEL DISASTRO DELLA NAVE \"MOBY PRINCE\"",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2026-07-14",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "X COMMISSIONE (ATTIVITA'  PRODUTTIVE, COMMERCIO E TURISMO)",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-309220",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;309220",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d309220_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-309220#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/32fb84f8-4d22-4197-aa66-bd7edae84e73"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/bd18e2ce-580b-4d57-82a4-778716be2b79"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/bd598107-f4d6-4220-bc19-f22ec4dd71e8"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/PANDOLFO_ALBERTO.pdf?t=1751726066"
+}

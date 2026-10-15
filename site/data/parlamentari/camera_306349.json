@@ -1,0 +1,162 @@
+{
+  "id": "camera_306349",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Stefano",
+    "cognome": "Candiani",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d306349.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=306349&legislatura=19",
+    "data_nascita": "1971-12-11",
+    "luogo_nascita": "Busto Arsizio",
+    "titolo_studio": "Diploma di liceo scientifico",
+    "professione": "IMPRENDITORE PER PACKAGING PER L' INDUSTRIA COSMETICA E PROFUMIERA"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "LOMBARDIA 2 - P01",
+    "collegio": "LOMBARDIA 2 - U02",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-03",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-10-03",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4132",
+      "nome": "LEGA - SALVINI PREMIER",
+      "sigla": "LEGA",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4132",
+        "nome": "LEGA - SALVINI PREMIER",
+        "sigla": "LEGA",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3514",
+        "nome": "XIV COMMISSIONE (POLITICHE DELL'UNIONE EUROPEA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2025-06-10"
+      },
+      {
+        "organo_id": "o19_3621",
+        "nome": "GIUNTA DELLE ELEZIONI",
+        "tipo_organo": "GIUNTA PER LE ELEZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3801",
+        "nome": "COMMISSIONE PARLAMENTARE PER L'INDIRIZZO GENERALE E LA VIGILANZA DEI SERVIZI RADIOTELEVISIVI",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI INDIRIZZO, VIGILANZA E CONTROLLO",
+        "ruolo": "Titolare",
+        "dal": "2023-03-14",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3514",
+        "nome": "XIV COMMISSIONE (POLITICHE DELL'UNIONE EUROPEA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Sostituto",
+        "dal": "2025-06-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3506",
+        "nome": "VI COMMISSIONE (FINANZE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "XIV COMMISSIONE (POLITICHE DELL'UNIONE EUROPEA)",
+        "dal": "2022-11-09",
+        "al": "2025-06-10"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "GIUNTA DELLE ELEZIONI",
+        "dal": "2022-11-18",
+        "al": null
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMMISSIONE PARLAMENTARE PER L'INDIRIZZO GENERALE E LA VIGILANZA DEI SERVIZI RADIOTELEVISIVI",
+        "dal": "2023-04-04",
+        "al": null
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "VI COMMISSIONE (FINANZE)",
+        "dal": "2025-06-10",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "XIV COMMISSIONE (POLITICHE DELL'UNIONE EUROPEA)",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-306349",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;306349",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d306349_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-306349#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/130e23e0-c846-49ad-8279-ec9696e524ad"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/d0d6c9da-8cbc-411b-88d8-782dbeecd9ab"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/b7e2ebbb-970c-4e87-8e65-d8d24a474efa"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/51bac16e-e335-49fc-9cc4-339cc1109803"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/aba78c8d-6c26-440d-9bfa-45e1d768d785"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/CANDIANI_STEFANO.pdf?t=1751725941"
+}

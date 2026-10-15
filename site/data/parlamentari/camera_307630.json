@@ -1,0 +1,129 @@
+{
+  "id": "camera_307630",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Rebecca",
+    "cognome": "Frassini",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307630.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307630&legislatura=19",
+    "data_nascita": "1988-11-24",
+    "luogo_nascita": "Calcinate",
+    "titolo_studio": "Laurea in economia",
+    "professione": "Dipendente di azienda privata"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "LOMBARDIA 3 - P01",
+    "collegio": "LOMBARDIA 3 - U02",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-03",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-10-03",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4132",
+      "nome": "LEGA - SALVINI PREMIER",
+      "sigla": "LEGA",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4132",
+        "nome": "LEGA - SALVINI PREMIER",
+        "sigla": "LEGA",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-19",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3543",
+        "nome": "COMMISSIONE SPECIALE ISTITUITA IL 19 OTTOBRE 2022, AI SENSI DELL'ARTICOLO 22, COMMA 2, DEL REGOLAMENTO",
+        "tipo_organo": "COMMISSIONE SPECIALE",
+        "ruolo": "Titolare",
+        "dal": "2022-10-21",
+        "al": "2022-11-09"
+      },
+      {
+        "organo_id": "o19_3505",
+        "nome": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4023",
+        "nome": "COMMISSIONE PARLAMENTARE PER LE QUESTIONI REGIONALI",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI RANGO COSTITUZIONALE",
+        "ruolo": "Titolare",
+        "dal": "2023-09-07",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMMISSIONE PARLAMENTARE PER LE QUESTIONI REGIONALI",
+        "dal": "2023-09-13",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307630",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307630",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307630_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307630#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/a9d46e6d-dfbe-4399-9382-4f8731ed3ce1"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/0756f13e-45ac-46b7-b26d-67948fdbfdb9"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/a03f72d9-4c5b-47ee-87bf-09b0c50e38be"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/e8daf549-6a58-4b3e-a39b-de736cc3c632"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/84cac3d1-4b1f-4a0d-b1cb-a3b0aa3f7bf6"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/FRASSINI_REBECCA.pdf?t=1751726040"
+}

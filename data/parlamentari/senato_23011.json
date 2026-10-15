@@ -1,0 +1,194 @@
+{
+  "id": "senato_23011",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Antonio",
+    "cognome": "Misiani",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Misiani%202024%2003%20%28cropped%29.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00023011.jpg",
+    "data_nascita": "1968-09-04",
+    "luogo_nascita": "Bergamo",
+    "titolo_studio": null,
+    "professione": "Consulente"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "Lombardia",
+    "collegio": "LOMBARDIA - U03 (MILANO: NIL 21 - BUENOS AIRES - VENEZIA)",
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto uninominale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "49",
+      "nome": "Partito Democratico - Italia Democratica e Progressista",
+      "sigla": "PD-IDP",
+      "carica": "Membro",
+      "dal": "2023-06-06",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": "2022-10-24",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Tesoriere",
+        "dal": "2022-10-25",
+        "al": "2023-06-05",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Membro",
+        "dal": "2023-06-06",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 15,
+        "camera": "Camera",
+        "dal": "2006-04-28",
+        "al": "2008-04-28"
+      },
+      {
+        "legislatura": 16,
+        "camera": "Camera",
+        "dal": "2008-04-29",
+        "al": "2013-03-14"
+      },
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-15",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Senato",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-5",
+        "nome": "5ª Commissione permanente Bilancio",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2022-11-09"
+      },
+      {
+        "organo_id": "0-74",
+        "nome": "Commissione speciale per l'esame degli atti urgenti presentati dal Governo Commissione speciale su atti urgenti del Governo",
+        "tipo_organo": "Commissioni speciali e Commissioni di inchiesta monocamerali",
+        "ruolo": "Membro",
+        "dal": "2022-10-25",
+        "al": "2022-11-10"
+      },
+      {
+        "organo_id": "0-5",
+        "nome": "5ª Commissione permanente Bilancio",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Vicepresidente",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "0-5",
+        "nome": "5ª Commissione permanente Bilancio",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Vicepresidente",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Tesoriere",
+        "organo": "Gruppo PD-IDP",
+        "dal": "2022-10-25",
+        "al": "2023-06-05"
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "5ª Commissione permanente Bilancio",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "5ª Commissione permanente Bilancio",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2018,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2018/Misiani_2018.pdf"
+    },
+    {
+      "anno": 2019,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2019/Misiani_2019.pdf"
+    },
+    {
+      "anno": 2020,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2020/Misiani_2020.pdf"
+    },
+    {
+      "anno": 2021,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2021/Misiani_2021.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2022/Misiani_2022.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Misiani_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Misiani_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00023011.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/23011",
+    "wikidata": "http://www.wikidata.org/entity/Q3619905",
+    "aggiornato_il": "2026-10-14"
+  }
+}

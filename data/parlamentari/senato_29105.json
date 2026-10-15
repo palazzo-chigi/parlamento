@@ -1,0 +1,178 @@
+{
+  "id": "senato_29105",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Francesco",
+    "cognome": "Giacobbe",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Giacobbe%20datisenato%202018.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00029105.jpg",
+    "data_nascita": "1958-07-10",
+    "luogo_nascita": "Catania",
+    "titolo_studio": null,
+    "professione": "Docente universitario"
+  },
+  "elezione": {
+    "tipo": "estero",
+    "circoscrizione": "AFRICA ASIA OCEANIA ANTARTIDE",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "circoscrizioni estere"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "49",
+      "nome": "Partito Democratico - Italia Democratica e Progressista",
+      "sigla": "PD-IDP",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 17,
+        "camera": "Senato",
+        "dal": "2013-03-15",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Senato",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-147",
+        "nome": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2022-11-09"
+      },
+      {
+        "organo_id": "0-147",
+        "nome": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Segretario",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "4-48",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea parlamentare dell'Iniziativa Centro Europea Delegazione italiana presso l'Assemblea dell'INCE",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-04-18",
+        "al": null
+      },
+      {
+        "organo_id": "0-147",
+        "nome": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Segretario",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Segretario",
+        "organo": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "Segretario",
+        "organo": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2013,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/GIACOBBE_2013.pdf"
+    },
+    {
+      "anno": 2014,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2014/GIACOBBE_2014.pdf"
+    },
+    {
+      "anno": 2015,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2015/GIACOBBE_2015.pdf"
+    },
+    {
+      "anno": 2016,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2016/Giacobbe_2016.pdf"
+    },
+    {
+      "anno": 2017,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2017/Giacobbe_2017_.pdf"
+    },
+    {
+      "anno": 2018,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2018/Giacobbe_2018.pdf"
+    },
+    {
+      "anno": 2019,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2019/Giacobbe_2019.pdf"
+    },
+    {
+      "anno": 2020,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2020/Giacobbe_2020.pdf"
+    },
+    {
+      "anno": 2021,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2021/Giacobbe_2021.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2022/Giacobbe_2022.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Giacobbe_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Giacobbe_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00029105.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/29105",
+    "wikidata": "http://www.wikidata.org/entity/Q16039238",
+    "aggiornato_il": "2026-10-14"
+  }
+}

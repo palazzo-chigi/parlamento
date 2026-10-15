@@ -1,0 +1,173 @@
+{
+  "id": "camera_34580",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Bruno",
+    "cognome": "Tabacci",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d34580.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=34580&legislatura=19",
+    "data_nascita": "1946-08-27",
+    "luogo_nascita": "Quistello",
+    "titolo_studio": "Laurea in economia e commercio",
+    "professione": null
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "LOMBARDIA 1 - P01",
+    "collegio": "LOMBARDIA 1 - U07",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-03",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-10-03",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4111",
+      "nome": "MISTO",
+      "sigla": "MISTO",
+      "dal": "2026-07-09",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4136",
+        "nome": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+        "sigla": "PD-IDP",
+        "dal": "2022-10-18",
+        "al": "2026-07-09",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4111",
+        "nome": "MISTO",
+        "sigla": "MISTO",
+        "dal": "2026-07-09",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 1,
+    "legislature_precedenti": [
+      {
+        "legislatura": 11,
+        "camera": "Camera",
+        "dal": "1992-04-16",
+        "al": "1994-04-14"
+      },
+      {
+        "legislatura": 14,
+        "camera": "Camera",
+        "dal": "2001-05-22",
+        "al": "2006-04-27"
+      },
+      {
+        "legislatura": 15,
+        "camera": "Camera",
+        "dal": "2006-04-28",
+        "al": "2008-04-28"
+      },
+      {
+        "legislatura": 16,
+        "camera": "Camera",
+        "dal": "2008-04-22",
+        "al": "2013-03-14"
+      },
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-05",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-13",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3721",
+        "nome": "CONFERENZA DEI PRESIDENTI DELLE COMMISSIONI PERMANENTI",
+        "tipo_organo": "CONFERENZA DEI PRESIDENTI DELLE COMMISSIONI PERMANENTI",
+        "ruolo": "Titolare",
+        "dal": "2023-09-10",
+        "al": "2024-07-08"
+      },
+      {
+        "organo_id": "o19_3506",
+        "nome": "VI COMMISSIONE (FINANZE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3517",
+        "nome": "COMITATO PER LA LEGISLAZIONE",
+        "tipo_organo": "COMITATO PER LA LEGISLAZIONE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "COMITATO PER LA LEGISLAZIONE",
+        "dal": "2022-11-10",
+        "al": "2023-09-09"
+      },
+      {
+        "carica": "PRESIDENTE",
+        "organo": "COMITATO PER LA LEGISLAZIONE",
+        "dal": "2023-09-10",
+        "al": "2024-07-08"
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-34580",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;34580",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d34580_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-34580#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/6884c48e-d0ca-4f90-999a-e601690a64bf"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/6d176b9f-e825-4dcc-aae9-d3b346b2674c"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/23e8e41d-bd7c-4c97-a429-3439d859c429"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/03fb0f65-9238-4267-8285-89bc3b5a70b4"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/c975014b-1e55-4d28-8599-c0e41b267c28"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/TABACCI_BRUNO.pdf?t=1772212463"
+}

@@ -1,0 +1,140 @@
+{
+  "id": "camera_308925",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Rosaria",
+    "cognome": "Tassinari",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308925.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308925&legislatura=19",
+    "data_nascita": "1967-08-18",
+    "luogo_nascita": "Forli'",
+    "titolo_studio": "Laurea in giurisprudenza",
+    "professione": "Avvocato civilista, già Sindaco del Comune di Rocca San Casciano (FC) dal 2009 al 2019, Assessore alle Politiche sociali, famiglia, pace e diritti umani nel Comune di Forlì dal 2019"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "EMILIA-ROMAGNA - P03",
+    "collegio": null,
+    "lista": "FORZA ITALIA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-10",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-10",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4134",
+      "nome": "FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE",
+      "sigla": "FI-PPE",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4134",
+        "nome": "FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE",
+        "sigla": "FI-PPE",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3511",
+        "nome": "XI COMMISSIONE (LAVORO PUBBLICO E PRIVATO)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3507",
+        "nome": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Sostituto",
+        "dal": "2022-11-16",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3783",
+        "nome": "COMITATO DI VIGILANZA SULL'ATTIVITA' DI DOCUMENTAZIONE",
+        "tipo_organo": "COMITATI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2023-02-23",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3961",
+        "nome": "COMMISSIONE PARLAMENTARE PER L'INFANZIA E L'ADOLESCENZA",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI INDIRIZZO, VIGILANZA E CONTROLLO",
+        "ruolo": "Titolare",
+        "dal": "2023-07-12",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4321",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUL RISCHIO IDROGEOLOGICO E SISMICO DEL TERRITORIO ITALIANO, SULL'ATTUAZIONE DELLE NORME DI PREVENZIONE E SICUREZZA E SUGLI INTERVENTI DI EMERGENZA E DI RICOSTRUZIONE A SEGUITO DEGLI EVENTI CALAMITOSI VERIFICATISI DALL'ANNO 2019",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2025-03-05",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "dal": "2024-07-09",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "dal": "2025-06-30",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308925",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308925",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308925_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308925#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/185c2f94-f404-4c76-a1d7-26fbc45fd2fa"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/743c0c0c-af04-4be5-b615-2a543e924b5b"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/42c35bb8-5ee4-413f-ab24-3a24b43e1cc6"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/8a1723be-e0c3-4f30-95e6-3fc005e16463"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/TASSINARI_ROSARIA.pdf?t=1772212569"
+}

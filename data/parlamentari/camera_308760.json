@@ -1,0 +1,130 @@
+{
+  "id": "camera_308760",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Franco",
+    "cognome": "Manes",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308760.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308760&legislatura=19",
+    "data_nascita": "1963-06-21",
+    "luogo_nascita": "Aosta",
+    "titolo_studio": "Laurea in architettura",
+    "professione": "Architetto, già Sindaco del Comune di Doues e Presidente del Consorzio degli enti locali della Valle d'Aosta"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "VALLE D'AOSTA",
+    "collegio": "VALLE D'AOSTA - U01",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4111",
+      "nome": "MISTO",
+      "sigla": "MISTO",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4111",
+        "nome": "MISTO",
+        "sigla": "MISTO",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3508",
+        "nome": "VIII COMMISSIONE (AMBIENTE, TERRITORIO E LAVORI PUBBLICI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3903",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CONDIZIONI DI SICUREZZA E SULLO STATO DI DEGRADO DELLE CITTA' E DELLE LORO PERIFERIE",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-06-08",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4021",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE ATTIVITA' ILLECITE CONNESSE AL CICLO DEI RIFIUTI E SU ALTRI ILLECITI AMBIENTALI E AGROALIMENTARI",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-09-07",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "VIII COMMISSIONE (AMBIENTE, TERRITORIO E LAVORI PUBBLICI)",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CONDIZIONI DI SICUREZZA E SULLO STATO DI DEGRADO DELLE CITTA' E DELLE LORO PERIFERIE",
+        "dal": "2023-06-21",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE ATTIVITA' ILLECITE CONNESSE AL CICLO DEI RIFIUTI E SU ALTRI ILLECITI AMBIENTALI E AGROALIMENTARI",
+        "dal": "2023-09-19",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308760",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308760",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308760_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308760#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/90532553-1ddc-4af1-9f76-c7dba070f6ab"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/7acef1ee-98a6-4c3b-9758-c2538983e691"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/6607a61f-7d8d-40f9-829d-4b21586b91a0"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/2b056546-0170-447c-a2af-2d492cf87c2e"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/MANES_FRANCO.pdf?t=1772210734"
+}

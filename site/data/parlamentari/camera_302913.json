@@ -1,0 +1,157 @@
+{
+  "id": "camera_302913",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Antonino",
+    "cognome": "Minardo",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d302913.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=302913&legislatura=19",
+    "data_nascita": "1978-02-05",
+    "luogo_nascita": "Modica",
+    "titolo_studio": "Laurea in scienze politiche",
+    "professione": "Dirigente di azienda privata"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "SICILIA 2 - P03",
+    "collegio": "SICILIA 2 - U01",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4134",
+      "nome": "FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE",
+      "sigla": "FI-PPE",
+      "dal": "2025-07-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4132",
+        "nome": "LEGA - SALVINI PREMIER",
+        "sigla": "LEGA",
+        "dal": "2022-10-18",
+        "al": "2024-04-19",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4111",
+        "nome": "MISTO",
+        "sigla": "MISTO",
+        "dal": "2024-04-19",
+        "al": "2025-07-18",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4134",
+        "nome": "FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE",
+        "sigla": "FI-PPE",
+        "dal": "2025-07-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 2,
+    "legislature_precedenti": [
+      {
+        "legislatura": 16,
+        "camera": "Camera",
+        "dal": "2008-04-23",
+        "al": "2013-03-14"
+      },
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-05",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-19",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3721",
+        "nome": "CONFERENZA DEI PRESIDENTI DELLE COMMISSIONI PERMANENTI",
+        "tipo_organo": "CONFERENZA DEI PRESIDENTI DELLE COMMISSIONI PERMANENTI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3504",
+        "nome": "IV COMMISSIONE (DIFESA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "PRESIDENTE",
+        "organo": "IV COMMISSIONE (DIFESA)",
+        "dal": "2022-11-09",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "IV COMMISSIONE (DIFESA)",
+        "dal": "2024-05-13",
+        "al": "2025-07-18"
+      },
+      {
+        "carica": "PRESIDENTE",
+        "organo": "IV COMMISSIONE (DIFESA)",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-302913",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;302913",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d302913_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-302913#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/a528f53d-6863-4651-bee5-6bbb1d6f1a25"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/9b1edbd7-5dca-4fa5-8863-862475dd2e12"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/c40a3b55-edf9-4e10-8f51-4b545eeebca2"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/bd773657-f887-4a88-a7e2-cc7b691bc062"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/MINARDO_ANTONINO.pdf?t=1751726065"
+}

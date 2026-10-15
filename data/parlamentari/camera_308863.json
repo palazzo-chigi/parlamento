@@ -1,0 +1,126 @@
+{
+  "id": "camera_308863",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Maddalena",
+    "cognome": "Morgante",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308863.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308863&legislatura=19",
+    "data_nascita": "1981-06-14",
+    "luogo_nascita": "Verona",
+    "titolo_studio": "Laurea in giurisprudenza",
+    "professione": "Avvocato civilista"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "VENETO 2 - P03",
+    "collegio": null,
+    "lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3501",
+        "nome": "I COMMISSIONE (AFFARI COSTITUZIONALI, DELLA PRESIDENZA DEL CONSIGLIO E INTERNI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Sostituto",
+        "dal": "2022-11-09",
+        "al": "2023-02-23"
+      },
+      {
+        "organo_id": "o19_3512",
+        "nome": "XII COMMISSIONE (AFFARI SOCIALI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3621",
+        "nome": "GIUNTA DELLE ELEZIONI",
+        "tipo_organo": "GIUNTA PER LE ELEZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4201",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA SCOMPARSA DI EMANUELA ORLANDI E DI MIRELLA GREGORI",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2024-05-23",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "GIUNTA DELLE ELEZIONI",
+        "dal": "2022-11-16",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308863",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308863",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308863_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308863#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/bf0f9c7a-510b-4982-bcd3-a586bd5b4cb7"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/3980ed56-55e2-43ed-913d-bcbc6db98c3d"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/7989e053-9129-47ec-81ab-814ccb5a5a4f"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/60b4c3c3-ec40-4c41-8771-21707539f39c"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/MORGANTE_MADDALENA.pdf?t=1751726066"
+}

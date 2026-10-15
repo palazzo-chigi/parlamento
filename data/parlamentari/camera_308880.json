@@ -1,0 +1,158 @@
+{
+  "id": "camera_308880",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Federico",
+    "cognome": "Gianassi",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308880.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308880&legislatura=19",
+    "data_nascita": "1980-05-21",
+    "luogo_nascita": "Firenze",
+    "titolo_studio": "Laurea in giurisprudenza, Dottorato di ricerca in diritto internazionale",
+    "professione": "Avvocato, già Presidente di Circoscrizione nel Comune di Firenze, Assessore al Bilancio, Società partecipate, Attività economiche del Comune di Firenze"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "TOSCANA - P03",
+    "collegio": "TOSCANA - U07",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4136",
+      "nome": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+      "sigla": "PD-IDP",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4136",
+        "nome": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+        "sigla": "PD-IDP",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3502",
+        "nome": "II COMMISSIONE (GIUSTIZIA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3520",
+        "nome": "GIUNTA PER LE AUTORIZZAZIONI",
+        "tipo_organo": "GIUNTA PER LE AUTORIZZAZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3681",
+        "nome": "COMITATO PARLAMENTARE PER I PROCEDIMENTI DI ACCUSA",
+        "tipo_organo": "COMITATO PER I PROCEDIMENTI DI ACCUSA",
+        "ruolo": "Titolare",
+        "dal": "2022-11-16",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4042",
+        "nome": "COMMISSIONE GIURISDIZIONALE PER IL PERSONALE",
+        "tipo_organo": "ORGANI GIURISDIZIONALI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Supplente",
+        "dal": "2023-08-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4201",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA SCOMPARSA DI EMANUELA ORLANDI E DI MIRELLA GREGORI",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2024-03-05",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMITATO PARLAMENTARE PER I PROCEDIMENTI DI ACCUSA",
+        "dal": "2024-04-10",
+        "al": "2024-11-27"
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "GIUNTA PER LE AUTORIZZAZIONI",
+        "dal": "2024-04-10",
+        "al": "2024-11-27"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "II COMMISSIONE (GIUSTIZIA)",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "COMITATO PARLAMENTARE PER I PROCEDIMENTI DI ACCUSA",
+        "dal": "2024-11-27",
+        "al": null
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "GIUNTA PER LE AUTORIZZAZIONI",
+        "dal": "2024-11-27",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308880",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308880",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308880_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308880#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/39c29559-7bd5-4301-bfe0-1a62f9bf9aa1"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/572269b4-8313-4f94-8c68-cdee91bb84dc"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/4f40b3b6-9082-4f57-bfc9-ec8abe36fef2"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/73dec7dc-0ee4-43ab-9b7c-f75c156c959a"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/GIANASSI_FEDERICO.pdf?t=1751726040"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "senato_25407",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Matteo",
+    "cognome": "Salvini",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Matteo%20Salvini%2C%202025.12.04%20%28cropped%29.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00025407.jpg",
+    "data_nascita": "1973-03-09",
+    "luogo_nascita": "Milano",
+    "titolo_studio": null,
+    "professione": "Giornalista"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Puglia",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "33",
+      "nome": "Lega Salvini Premier - Partito Sardo d'Azione",
+      "sigla": "LSP-PSd'Az",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "33",
+        "nome": "Lega Salvini Premier - Partito Sardo d'Azione",
+        "sigla": "LSP-PSd'Az",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 16,
+        "camera": "Camera",
+        "dal": "2008-04-29",
+        "al": "2009-07-13"
+      },
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-15",
+        "al": "2013-03-15"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Senato",
+        "dal": "2018-03-23",
+        "al": "2019-07-31"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Senato",
+        "dal": "2019-07-31",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-14",
+        "nome": "4ª Commissione permanente Politiche dell'Unione europea",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      }
+    ],
+    "incarichi": []
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2018,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2018/Salvini_2018.pdf"
+    },
+    {
+      "anno": 2019,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2019/Salvini_2019.pdf"
+    },
+    {
+      "anno": 2020,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2020/Salvini_2020.pdf"
+    },
+    {
+      "anno": 2021,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2021/Salvini_2021.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2022/Salvini_2022.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Salvini_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Salvini_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00025407.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/25407",
+    "wikidata": "http://www.wikidata.org/entity/Q1055449",
+    "aggiornato_il": "2026-10-14"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "camera_308922",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Massimo",
+    "cognome": "Milani",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308922.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308922&legislatura=19",
+    "data_nascita": "1967-09-24",
+    "luogo_nascita": "Roma",
+    "titolo_studio": "Diploma di liceo scientifico",
+    "professione": "Imprenditore edile"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "LAZIO 2 - P01",
+    "collegio": null,
+    "lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3543",
+        "nome": "COMMISSIONE SPECIALE ISTITUITA IL 19 OTTOBRE 2022, AI SENSI DELL'ARTICOLO 22, COMMA 2, DEL REGOLAMENTO",
+        "tipo_organo": "COMMISSIONE SPECIALE",
+        "ruolo": "Titolare",
+        "dal": "2022-10-21",
+        "al": "2022-11-09"
+      },
+      {
+        "organo_id": "o19_3508",
+        "nome": "VIII COMMISSIONE (AMBIENTE, TERRITORIO E LAVORI PUBBLICI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3903",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CONDIZIONI DI SICUREZZA E SULLO STATO DI DEGRADO DELLE CITTA' E DELLE LORO PERIFERIE",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-06-08",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "VIII COMMISSIONE (AMBIENTE, TERRITORIO E LAVORI PUBBLICI)",
+        "dal": "2022-11-09",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CONDIZIONI DI SICUREZZA E SULLO STATO DI DEGRADO DELLE CITTA' E DELLE LORO PERIFERIE",
+        "dal": "2023-06-27",
+        "al": null
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "VIII COMMISSIONE (AMBIENTE, TERRITORIO E LAVORI PUBBLICI)",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308922",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308922",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308922_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308922#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/2b2f9214-6951-42bf-be4b-c075225f1816"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/0c1d868e-85da-42ca-b7ef-47f5eba7096a"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/b5b77808-bfe5-4417-ba7e-72ada4033786"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/f699faa8-5b95-45f1-8247-ee25fefcbcf3"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/MILANI_MASSIMO.pdf?t=1751726065"
+}

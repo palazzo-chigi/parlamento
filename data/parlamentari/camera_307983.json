@@ -1,0 +1,102 @@
+{
+  "id": "camera_307983",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Luca",
+    "cognome": "Toccalini",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307983.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307983&legislatura=19",
+    "data_nascita": "1990-05-18",
+    "luogo_nascita": "Milano",
+    "titolo_studio": "Laurea in economia e gestione aziendale",
+    "professione": "Impiegato"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "LOMBARDIA 4 - P01",
+    "collegio": null,
+    "lista": "LEGA PER SALVINI PREMIER",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-10",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-10",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4132",
+      "nome": "LEGA - SALVINI PREMIER",
+      "sigla": "LEGA",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4132",
+        "nome": "LEGA - SALVINI PREMIER",
+        "sigla": "LEGA",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-07-25",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3510",
+        "nome": "X COMMISSIONE (ATTIVITA'  PRODUTTIVE, COMMERCIO E TURISMO)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      }
+    ],
+    "incarichi": []
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307983",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307983",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307983_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307983#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/56eac8b7-877d-44b7-b178-76a24adca486"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/9eb9f79b-fc7f-48d4-b76b-f14864eb40d1"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/3baca2f6-7576-4407-87f5-db0d38102d26"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/8acaf9fa-90a1-4fc0-96ab-fb05dbfc2a09"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/TOCCALINI_LUCA.pdf?t=1772212756"
+}

@@ -1,0 +1,257 @@
+{
+  "id": "camera_305880",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Nicola",
+    "cognome": "Fratoianni",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d305880.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=305880&legislatura=19",
+    "data_nascita": "1972-10-04",
+    "luogo_nascita": "Pisa",
+    "titolo_studio": "Laurea in lettere e filosofia",
+    "professione": null
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "TOSCANA - P03",
+    "collegio": null,
+    "lista": "ALLEANZA VERDI E SINISTRA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4154",
+      "nome": "ALLEANZA VERDI E SINISTRA",
+      "sigla": "AVS",
+      "dal": "2022-10-27",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4111",
+        "nome": "MISTO",
+        "sigla": "MISTO",
+        "dal": "2022-10-18",
+        "al": "2022-10-27",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4154",
+        "nome": "ALLEANZA VERDI E SINISTRA",
+        "sigla": "AVS",
+        "dal": "2022-10-27",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 1,
+    "legislature_precedenti": [
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-05",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-19",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3981",
+        "nome": "COMITATO PERMANENTE SULL'ATTUAZIONE DELL'AGENDA 2030 E LO SVILUPPO SOSTENIBILE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3985",
+        "nome": "COMITATO PERMANENTE SULLA TUTELA DELLA LIBERTA' RELIGIOSA NELLA SFERA INTERNAZIONALE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3986",
+        "nome": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER IL MEDITERRANEO E PER L'AFRICA",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3983",
+        "nome": "COMITATO PERMANENTE SUGLI ITALIANI NEL MONDO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3987",
+        "nome": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'INDO-PACIFICO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3982",
+        "nome": "COMITATO PERMANENTE SUI DIRITTI UMANI NEL MONDO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3984",
+        "nome": "COMITATO PERMANENTE SUL COMMERCIO INTERNAZIONALE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3503",
+        "nome": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4365",
+        "nome": "COMITATO PERMANENTE SUI DIRITTI UMANI NEL MONDO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4369",
+        "nome": "COMITATO PERMANENTE SUL COMMERCIO INTERNAZIONALE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4342",
+        "nome": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'AFRICA",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4343",
+        "nome": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'AREA INDO-MEDITERRANEA",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4341",
+        "nome": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'ARTICO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4361",
+        "nome": "COMITATO PERMANENTE PER L'ATTUAZIONE DELL'AGENDA 2030 E LO SVILUPPO SOSTENIBILE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4367",
+        "nome": "COMITATO PERMANENTE SUGLI ITALIANI NEL MONDO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMITATO PERMANENTE SULLA TUTELA DELLA LIBERTA' RELIGIOSA NELLA SFERA INTERNAZIONALE",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "COMITATO PERMANENTE SULL'ATTUAZIONE DELL'AGENDA 2030 E LO SVILUPPO SOSTENIBILE",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "COMITATO PERMANENTE PER L'ATTUAZIONE DELL'AGENDA 2030 E LO SVILUPPO SOSTENIBILE",
+        "dal": "2025-09-18",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-305880",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;305880",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d305880_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-305880#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/1dd7e960-ca73-4008-bdfb-4f3d5b801bd7"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/5f0bfb63-cc52-4d59-8eda-c7b449e7d4b0"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/b87958bc-f3f1-4c57-8d30-4725ac01a203"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/35922fbb-f1be-4470-8658-cb12dec4b3dd"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/cbb99486-06a4-40ef-83d0-2d0ea9f090b1"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/FRATOIANNI_NICOLA.pdf?t=1751726040"
+}

@@ -1,0 +1,106 @@
+{
+  "id": "camera_308853",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Marianna",
+    "cognome": "Ricciardi",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308853.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308853&legislatura=19",
+    "data_nascita": "1994-01-13",
+    "luogo_nascita": "Napoli",
+    "titolo_studio": null,
+    "professione": "Medico"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "CAMPANIA 1 - P01",
+    "collegio": null,
+    "lista": "MOVIMENTO 5 STELLE",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4131",
+      "nome": "MOVIMENTO 5 STELLE",
+      "sigla": "M5S",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4131",
+        "nome": "MOVIMENTO 5 STELLE",
+        "sigla": "M5S",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3512",
+        "nome": "XII COMMISSIONE (AFFARI SOCIALI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "XII COMMISSIONE (AFFARI SOCIALI)",
+        "dal": "2025-07-23",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308853",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308853",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308853_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308853#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/bfff25d7-1cc1-45db-adef-d9158d06995c"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/a3e99c21-bd9c-4388-bf3c-3d5370d9d0e1"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/5ecbeb34-d53c-4c64-bacf-7a73c629851d"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/6ab85961-18a2-4b97-911e-81c9c3fde581"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/370438dc-6537-449d-9417-89aa9bdfc7e0"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/RICCIARDI_MARIANNA.pdf?t=1772211899"
+}

@@ -1,0 +1,165 @@
+{
+  "id": "camera_307604",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Stefano",
+    "cognome": "Benigni",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307604.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307604&legislatura=19",
+    "data_nascita": "1987-07-16",
+    "luogo_nascita": "Alzano Lombardo",
+    "titolo_studio": "Diploma di liceo scientifico",
+    "professione": "Consulente finanziario"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "LOMBARDIA 2 - P02",
+    "collegio": null,
+    "lista": "FORZA ITALIA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-10",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-10",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4134",
+      "nome": "FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE",
+      "sigla": "FI-PPE",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4134",
+        "nome": "FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE",
+        "sigla": "FI-PPE",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-13",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3507",
+        "nome": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Sostituto",
+        "dal": "2022-11-09",
+        "al": "2022-11-16"
+      },
+      {
+        "organo_id": "o19_4281",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA GESTIONE DELL'EMERGENZA SANITARIA CAUSATA DALLA DIFFUSIONE EPIDEMICA DEL VIRUS SARS-COV-2 E SULLE MISURE ADOTTATE PER PREVENIRE E AFFRONTARE L'EMERGENZA EPIDEMIOLOGICA DA SARS-COV-2",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2024-08-07",
+        "al": "2024-09-17"
+      },
+      {
+        "organo_id": "o19_3512",
+        "nome": "XII COMMISSIONE (AFFARI SOCIALI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2026-07-09"
+      },
+      {
+        "organo_id": "o19_4281",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA GESTIONE DELL'EMERGENZA SANITARIA CAUSATA DALLA DIFFUSIONE EPIDEMICA DEL VIRUS SARS-COV-2 E SULLE MISURE ADOTTATE PER PREVENIRE E AFFRONTARE L'EMERGENZA EPIDEMIOLOGICA DA SARS-COV-2",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2024-09-17",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3503",
+        "nome": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2026-07-09",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "DELEGATO D'AULA",
+        "organo": "Gruppo FI-PPE",
+        "dal": "2022-12-14",
+        "al": "2023-04-04"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "XII COMMISSIONE (AFFARI SOCIALI)",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "XII COMMISSIONE (AFFARI SOCIALI)",
+        "dal": "2025-06-18",
+        "al": "2025-12-30"
+      },
+      {
+        "carica": "TESORIERE",
+        "organo": "Gruppo FI-PPE",
+        "dal": "2023-04-04",
+        "al": null
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA GESTIONE DELL'EMERGENZA SANITARIA CAUSATA DALLA DIFFUSIONE EPIDEMICA DEL VIRUS SARS-COV-2 E SULLE MISURE ADOTTATE PER PREVENIRE E AFFRONTARE L'EMERGENZA EPIDEMIOLOGICA DA SARS-COV-2",
+        "dal": "2024-09-18",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307604",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307604",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307604_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307604#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/35347763-794c-4687-8ab2-6fcdd164f5bb"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/3b44cce7-c4b7-44ee-93a8-43b893fa0b51"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/69bb769e-d412-4cce-9fce-d499e9c4839f"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/2c3fa44e-91f4-4b93-9143-d86d9aa7757e"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/BENIGNI_STEFANO.pdf?t=1751725876"
+}

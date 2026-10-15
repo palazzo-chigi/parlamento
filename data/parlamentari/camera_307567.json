@@ -1,0 +1,102 @@
+{
+  "id": "camera_307567",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Wanda",
+    "cognome": "Ferro",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307567.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307567&legislatura=19",
+    "data_nascita": "1968-03-24",
+    "luogo_nascita": "Catanzaro",
+    "titolo_studio": "Laurea in lettere moderne",
+    "professione": null
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "CALABRIA - P01",
+    "collegio": "CALABRIA - U03",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-01",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-10-01",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-10",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3504",
+        "nome": "IV COMMISSIONE (DIFESA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      }
+    ],
+    "incarichi": []
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307567",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307567",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307567_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307567#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/01458240-7e47-409e-9be3-047e40e4573b"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/727e08cb-872b-4845-94fb-ee6baa33135a"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/f135879f-4057-404b-a12f-6738b022f5f6"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/ca84f9cb-8514-422a-91aa-6a7f06618637"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/FERRO_WANDA.pdf?t=1751726039"
+}

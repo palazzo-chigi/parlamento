@@ -1,0 +1,120 @@
+{
+  "id": "camera_308891",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Silvia",
+    "cognome": "Roggiani",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308891.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308891&legislatura=19",
+    "data_nascita": "1984-04-25",
+    "luogo_nascita": "Busto Arsizio",
+    "titolo_studio": "Laurea magistrale in scienze politiche e di governo, MBA Essential conseguito alla LSE",
+    "professione": "Segretaria regionale Pd Lombardia"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "LOMBARDIA 1 - P02",
+    "collegio": null,
+    "lista": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-10",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-10",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4136",
+      "nome": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+      "sigla": "PD-IDP",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4136",
+        "nome": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+        "sigla": "PD-IDP",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3505",
+        "nome": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4221",
+        "nome": "COMMISSIONE PARLAMENTARE PER LA SEMPLIFICAZIONE",
+        "tipo_organo": "COMMISSIONE BICAMERALE CONSULTIVA",
+        "ruolo": "Titolare",
+        "dal": "2024-03-19",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "Gruppo PD-IDP",
+        "dal": "2022-10-27",
+        "al": null
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308891",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308891",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308891_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308891#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/e3ab31ad-3f69-43b6-9bca-aa950e0e1e7a"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/0c74e29e-c54d-430f-a804-cbd4431361a7"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/1f84c627-22be-4f8a-885f-cc134549b68b"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/3dcc6efe-ddf8-4c43-be56-5327e760625b"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/f65a872d-076c-4634-afe9-51f7db7d0cb5"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/ROGGIANI_SILVIA.pdf?t=1751726076"
+}

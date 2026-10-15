@@ -1,0 +1,201 @@
+{
+  "id": "camera_307688",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Dimitri",
+    "cognome": "Coin",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307688.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307688&legislatura=19",
+    "data_nascita": "1970-06-01",
+    "luogo_nascita": "Treviso",
+    "titolo_studio": "Diploma di istituto tecnico agrario",
+    "professione": "Imprenditore"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "VENETO 1 - P01",
+    "collegio": "VENETO 1 - U04",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-01",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-10-01",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4132",
+      "nome": "LEGA - SALVINI PREMIER",
+      "sigla": "LEGA",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4132",
+        "nome": "LEGA - SALVINI PREMIER",
+        "sigla": "LEGA",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-11",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3986",
+        "nome": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER IL MEDITERRANEO E PER L'AFRICA",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3985",
+        "nome": "COMITATO PERMANENTE SULLA TUTELA DELLA LIBERTA' RELIGIOSA NELLA SFERA INTERNAZIONALE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3981",
+        "nome": "COMITATO PERMANENTE SULL'ATTUAZIONE DELL'AGENDA 2030 E LO SVILUPPO SOSTENIBILE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3982",
+        "nome": "COMITATO PERMANENTE SUI DIRITTI UMANI NEL MONDO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3503",
+        "nome": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3621",
+        "nome": "GIUNTA DELLE ELEZIONI",
+        "tipo_organo": "GIUNTA PER LE ELEZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3701",
+        "nome": "COMITATO PER LE INCOMPATIBILITA', LE INELEGGIBILITA' E LE DECADENZE",
+        "tipo_organo": "GIUNTA PER LE ELEZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-29",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3722",
+        "nome": "DELEGAZIONE ITALIANA PRESSO L'ASSEMBLEA PARLAMENTARE DEL CONSIGLIO D'EUROPA",
+        "tipo_organo": "DELEGAZIONE PARLAMENTARE PRESSO ASSEMBLEA INTERNAZIONALE",
+        "ruolo": "Titolare",
+        "dal": "2023-01-12",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4369",
+        "nome": "COMITATO PERMANENTE SUL COMMERCIO INTERNAZIONALE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4365",
+        "nome": "COMITATO PERMANENTE SUI DIRITTI UMANI NEL MONDO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4361",
+        "nome": "COMITATO PERMANENTE PER L'ATTUAZIONE DELL'AGENDA 2030 E LO SVILUPPO SOSTENIBILE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER IL MEDITERRANEO E PER L'AFRICA",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "Gruppo LEGA",
+        "dal": "2022-10-18",
+        "al": null
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMITATO PERMANENTE SUL COMMERCIO INTERNAZIONALE",
+        "dal": "2025-09-18",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307688",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307688",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307688_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307688#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/7e51a7eb-25d9-44eb-bf9d-ae06d0243721"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/c5353eeb-4592-46ee-a4a9-447baaad758a"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/2ae9b423-ed4c-4b80-8d65-21020bba6d40"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/913e183c-c047-4fea-9504-9af882234c00"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/COIN_DIMITRI.pdf?t=1751725942"
+}

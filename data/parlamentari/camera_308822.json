@@ -1,0 +1,186 @@
+{
+  "id": "camera_308822",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Emanuele",
+    "cognome": "Pozzolo",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308822.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308822&legislatura=19",
+    "data_nascita": "1985-08-25",
+    "luogo_nascita": "Vercelli",
+    "titolo_studio": "Laurea in giurisprudenza",
+    "professione": "Consulente legale"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "PIEMONTE 2 - P01",
+    "collegio": null,
+    "lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4111",
+      "nome": "MISTO",
+      "sigla": "MISTO",
+      "dal": "2025-05-14",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": "2025-05-14",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4111",
+        "nome": "MISTO",
+        "sigla": "MISTO",
+        "dal": "2025-05-14",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 1,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3503",
+        "nome": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2024-10-31"
+      },
+      {
+        "organo_id": "o19_3504",
+        "nome": "IV COMMISSIONE (DIFESA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2024-10-31",
+        "al": "2024-11-05"
+      },
+      {
+        "organo_id": "o19_3503",
+        "nome": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Sostituto",
+        "dal": "2024-10-31",
+        "al": "2024-11-05"
+      },
+      {
+        "organo_id": "o19_3503",
+        "nome": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2024-11-05",
+        "al": "2025-05-16"
+      },
+      {
+        "organo_id": "o19_3981",
+        "nome": "COMITATO PERMANENTE SULL'ATTUAZIONE DELL'AGENDA 2030 E LO SVILUPPO SOSTENIBILE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3985",
+        "nome": "COMITATO PERMANENTE SULLA TUTELA DELLA LIBERTA' RELIGIOSA NELLA SFERA INTERNAZIONALE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3982",
+        "nome": "COMITATO PERMANENTE SUI DIRITTI UMANI NEL MONDO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3507",
+        "nome": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-05-16",
+        "al": "2026-06-09"
+      },
+      {
+        "organo_id": "o19_3503",
+        "nome": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2026-06-09",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMITATO PERMANENTE SULL'ATTUAZIONE DELL'AGENDA 2030 E LO SVILUPPO SOSTENIBILE",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "PRESIDENTE",
+        "organo": "COMITATO PERMANENTE SULLA TUTELA DELLA LIBERTA' RELIGIOSA NELLA SFERA INTERNAZIONALE",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "dal": "2025-05-16",
+        "al": "2026-06-09"
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308822",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308822",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308822_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308822#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/7c02d50c-f1ed-4a9c-a78a-6fff6b28cba9"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/b9479fab-9b56-401b-9c36-02721730715c"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/3a3b5237-cee6-42a5-b701-c3f71a498ceb"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/300b2b78-27cf-4f9b-ab05-5f5c0e981994"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/POZZOLO_EMANUELE.pdf?t=1772211701"
+}

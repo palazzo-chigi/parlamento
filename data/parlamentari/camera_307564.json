@@ -1,0 +1,159 @@
+{
+  "id": "camera_307564",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Anna Laura",
+    "cognome": "Orrico",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307564.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307564&legislatura=19",
+    "data_nascita": "1980-12-29",
+    "luogo_nascita": "Cosenza",
+    "titolo_studio": "Laurea in scienze politiche",
+    "professione": "Imprenditore del settore dei servizi"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "CALABRIA - P01",
+    "collegio": null,
+    "lista": "MOVIMENTO 5 STELLE",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-01",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-01",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4131",
+      "nome": "MOVIMENTO 5 STELLE",
+      "sigla": "M5S",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4131",
+        "nome": "MOVIMENTO 5 STELLE",
+        "sigla": "M5S",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-10",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3507",
+        "nome": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2023-06-20"
+      },
+      {
+        "organo_id": "o19_3511",
+        "nome": "XI COMMISSIONE (LAVORO PUBBLICO E PRIVATO)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-06-20",
+        "al": "2023-07-12"
+      },
+      {
+        "organo_id": "o19_3621",
+        "nome": "GIUNTA DELLE ELEZIONI",
+        "tipo_organo": "GIUNTA PER LE ELEZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3701",
+        "nome": "COMITATO PER LE INCOMPATIBILITA', LE INELEGGIBILITA' E LE DECADENZE",
+        "tipo_organo": "GIUNTA PER LE ELEZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-29",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3801",
+        "nome": "COMMISSIONE PARLAMENTARE PER L'INDIRIZZO GENERALE E LA VIGILANZA DEI SERVIZI RADIOTELEVISIVI",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI INDIRIZZO, VIGILANZA E CONTROLLO",
+        "ruolo": "Titolare",
+        "dal": "2023-03-14",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3507",
+        "nome": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-12",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "dal": "2022-11-09",
+        "al": "2023-06-20"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "dal": "2023-07-12",
+        "al": "2023-07-18"
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307564",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307564",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307564_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307564#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/94ddb0f9-a259-47c2-bced-d2942689189f"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/c73e3492-58a2-4070-94e6-53d405b14627"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/a224aced-3c6a-4237-98bb-65905ada49e6"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/6f4ce838-8771-427a-bdc6-5d87fd9d54b0"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/ceeda322-92e1-4c8b-bf4e-a6ee5c72e0de"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/ORRICO_ANNA_LAURA.pdf?t=1751726066"
+}

@@ -1,0 +1,165 @@
+{
+  "id": "camera_301439",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Lorenzo",
+    "cognome": "Cesa",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d301439.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=301439&legislatura=19",
+    "data_nascita": "1951-08-16",
+    "luogo_nascita": "Arcinazzo Romano",
+    "titolo_studio": "Laurea in scienze politiche",
+    "professione": "Parlamentare"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "MOLISE - P01",
+    "collegio": "MOLISE - U01",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4111",
+      "nome": "MISTO",
+      "sigla": "MISTO",
+      "dal": "2024-04-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4111",
+        "nome": "MISTO",
+        "sigla": "MISTO",
+        "dal": "2022-10-18",
+        "al": "2022-10-27",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4152",
+        "nome": "NOI MODERATI",
+        "sigla": "NM(N-C-U-I)M-CP",
+        "dal": "2022-10-27",
+        "al": "2024-04-18",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4111",
+        "nome": "MISTO",
+        "sigla": "MISTO",
+        "dal": "2024-04-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 1,
+    "legislature_precedenti": [
+      {
+        "legislatura": 15,
+        "camera": "Camera",
+        "dal": "2006-04-21",
+        "al": "2008-04-28"
+      },
+      {
+        "legislatura": 16,
+        "camera": "Camera",
+        "dal": "2008-04-22",
+        "al": "2013-03-14"
+      },
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-05",
+        "al": "2014-06-25"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3509",
+        "nome": "IX COMMISSIONE (TRASPORTI, POSTE E TELECOMUNICAZIONI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2024-05-13"
+      },
+      {
+        "organo_id": "o19_3861",
+        "nome": "DELEGAZIONE ITALIANA PRESSO L'ASSEMBLEA PARLAMENTARE DELLA NATO",
+        "tipo_organo": "DELEGAZIONE PARLAMENTARE PRESSO ASSEMBLEA INTERNAZIONALE",
+        "ruolo": "Titolare",
+        "dal": "2023-05-04",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3514",
+        "nome": "XIV COMMISSIONE (POLITICHE DELL'UNIONE EUROPEA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2024-05-13",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "IX COMMISSIONE (TRASPORTI, POSTE E TELECOMUNICAZIONI)",
+        "dal": "2022-11-09",
+        "al": "2024-04-18"
+      },
+      {
+        "carica": "PRESIDENTE",
+        "organo": "DELEGAZIONE ITALIANA PRESSO L'ASSEMBLEA PARLAMENTARE DELLA NATO",
+        "dal": "2023-05-09",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "XIV COMMISSIONE (POLITICHE DELL'UNIONE EUROPEA)",
+        "dal": "2024-05-13",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-301439",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;301439",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d301439_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-301439#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/f0126d50-c433-43ab-af5e-60bba747d6ed"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/f57c2b6c-1cad-4629-9c9e-b75f843f0e0e"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/06580808-d1f4-4ca0-89d2-5e3b413f613a"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/56e741b2-62f4-46ee-8439-c38babe505d7"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/CESA_LORENZO.pdf?t=1751725942"
+}

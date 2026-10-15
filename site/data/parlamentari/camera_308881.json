@@ -1,0 +1,118 @@
+{
+  "id": "camera_308881",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Emiliano",
+    "cognome": "Fossi",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308881.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308881&legislatura=19",
+    "data_nascita": "1973-09-02",
+    "luogo_nascita": "Firenze",
+    "titolo_studio": "Laurea in scienze politiche",
+    "professione": "già Sindaco comune di Campi Bisenzio"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "TOSCANA - P03",
+    "collegio": "TOSCANA - U08",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4136",
+      "nome": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+      "sigla": "PD-IDP",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4136",
+        "nome": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+        "sigla": "PD-IDP",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3511",
+        "nome": "XI COMMISSIONE (LAVORO PUBBLICO E PRIVATO)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4023",
+        "nome": "COMMISSIONE PARLAMENTARE PER LE QUESTIONI REGIONALI",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI RANGO COSTITUZIONALE",
+        "ruolo": "Titolare",
+        "dal": "2023-09-07",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4082",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA MORTE DI DAVID ROSSI",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-11-08",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA MORTE DI DAVID ROSSI",
+        "dal": "2024-03-05",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308881",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308881",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308881_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308881#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/048b7777-f33b-42ce-a545-a4e4163d06d9"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/019ae3a6-1943-4f43-a22b-d9e1c8f0503b"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/7e7a9cbc-6129-4a66-a0fc-2f07ea1cdb0d"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/0e068ea7-96d1-48d5-be69-1f9a6f56f707"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/FOSSI_EMILIANO.pdf?t=1751726039"
+}

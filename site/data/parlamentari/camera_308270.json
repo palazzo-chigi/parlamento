@@ -1,0 +1,95 @@
+{
+  "id": "camera_308270",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Alessandra",
+    "cognome": "Todde",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308270.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308270&legislatura=19",
+    "data_nascita": "1969-02-06",
+    "luogo_nascita": "Nuoro",
+    "titolo_studio": "Laurea in informatica",
+    "professione": "Dirigente di azienda privata"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "LOMBARDIA 2 - P01",
+    "collegio": null,
+    "lista": "MOVIMENTO 5 STELLE",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-10",
+    "data_convalida": null,
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-10",
+    "fine": "2024-04-09",
+    "motivo_fine": "Dimissioni per incompatibilita'",
+    "in_carica": false,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": null,
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4131",
+        "nome": "MOVIMENTO 5 STELLE",
+        "sigla": "M5S",
+        "dal": "2022-10-18",
+        "al": "2024-04-09",
+        "motivo_fine": "Dimissioni per incompatibilita'"
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3510",
+        "nome": "X COMMISSIONE (ATTIVITA'  PRODUTTIVE, COMMERCIO E TURISMO)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2024-04-09"
+      },
+      {
+        "organo_id": "o19_3962",
+        "nome": "COMMISSIONE PARLAMENTARE PER IL CONTRASTO DEGLI SVANTAGGI DERIVANTI DALL'INSULARITA'",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI INDIRIZZO, VIGILANZA E CONTROLLO",
+        "ruolo": "Titolare",
+        "dal": "2023-07-12",
+        "al": "2024-04-09"
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMMISSIONE PARLAMENTARE PER IL CONTRASTO DEGLI SVANTAGGI DERIVANTI DALL'INSULARITA'",
+        "dal": "2023-07-26",
+        "al": "2024-04-09"
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308270",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308270",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308270_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308270#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/bb3c9e7d-209d-4ff9-b56d-b15f7fc0f73e"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/7e456309-4540-4c45-8bea-baa4fb108edc"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/TODDE_ALESSANDRA.pdf?t=1772208729"
+}

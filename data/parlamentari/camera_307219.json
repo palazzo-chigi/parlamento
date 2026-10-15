@@ -1,0 +1,123 @@
+{
+  "id": "camera_307219",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Salvatore",
+    "cognome": "Deidda",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307219.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307219&legislatura=19",
+    "data_nascita": "1976-10-07",
+    "luogo_nascita": "Cagliari",
+    "titolo_studio": "Diploma di istituto tecnico agrario",
+    "professione": "Funzionario consorzio di bonifica Sardegna meridionale, Imprenditore agricolo non a titolo principale"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "SARDEGNA - P01",
+    "collegio": null,
+    "lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-19",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3721",
+        "nome": "CONFERENZA DEI PRESIDENTI DELLE COMMISSIONI PERMANENTI",
+        "tipo_organo": "CONFERENZA DEI PRESIDENTI DELLE COMMISSIONI PERMANENTI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3509",
+        "nome": "IX COMMISSIONE (TRASPORTI, POSTE E TELECOMUNICAZIONI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "PRESIDENTE",
+        "organo": "IX COMMISSIONE (TRASPORTI, POSTE E TELECOMUNICAZIONI)",
+        "dal": "2022-11-09",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "PRESIDENTE",
+        "organo": "IX COMMISSIONE (TRASPORTI, POSTE E TELECOMUNICAZIONI)",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307219",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307219",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307219_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307219#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/c45a3eba-efc5-48ae-bb11-82a272dce862"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/2efbe9ca-19c8-4aab-bcef-7a9525d06fec"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/ce74948b-c1ea-4811-bf4e-982d626ab91c"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/c1c5769d-2b5a-47e0-a472-784d9b90c615"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/DEIDDA_SALVATORE.pdf?t=1751725953"
+}

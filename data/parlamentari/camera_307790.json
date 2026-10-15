@@ -1,0 +1,130 @@
+{
+  "id": "camera_307790",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Gianmauro",
+    "cognome": "Dell'Olio",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307790.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307790&legislatura=19",
+    "data_nascita": "1968-03-07",
+    "luogo_nascita": "Bari",
+    "titolo_studio": "Laurea in economia aziendale, Executive MBA (Ross School of business, Michigan University)",
+    "professione": "Commercialista; Consulente aziendale"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "PUGLIA - P02",
+    "collegio": null,
+    "lista": "MOVIMENTO 5 STELLE",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4131",
+      "nome": "MOVIMENTO 5 STELLE",
+      "sigla": "M5S",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4131",
+        "nome": "MOVIMENTO 5 STELLE",
+        "sigla": "M5S",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3543",
+        "nome": "COMMISSIONE SPECIALE ISTITUITA IL 19 OTTOBRE 2022, AI SENSI DELL'ARTICOLO 22, COMMA 2, DEL REGOLAMENTO",
+        "tipo_organo": "COMMISSIONE SPECIALE",
+        "ruolo": "Titolare",
+        "dal": "2022-10-21",
+        "al": "2022-11-09"
+      },
+      {
+        "organo_id": "o19_3505",
+        "nome": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4161",
+        "nome": "COMMISSIONE PARLAMENTARE DI VIGILANZA SULLA CASSA DEPOSITI E PRESTITI",
+        "tipo_organo": "COMMISSIONE MISTA",
+        "ruolo": "Titolare",
+        "dal": "2024-02-14",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE SPECIALE ISTITUITA IL 19 OTTOBRE 2022, AI SENSI DELL'ARTICOLO 22, COMMA 2, DEL REGOLAMENTO",
+        "dal": "2022-11-07",
+        "al": "2022-11-09"
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "dal": "2022-11-09",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307790",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307790",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307790_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307790#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/605886ca-9a21-4e90-8e58-b3ab58f9dfcd"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/b0e28d69-b0cd-45d1-8288-7f3769b6f641"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/eb7864b8-fa6c-4961-8545-d40d6d3ef479"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/727c07ae-0cb7-41fe-8006-d335cc01cb78"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/DELLOLIO_GIANMAURO.pdf?t=1751725953"
+}

@@ -1,0 +1,134 @@
+{
+  "id": "camera_308937",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Alice",
+    "cognome": "Buonguerrieri",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308937.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308937&legislatura=19",
+    "data_nascita": "1978-09-04",
+    "luogo_nascita": "Bagno Di Romagna",
+    "titolo_studio": "Laurea in giurisprudenza",
+    "professione": "Avvocato patrocinante nelle giurisdizioni superiori"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "EMILIA-ROMAGNA - P03",
+    "collegio": "EMILIA-ROMAGNA - U08",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2025-07-29",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3502",
+        "nome": "II COMMISSIONE (GIUSTIZIA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3621",
+        "nome": "GIUNTA DELLE ELEZIONI",
+        "tipo_organo": "GIUNTA PER LE ELEZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3701",
+        "nome": "COMITATO PER LE INCOMPATIBILITA', LE INELEGGIBILITA' E LE DECADENZE",
+        "tipo_organo": "GIUNTA PER LE ELEZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-29",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4281",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA GESTIONE DELL'EMERGENZA SANITARIA CAUSATA DALLA DIFFUSIONE EPIDEMICA DEL VIRUS SARS-COV-2 E SULLE MISURE ADOTTATE PER PREVENIRE E AFFRONTARE L'EMERGENZA EPIDEMIOLOGICA DA SARS-COV-2",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2024-08-07",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4321",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUL RISCHIO IDROGEOLOGICO E SISMICO DEL TERRITORIO ITALIANO, SULL'ATTUAZIONE DELLE NORME DI PREVENZIONE E SICUREZZA E SUGLI INTERVENTI DI EMERGENZA E DI RICOSTRUZIONE A SEGUITO DEGLI EVENTI CALAMITOSI VERIFICATISI DALL'ANNO 2019",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2025-03-05",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUL RISCHIO IDROGEOLOGICO E SISMICO DEL TERRITORIO ITALIANO, SULL'ATTUAZIONE DELLE NORME DI PREVENZIONE E SICUREZZA E SUGLI INTERVENTI DI EMERGENZA E DI RICOSTRUZIONE A SEGUITO DEGLI EVENTI CALAMITOSI VERIFICATISI DALL'ANNO 2019",
+        "dal": "2025-03-12",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308937",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308937",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308937_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308937#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/ffd8fa9d-199a-4099-bfca-91f3d63f5ad1"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/9803ad6e-f6a5-42cb-8219-792a7c6f0fac"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/419a8d95-80d6-42d2-901f-ce1a4b7428dc"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/fca597e0-4ea4-4241-a090-412df9463cce"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/BUONGUERRIERI_ALICE.pdf?t=1751725941"
+}

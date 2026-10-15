@@ -1,0 +1,122 @@
+{
+  "id": "camera_301457",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Paola",
+    "cognome": "Frassinetti",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d301457.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=301457&legislatura=19",
+    "data_nascita": "1956-05-02",
+    "luogo_nascita": "Genova",
+    "titolo_studio": "Laurea in giurisprudenza",
+    "professione": "Avvocato"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "LOMBARDIA 1 - P02",
+    "collegio": "LOMBARDIA 1 - U01",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-03",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-10-03",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 15,
+        "camera": "Camera",
+        "dal": "2006-04-21",
+        "al": "2008-04-28"
+      },
+      {
+        "legislatura": 16,
+        "camera": "Camera",
+        "dal": "2008-04-22",
+        "al": "2013-03-14"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-13",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3507",
+        "nome": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2025-06-10"
+      },
+      {
+        "organo_id": "o19_3506",
+        "nome": "VI COMMISSIONE (FINANZE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ],
+    "incarichi": []
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-301457",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;301457",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d301457_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-301457#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/ae245099-fff2-4edb-88ba-5bf955de9ae9"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/0be4c09b-f78b-4b41-a8d9-cf4be795bf2a"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/cd162e8e-56f1-44ce-8334-e9d26ebfc533"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/78f36eb8-b012-4b1d-b924-0e8d1abbcecf"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/FRASSINETTI_PAOLA.pdf?t=1751726039"
+}

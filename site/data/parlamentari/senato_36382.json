@@ -1,0 +1,135 @@
+{
+  "id": "senato_36382",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Paola",
+    "cognome": "Ambrogio",
+    "genere": "F",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Paola%20Ambrogio%20XIX.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00036382.jpg",
+    "data_nascita": "1970-12-02",
+    "luogo_nascita": "Torino",
+    "titolo_studio": null,
+    "professione": "Amministratore locale"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "Piemonte",
+    "collegio": "PIEMONTE - U02 (MONCALIERI)",
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto uninominale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "85",
+      "nome": "Fratelli d'Italia",
+      "sigla": "FdI",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "85",
+        "nome": "Fratelli d'Italia",
+        "sigla": "FdI",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-21",
+        "nome": "Giunta delle elezioni e delle immunita' parlamentari",
+        "tipo_organo": "Giunte",
+        "ruolo": "Membro",
+        "dal": "2022-11-10",
+        "al": "2022-11-14"
+      },
+      {
+        "organo_id": "0-5",
+        "nome": "5ª Commissione permanente Bilancio",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-43",
+        "nome": "Comitato parlamentare per i procedimenti di accusa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "0-21",
+        "nome": "Giunta delle elezioni e delle immunita' parlamentari",
+        "tipo_organo": "Giunte",
+        "ruolo": "Segretario",
+        "dal": "2022-11-15",
+        "al": null
+      },
+      {
+        "organo_id": "4-27",
+        "nome": "Commissione parlamentare per l'infanzia e l'adolescenza",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-07-06",
+        "al": null
+      },
+      {
+        "organo_id": "4-40",
+        "nome": "Commissione parlamentare per le questioni regionali Commissione parlamentare questioni regionali",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-09-07",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Segretario",
+        "organo": "Giunta delle elezioni e delle immunita' parlamentari",
+        "dal": "2022-11-15",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Ambrogio_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Ambrogio_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00036382.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/36382",
+    "wikidata": "http://www.wikidata.org/entity/Q114878608",
+    "aggiornato_il": "2026-10-14"
+  }
+}

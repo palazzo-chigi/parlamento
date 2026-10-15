@@ -1,0 +1,125 @@
+{
+  "id": "camera_308101",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Lucrezia Maria Benedetta",
+    "cognome": "Mantovani",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308101.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308101&legislatura=19",
+    "data_nascita": "1984-05-20",
+    "luogo_nascita": "Milano",
+    "titolo_studio": "Laurea in scienze linguistiche e letterature straniere",
+    "professione": "Imprenditrice"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "LOMBARDIA 1 - P02",
+    "collegio": "LOMBARDIA 1 - U03",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-03",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-10-03",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2019-03-15",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3514",
+        "nome": "XIV COMMISSIONE (POLITICHE DELL'UNIONE EUROPEA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3722",
+        "nome": "DELEGAZIONE ITALIANA PRESSO L'ASSEMBLEA PARLAMENTARE DEL CONSIGLIO D'EUROPA",
+        "tipo_organo": "DELEGAZIONE PARLAMENTARE PRESSO ASSEMBLEA INTERNAZIONALE",
+        "ruolo": "Supplente",
+        "dal": "2023-01-12",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3961",
+        "nome": "COMMISSIONE PARLAMENTARE PER L'INFANZIA E L'ADOLESCENZA",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI INDIRIZZO, VIGILANZA E CONTROLLO",
+        "ruolo": "Titolare",
+        "dal": "2023-07-12",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "XIV COMMISSIONE (POLITICHE DELL'UNIONE EUROPEA)",
+        "dal": "2022-11-09",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308101",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308101",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308101_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308101#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/82649b42-db99-41f5-82c0-a3cc57531f5d"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/e98e8156-f4af-428c-98d0-4633b2a73bdf"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/85cc90e0-41aa-47d4-9393-285e797255f3"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/a0af66d2-4046-42a0-b8de-6211d3a317e8"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/MANTOVANI_LUCREZIA_MARIA_BENEDETTA.pdf?t=1751726046"
+}

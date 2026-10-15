@@ -1,0 +1,118 @@
+{
+  "id": "camera_306417",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Bachisio Silvio",
+    "cognome": "Lai",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d306417.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=306417&legislatura=19",
+    "data_nascita": "1966-07-20",
+    "luogo_nascita": "Sassari",
+    "titolo_studio": "Dottorato di ricerca",
+    "professione": "Dirigente di azienda privata"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "SARDEGNA - P01",
+    "collegio": null,
+    "lista": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4136",
+      "nome": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+      "sigla": "PD-IDP",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4136",
+        "nome": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+        "sigla": "PD-IDP",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3505",
+        "nome": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3517",
+        "nome": "COMITATO PER LA LEGISLAZIONE",
+        "tipo_organo": "COMITATO PER LA LEGISLAZIONE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3962",
+        "nome": "COMMISSIONE PARLAMENTARE PER IL CONTRASTO DEGLI SVANTAGGI DERIVANTI DALL'INSULARITA'",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI INDIRIZZO, VIGILANZA E CONTROLLO",
+        "ruolo": "Titolare",
+        "dal": "2023-07-12",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "COMMISSIONE PARLAMENTARE PER IL CONTRASTO DEGLI SVANTAGGI DERIVANTI DALL'INSULARITA'",
+        "dal": "2023-07-26",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-306417",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;306417",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d306417_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-306417#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/f65de570-e3f7-4685-bb88-10f176e6a131"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/2f5c51e3-e736-4bbc-bfb1-c88e24ac1f3e"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/39551752-e6f8-48c7-a2a4-533e095ab208"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/806c70fb-405a-467b-97ec-c552e63666e8"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/LAI_SILVIO.pdf?t=1751726046"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "senato_29604",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Valeria",
+    "cognome": "Valente",
+    "genere": "F",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Valeria%20Valente%20datisenato%202018.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00029604.jpg",
+    "data_nascita": "1976-09-16",
+    "luogo_nascita": "Napoli",
+    "titolo_studio": null,
+    "professione": "Avvocato"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Puglia",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "49",
+      "nome": "Partito Democratico - Italia Democratica e Progressista",
+      "sigla": "PD-IDP",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-15",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Senato",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-74",
+        "nome": "Commissione speciale per l'esame degli atti urgenti presentati dal Governo Commissione speciale su atti urgenti del Governo",
+        "tipo_organo": "Commissioni speciali e Commissioni di inchiesta monocamerali",
+        "ruolo": "Membro",
+        "dal": "2022-10-25",
+        "al": "2022-11-10"
+      },
+      {
+        "organo_id": "0-1",
+        "nome": "1ª Commissione permanente Affari Costituzionali",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-53",
+        "nome": "Commissione parlamentare di inchiesta sul fenomeno delle mafie e sulle altre associazioni criminali, anche straniere Commissione d'inchiesta sul fenomeno delle mafie",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-05-17",
+        "al": null
+      },
+      {
+        "organo_id": "4-223",
+        "nome": "Commissione parlamentare di inchiesta sul femminicidio, nonché su ogni forma di violenza di genere Commissione di inchiesta femminicidio e violenza di genere",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-06-29",
+        "al": null
+      }
+    ],
+    "incarichi": []
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2018,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2018/Valente_2018.pdf"
+    },
+    {
+      "anno": 2019,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2019/Valente_2019.pdf"
+    },
+    {
+      "anno": 2020,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2020/Valente_2020.pdf"
+    },
+    {
+      "anno": 2021,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2021/Valente_2021.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2022/Valente_2022.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Valente_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Valente_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00029604.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/29604",
+    "wikidata": "http://www.wikidata.org/entity/Q15708588",
+    "aggiornato_il": "2026-10-14"
+  }
+}

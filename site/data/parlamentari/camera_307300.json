@@ -1,0 +1,129 @@
+{
+  "id": "camera_307300",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Jacopo",
+    "cognome": "Morrone",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307300.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307300&legislatura=19",
+    "data_nascita": "1983-01-23",
+    "luogo_nascita": "Forli'",
+    "titolo_studio": "Laurea in giurisprudenza",
+    "professione": "Avvocato"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "EMILIA-ROMAGNA - P03",
+    "collegio": "EMILIA-ROMAGNA - U11",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4132",
+      "nome": "LEGA - SALVINI PREMIER",
+      "sigla": "LEGA",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4132",
+        "nome": "LEGA - SALVINI PREMIER",
+        "sigla": "LEGA",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-19",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3502",
+        "nome": "II COMMISSIONE (GIUSTIZIA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4021",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE ATTIVITA' ILLECITE CONNESSE AL CICLO DEI RIFIUTI E SU ALTRI ILLECITI AMBIENTALI E AGROALIMENTARI",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-09-07",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "II COMMISSIONE (GIUSTIZIA)",
+        "dal": "2022-11-09",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "PRESIDENTE",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE ATTIVITA' ILLECITE CONNESSE AL CICLO DEI RIFIUTI E SU ALTRI ILLECITI AMBIENTALI E AGROALIMENTARI",
+        "dal": "2023-09-12",
+        "al": null
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "II COMMISSIONE (GIUSTIZIA)",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307300",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307300",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307300_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307300#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/26ccbf19-ac91-4e14-a84c-b6ff5da0c0bc"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/65d0db42-bddb-48db-bf9e-143cb35647c5"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/1d3b4e44-b2f2-46ef-9142-dabebdbbcc0d"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/88bd1aca-8bc2-4270-a9f6-fe4323438395"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/MORRONE_JACOPO.pdf?t=1751726066"
+}

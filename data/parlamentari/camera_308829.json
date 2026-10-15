@@ -1,0 +1,130 @@
+{
+  "id": "camera_308829",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Rita",
+    "cognome": "Dalla Chiesa",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308829.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308829&legislatura=19",
+    "data_nascita": "1947-08-31",
+    "luogo_nascita": "Casoria",
+    "titolo_studio": "Diploma di liceo linguistico",
+    "professione": "Giornalista professionista"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "PUGLIA - P02",
+    "collegio": "PUGLIA - U04",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4134",
+      "nome": "FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE",
+      "sigla": "FI-PPE",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4134",
+        "nome": "FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE",
+        "sigla": "FI-PPE",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3941",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUL FEMMINICIDIO, NONCHE' SU OGNI FORMA DI VIOLENZA DI GENERE",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-07-03",
+        "al": "2026-02-05"
+      },
+      {
+        "organo_id": "o19_3507",
+        "nome": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3801",
+        "nome": "COMMISSIONE PARLAMENTARE PER L'INDIRIZZO GENERALE E LA VIGILANZA DEI SERVIZI RADIOTELEVISIVI",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI INDIRIZZO, VIGILANZA E CONTROLLO",
+        "ruolo": "Titolare",
+        "dal": "2023-03-14",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "dal": "2022-11-10",
+        "al": "2024-07-09"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUL FEMMINICIDIO, NONCHE' SU OGNI FORMA DI VIOLENZA DI GENERE",
+        "dal": "2023-08-29",
+        "al": "2026-02-05"
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "Gruppo FI-PPE",
+        "dal": "2023-04-04",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308829",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308829",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308829_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308829#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/093a5909-0533-4984-a675-c3bf1e3fe63c"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/642bde36-0933-4e19-80a6-880e5dbc94dd"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/096fb3c7-0503-4efb-9ea1-2244945459e2"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/45be3712-1981-427b-a848-79148b5ee0f9"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/DALLA_CHIESA_RITA.pdf?t=1751725953"
+}

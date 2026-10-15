@@ -1,0 +1,80 @@
+{
+  "id": "senato_36389",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Carlo",
+    "cognome": "Cottarelli",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlo%20Cottarelli%20Quirinale%20%28cropped%29.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00036389.jpg",
+    "data_nascita": "1954-08-18",
+    "luogo_nascita": "Cremona",
+    "titolo_studio": null,
+    "professione": "Docente universitario"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Lombardia",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": "2023-05-31",
+    "motivo_fine": null,
+    "in_carica": false,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": null,
+    "storico_gruppi": [
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": "2023-05-31",
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-6",
+        "nome": "6ª Commissione permanente Finanze e tesoro",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2023-05-31"
+      }
+    ],
+    "incarichi": []
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Cottarelli_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Cottarelli_2023_2.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00036389.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/36389",
+    "wikidata": "http://www.wikidata.org/entity/Q16536907",
+    "aggiornato_il": "2026-10-14"
+  }
+}

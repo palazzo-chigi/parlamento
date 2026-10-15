@@ -1,0 +1,91 @@
+{
+  "id": "camera_309140",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Antonio",
+    "cognome": "Ferrara",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d309140.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=309140&legislatura=19",
+    "data_nascita": "1970-01-28",
+    "luogo_nascita": "Varese",
+    "titolo_studio": "Bachelor Hons. Degree Hospitality Management",
+    "professione": null
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "LOMBARDIA 2 - P01",
+    "collegio": null,
+    "lista": "MOVIMENTO 5 STELLE",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2024-04-09",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2024-04-09",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4131",
+      "nome": "MOVIMENTO 5 STELLE",
+      "sigla": "M5S",
+      "dal": "2024-04-10",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4131",
+        "nome": "MOVIMENTO 5 STELLE",
+        "sigla": "M5S",
+        "dal": "2024-04-10",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3510",
+        "nome": "X COMMISSIONE (ATTIVITA'  PRODUTTIVE, COMMERCIO E TURISMO)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2024-04-12",
+        "al": null
+      }
+    ],
+    "incarichi": []
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-309140",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;309140",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d309140_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-309140#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/926d8e50-08a8-481c-b023-fc411fcdb752"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/af71d91f-5776-4835-91f9-66195fd90c6a"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/fbcabbb3-878b-488a-82c4-8e59f0dc3471"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/FERRARA_ANTONIO.pdf?t=1751726039"
+}

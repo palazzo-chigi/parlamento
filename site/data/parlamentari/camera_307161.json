@@ -1,0 +1,110 @@
+{
+  "id": "camera_307161",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Nicola",
+    "cognome": "Care'",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307161.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307161&legislatura=19",
+    "data_nascita": "1960-07-31",
+    "luogo_nascita": "Guardavalle",
+    "titolo_studio": null,
+    "professione": "Imprenditore"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "AFRICA ASIA OCEANIA ANTARTIDE",
+    "collegio": null,
+    "lista": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-04",
+    "data_convalida": "2026-02-18",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-04",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4136",
+      "nome": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+      "sigla": "PD-IDP",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4136",
+        "nome": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+        "sigla": "PD-IDP",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-16",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3504",
+        "nome": "IV COMMISSIONE (DIFESA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3861",
+        "nome": "DELEGAZIONE ITALIANA PRESSO L'ASSEMBLEA PARLAMENTARE DELLA NATO",
+        "tipo_organo": "DELEGAZIONE PARLAMENTARE PRESSO ASSEMBLEA INTERNAZIONALE",
+        "ruolo": "Titolare",
+        "dal": "2023-05-04",
+        "al": null
+      }
+    ],
+    "incarichi": []
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307161",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307161",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307161_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307161#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/63d2abf2-218f-45d4-b0b8-2ba0f07e508f"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/e7080d63-06a1-48c5-a275-39327da726c1"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/357312ea-8414-47e7-aad2-031cbfbe4da2"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/e0197d77-3e98-4a31-bddf-b177ec7b427e"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/CARE_NICOLA.pdf?t=1751725941"
+}

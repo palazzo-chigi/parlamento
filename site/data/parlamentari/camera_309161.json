@@ -1,0 +1,112 @@
+{
+  "id": "camera_309161",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Maria Paola",
+    "cognome": "Boscaini",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d309161.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=309161&legislatura=19",
+    "data_nascita": "1954-09-22",
+    "luogo_nascita": "Bussolengo",
+    "titolo_studio": "Laurea in economia aziendale",
+    "professione": null
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "VENETO 2 - P03",
+    "collegio": null,
+    "lista": "FORZA ITALIA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2024-07-09",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2024-07-09",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4134",
+      "nome": "FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE",
+      "sigla": "FI-PPE",
+      "dal": "2024-07-09",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4134",
+        "nome": "FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE",
+        "sigla": "FI-PPE",
+        "dal": "2024-07-09",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3509",
+        "nome": "IX COMMISSIONE (TRASPORTI, POSTE E TELECOMUNICAZIONI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2024-07-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4301",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUGLI EFFETTI ECONOMICI E SOCIALI DERIVANTI DALLA TRANSIZIONE DEMOGRAFICA IN ATTO",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2025-01-16",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUGLI EFFETTI ECONOMICI E SOCIALI DERIVANTI DALLA TRANSIZIONE DEMOGRAFICA IN ATTO",
+        "dal": "2025-02-14",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "IX COMMISSIONE (TRASPORTI, POSTE E TELECOMUNICAZIONI)",
+        "dal": "2026-06-11",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-309161",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;309161",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d309161_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-309161#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/81e94540-072a-4655-8bf3-408e271afc72"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/7cfce00a-e5a8-4b03-97cb-9d9f0d7c0918"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/3e7c70f5-a461-41ab-8034-5639eecdcc44"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/BOSCAINI_MARIA_PAOLA.pdf?t=1751725941"
+}

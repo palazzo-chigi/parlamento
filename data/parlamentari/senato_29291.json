@@ -1,0 +1,148 @@
+{
+  "id": "senato_29291",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Mario Alejandro",
+    "cognome": "Borghese",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Borghese%20daticamera%202018.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00029291.jpg",
+    "data_nascita": "1981-04-14",
+    "luogo_nascita": "CORDOBA (Argentina)",
+    "titolo_studio": null,
+    "professione": "Medico"
+  },
+  "elezione": {
+    "tipo": "estero",
+    "circoscrizione": "AMERICA MERIDIONALE",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "circoscrizioni estere"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "92",
+      "nome": "Civici d'Italia-UDC-Noi Moderati (Noi con l'Italia, Coraggio Italia, Italia al Centro)-MAIE-Centro Popolare",
+      "sigla": "Cd'I-UDC-NM (NcI, CI, IaC)-MAIE-CP",
+      "carica": "Tesoriere",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "92",
+        "nome": "Civici d'Italia-UDC-Noi Moderati (Noi con l'Italia, Coraggio Italia, Italia al Centro)-MAIE-Centro Popolare",
+        "sigla": "Cd'I-UDC-NM (NcI, CI, IaC)-MAIE-CP",
+        "carica": "Tesoriere",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-15",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-1",
+        "nome": "1ª Commissione permanente Affari Costituzionali",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2024-11-05"
+      },
+      {
+        "organo_id": "0-5",
+        "nome": "5ª Commissione permanente Bilancio",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-90",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea del Consiglio d'Europa Delegazione italiana presso l'Assemblea Consiglio d'Europa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-01-11",
+        "al": null
+      },
+      {
+        "organo_id": "4-68",
+        "nome": "Commissione parlamentare per il controllo sull'attivita' degli enti gestori di forme obbligatorie di previdenza e assistenza sociale Commissione di controllo enti gestori previdenza assistenza",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-09-07",
+        "al": null
+      },
+      {
+        "organo_id": "4-128",
+        "nome": "Commissione parlamentare di inchiesta sulle attività illecite connesse al ciclo dei rifiuti e su altri illeciti ambientali e agroalimentari Commissione di inchiesta sul ciclo dei rifiuti e illeciti ambientali e agroalimentari",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-09-07",
+        "al": null
+      },
+      {
+        "organo_id": "4-71",
+        "nome": "Parlamentari membri della Commissione di vigilanza sulla Cassa Depositi e Prestiti Commissione di vigilanza Cassa Depositi e Prestiti",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-02-13",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Tesoriere",
+        "organo": "Gruppo Cd'I-UDC-NM (NcI, CI, IaC)-MAIE-CP",
+        "dal": "2022-10-18",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Borghese_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Borghese_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00029291.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/29291",
+    "wikidata": "http://www.wikidata.org/entity/Q15144716",
+    "aggiornato_il": "2026-10-14"
+  }
+}

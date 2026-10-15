@@ -1,0 +1,150 @@
+{
+  "id": "camera_308929",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Aboubakar",
+    "cognome": "Soumahoro",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308929.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308929&legislatura=19",
+    "data_nascita": "1980-06-06",
+    "luogo_nascita": "Betroulilie Lakota",
+    "titolo_studio": "Laurea in sociologia",
+    "professione": "ATTIVISTA SOCIALE E SINDACALE; SCRITTORE"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "EMILIA-ROMAGNA - P02",
+    "collegio": null,
+    "lista": "ALLEANZA VERDI E SINISTRA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-10",
+    "data_convalida": null,
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-10",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4111",
+      "nome": "MISTO",
+      "sigla": "MISTO",
+      "dal": "2023-01-09",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4111",
+        "nome": "MISTO",
+        "sigla": "MISTO",
+        "dal": "2022-10-18",
+        "al": "2022-10-27",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4154",
+        "nome": "ALLEANZA VERDI E SINISTRA",
+        "sigla": "AVS",
+        "dal": "2022-10-27",
+        "al": "2023-01-09",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4111",
+        "nome": "MISTO",
+        "sigla": "MISTO",
+        "dal": "2023-01-09",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 1,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3513",
+        "nome": "XIII COMMISSIONE (AGRICOLTURA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2023-01-18"
+      },
+      {
+        "organo_id": "o19_3511",
+        "nome": "XI COMMISSIONE (LAVORO PUBBLICO E PRIVATO)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-01-18",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3921",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CONDIZIONI DI LAVORO IN ITALIA, SULLO SFRUTTAMENTO E SULLA TUTELA DELLA SALUTE E DELLA SICUREZZA NEI LUOGHI DI LAVORO PUBBLICI E PRIVATI",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-06-09",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "XIII COMMISSIONE (AGRICOLTURA)",
+        "dal": "2022-11-09",
+        "al": "2023-01-18"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "XI COMMISSIONE (LAVORO PUBBLICO E PRIVATO)",
+        "dal": "2023-01-18",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CONDIZIONI DI LAVORO IN ITALIA, SULLO SFRUTTAMENTO E SULLA TUTELA DELLA SALUTE E DELLA SICUREZZA NEI LUOGHI DI LAVORO PUBBLICI E PRIVATI",
+        "dal": "2023-06-21",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308929",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308929",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308929_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308929#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/3a310c1b-7827-40ef-89d1-4a3b2b0b84a8"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/a3cb04c1-de7c-49d3-b660-10506b266da4"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/95858a9a-c7ad-445b-bef6-a81c967f712b"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/ce29b0b0-f3db-4d02-9434-6e2922bf9763"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/4e4f2212-6f53-401b-8752-23b685053b21"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/SOUMAHORO_ABOUBAKAR.pdf?t=1751726109"
+}

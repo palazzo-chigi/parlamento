@@ -1,0 +1,118 @@
+{
+  "id": "camera_308796",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Marcello",
+    "cognome": "Coppo",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308796.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308796&legislatura=19",
+    "data_nascita": "1978-11-27",
+    "luogo_nascita": "Asti",
+    "titolo_studio": "Laurea in giurisprudenza",
+    "professione": "Avvocato con esperienza nei seguenti campi: lavoro, previdenziale, tributario"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "PIEMONTE 2 - P02",
+    "collegio": "PIEMONTE 2 - U04",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3511",
+        "nome": "XI COMMISSIONE (LAVORO PUBBLICO E PRIVATO)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3621",
+        "nome": "GIUNTA DELLE ELEZIONI",
+        "tipo_organo": "GIUNTA PER LE ELEZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3921",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CONDIZIONI DI LAVORO IN ITALIA, SULLO SFRUTTAMENTO E SULLA TUTELA DELLA SALUTE E DELLA SICUREZZA NEI LUOGHI DI LAVORO PUBBLICI E PRIVATI",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-06-13",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CONDIZIONI DI LAVORO IN ITALIA, SULLO SFRUTTAMENTO E SULLA TUTELA DELLA SALUTE E DELLA SICUREZZA NEI LUOGHI DI LAVORO PUBBLICI E PRIVATI",
+        "dal": "2023-07-04",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308796",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308796",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308796_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308796#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/37df9a50-c768-4ec5-aae2-49b6cbafb99d"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/2d5ac958-4edf-4ef1-841b-a83fd0d65942"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/4f0a4873-f73d-4878-8aea-e688072a8e56"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/ea83e7e9-523b-4a38-b584-d6008f23d162"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/COPPO_MARCELLO.pdf?t=1751725953"
+}

@@ -1,0 +1,217 @@
+{
+  "id": "senato_29406",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Silvia",
+    "cognome": "Fregolent",
+    "genere": "F",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Silvia%20Fregolent%20daticamera%202018.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00029406.jpg",
+    "data_nascita": "1972-01-25",
+    "luogo_nascita": "Torino",
+    "titolo_studio": null,
+    "professione": "Avvocato"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Emilia-Romagna",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "91",
+      "nome": "Italia Viva - Casa Riformista",
+      "sigla": "IV-CR",
+      "carica": "Segretario",
+      "dal": "2022-10-19",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "91",
+        "nome": "Italia Viva - Casa Riformista",
+        "sigla": "IV-CR",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": "2022-10-18",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "91",
+        "nome": "Italia Viva - Casa Riformista",
+        "sigla": "IV-CR",
+        "carica": "Segretario",
+        "dal": "2022-10-19",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-15",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-74",
+        "nome": "Commissione speciale per l'esame degli atti urgenti presentati dal Governo Commissione speciale su atti urgenti del Governo",
+        "tipo_organo": "Commissioni speciali e Commissioni di inchiesta monocamerali",
+        "ruolo": "Segretario",
+        "dal": "2022-10-25",
+        "al": "2022-11-10"
+      },
+      {
+        "organo_id": "0-143",
+        "nome": "Commissione straordinaria per il contrasto dei fenomeni di intolleranza, razzismo, antisemitismo e istigazione all'odio e alla violenza Commissione straordinaria intolleranza, razzismo, antisemitismo, istigazione all'odio e alla violenza",
+        "tipo_organo": "Commissioni straordinarie",
+        "ruolo": "Membro",
+        "dal": "2023-05-04",
+        "al": "2023-05-05"
+      },
+      {
+        "organo_id": "0-6",
+        "nome": "6ª Commissione permanente Finanze e tesoro",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2023-11-10",
+        "al": "2023-11-22"
+      },
+      {
+        "organo_id": "4-134",
+        "nome": "Commissione parlamentare per la semplificazione",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-03-19",
+        "al": "2024-03-28"
+      },
+      {
+        "organo_id": "4-40",
+        "nome": "Commissione parlamentare per le questioni regionali Commissione parlamentare questioni regionali",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-09-13",
+        "al": "2025-01-09"
+      },
+      {
+        "organo_id": "0-147",
+        "nome": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2023-11-22",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "0-146",
+        "nome": "8ª Commissione permanente Ambiente, transizione ecologica, energia, lavori pubblici, comunicazioni, innovazione tecnologica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "0-20",
+        "nome": "Giunta per il Regolamento",
+        "tipo_organo": "Giunte",
+        "ruolo": "Membro",
+        "dal": "2022-11-17",
+        "al": null
+      },
+      {
+        "organo_id": "0-58",
+        "nome": "Consiglio di garanzia",
+        "tipo_organo": "Organismi interni e di garanzia",
+        "ruolo": "Membro",
+        "dal": "2023-07-05",
+        "al": null
+      },
+      {
+        "organo_id": "4-128",
+        "nome": "Commissione parlamentare di inchiesta sulle attività illecite connesse al ciclo dei rifiuti e su altri illeciti ambientali e agroalimentari Commissione di inchiesta sul ciclo dei rifiuti e illeciti ambientali e agroalimentari",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-09-07",
+        "al": null
+      },
+      {
+        "organo_id": "4-134",
+        "nome": "Commissione parlamentare per la semplificazione",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2025-01-09",
+        "al": null
+      },
+      {
+        "organo_id": "0-147",
+        "nome": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Vicepresidente",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Segretario",
+        "organo": "Commissione speciale per l'esame degli atti urgenti presentati dal Governo Commissione speciale su atti urgenti del Governo",
+        "dal": "2022-10-25",
+        "al": "2022-11-10"
+      },
+      {
+        "carica": "Segretario",
+        "organo": "Gruppo IV-CR",
+        "dal": "2022-10-19",
+        "al": null
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Fregolent_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Fregolent_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00029406.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/29406",
+    "wikidata": "http://www.wikidata.org/entity/Q16606250",
+    "aggiornato_il": "2026-10-14"
+  }
+}

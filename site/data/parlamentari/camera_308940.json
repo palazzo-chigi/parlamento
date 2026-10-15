@@ -1,0 +1,206 @@
+{
+  "id": "camera_308940",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Emanuele",
+    "cognome": "Loperfido",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308940.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308940&legislatura=19",
+    "data_nascita": "1975-11-04",
+    "luogo_nascita": "Pordenone",
+    "titolo_studio": "Laurea in scienze politiche",
+    "professione": "Dipendente di azienda privata"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "FRIULI-VENEZIA GIULIA - P01",
+    "collegio": null,
+    "lista": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-10",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-10",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3503",
+        "nome": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Sostituto",
+        "dal": "2022-11-09",
+        "al": "2023-05-04"
+      },
+      {
+        "organo_id": "o19_3504",
+        "nome": "IV COMMISSIONE (DIFESA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2023-05-04"
+      },
+      {
+        "organo_id": "o19_3987",
+        "nome": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'INDO-PACIFICO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3982",
+        "nome": "COMITATO PERMANENTE SUI DIRITTI UMANI NEL MONDO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3981",
+        "nome": "COMITATO PERMANENTE SULL'ATTUAZIONE DELL'AGENDA 2030 E LO SVILUPPO SOSTENIBILE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3503",
+        "nome": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-05-04",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3862",
+        "nome": "DELEGAZIONE ITALIANA PRESSO L'ASSEMBLEA PARLAMENTARE DELL'ORGANIZZAZIONE PER LA SICUREZZA E LA COOPERAZIONE IN EUROPA OSCE",
+        "tipo_organo": "DELEGAZIONE PARLAMENTARE PRESSO ASSEMBLEA INTERNAZIONALE",
+        "ruolo": "Titolare",
+        "dal": "2023-05-04",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3504",
+        "nome": "IV COMMISSIONE (DIFESA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Sostituto",
+        "dal": "2023-05-04",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4365",
+        "nome": "COMITATO PERMANENTE SUI DIRITTI UMANI NEL MONDO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4361",
+        "nome": "COMITATO PERMANENTE PER L'ATTUAZIONE DELL'AGENDA 2030 E LO SVILUPPO SOSTENIBILE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4341",
+        "nome": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'ARTICO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'INDO-PACIFICO",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "COMITATO PERMANENTE SUI DIRITTI UMANI NEL MONDO",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "dal": "2023-12-20",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "dal": "2025-06-10",
+        "al": null
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "COMITATO PERMANENTE SUI DIRITTI UMANI NEL MONDO",
+        "dal": "2025-09-18",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308940",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308940",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308940_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308940#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/51189f85-1116-4184-9a9d-5b224e5df561"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/c84d6354-bee3-4e6c-b5ba-43331c1f76ce"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/2f1d40dc-430a-4340-bac9-c61d4cb8ec8a"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/ae3fb8d2-0231-4238-8818-048a3ef0e583"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/LOPERFIDO_EMANUELE.pdf?t=1751726046"
+}

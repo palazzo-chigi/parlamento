@@ -1,0 +1,189 @@
+{
+  "id": "camera_306521",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Filiberto",
+    "cognome": "Zaratti",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d306521.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=306521&legislatura=19",
+    "data_nascita": "1956-03-26",
+    "luogo_nascita": "Roma",
+    "titolo_studio": "Laurea in scienze politiche",
+    "professione": "Consulente aziendale"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "LAZIO 1 - P01",
+    "collegio": null,
+    "lista": "ALLEANZA VERDI E SINISTRA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4154",
+      "nome": "ALLEANZA VERDI E SINISTRA",
+      "sigla": "AVS",
+      "dal": "2022-10-27",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4111",
+        "nome": "MISTO",
+        "sigla": "MISTO",
+        "dal": "2022-10-18",
+        "al": "2022-10-27",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4154",
+        "nome": "ALLEANZA VERDI E SINISTRA",
+        "sigla": "AVS",
+        "dal": "2022-10-27",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 1,
+    "legislature_precedenti": [
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-04-16",
+        "al": "2018-03-22"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_4121",
+        "nome": "COMMISSIONE D'INDAGINE CONTE-MELONI",
+        "tipo_organo": "COMMISSIONE D'INDAGINE EX ARTICOLO 58 (GIURI' D'ONORE)",
+        "ruolo": "Titolare",
+        "dal": "2023-12-28",
+        "al": "2024-02-08"
+      },
+      {
+        "organo_id": "o19_3541",
+        "nome": "UFFICIO DI PRESIDENZA",
+        "tipo_organo": "ORGANO DELLA PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2022-10-26",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3501",
+        "nome": "I COMMISSIONE (AFFARI COSTITUZIONALI, DELLA PRESIDENZA DEL CONSIGLIO E INTERNI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3782",
+        "nome": "COMITATO PER GLI AFFARI DEL PERSONALE",
+        "tipo_organo": "COMITATI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3903",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CONDIZIONI DI SICUREZZA E SULLO STATO DI DEGRADO DELLE CITTA' E DELLE LORO PERIFERIE",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-06-08",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4221",
+        "nome": "COMMISSIONE PARLAMENTARE PER LA SEMPLIFICAZIONE",
+        "tipo_organo": "COMMISSIONE BICAMERALE CONSULTIVA",
+        "ruolo": "Titolare",
+        "dal": "2024-03-19",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4281",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA GESTIONE DELL'EMERGENZA SANITARIA CAUSATA DALLA DIFFUSIONE EPIDEMICA DEL VIRUS SARS-COV-2 E SULLE MISURE ADOTTATE PER PREVENIRE E AFFRONTARE L'EMERGENZA EPIDEMIOLOGICA DA SARS-COV-2",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2025-02-21",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "UFFICIO DI PRESIDENZA",
+        "dal": "2022-10-26",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "I COMMISSIONE (AFFARI COSTITUZIONALI, DELLA PRESIDENZA DEL CONSIGLIO E INTERNI)",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMITATO PER GLI AFFARI DEL PERSONALE",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CONDIZIONI DI SICUREZZA E SULLO STATO DI DEGRADO DELLE CITTA' E DELLE LORO PERIFERIE",
+        "dal": "2023-06-21",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE PER LA SEMPLIFICAZIONE",
+        "dal": "2024-03-27",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-306521",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;306521",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d306521_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-306521#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/8bcf3077-3b35-4569-bcc7-dbdfcb1be8e5"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/965fed76-be5d-4941-b7c6-fb263c8c6dfc"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/3edc52e0-20de-4c81-9442-90e1c2a07238"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/244f344a-517a-4550-a120-64220c704e5f"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/ZARATTI_FILIBERTO.pdf?t=1751726117"
+}

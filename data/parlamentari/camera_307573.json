@@ -1,0 +1,143 @@
+{
+  "id": "camera_307573",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Maria Cristina",
+    "cognome": "Caretta",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307573.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307573&legislatura=19",
+    "data_nascita": "1964-01-11",
+    "luogo_nascita": "Thiene",
+    "titolo_studio": null,
+    "professione": "Parlamentare"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "VENETO 2 - P02",
+    "collegio": "VENETO 2 - U05",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-05",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-10-05",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-14",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3543",
+        "nome": "COMMISSIONE SPECIALE ISTITUITA IL 19 OTTOBRE 2022, AI SENSI DELL'ARTICOLO 22, COMMA 2, DEL REGOLAMENTO",
+        "tipo_organo": "COMMISSIONE SPECIALE",
+        "ruolo": "Titolare",
+        "dal": "2022-10-21",
+        "al": "2022-11-09"
+      },
+      {
+        "organo_id": "o19_3513",
+        "nome": "XIII COMMISSIONE (AGRICOLTURA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3722",
+        "nome": "DELEGAZIONE ITALIANA PRESSO L'ASSEMBLEA PARLAMENTARE DEL CONSIGLIO D'EUROPA",
+        "tipo_organo": "DELEGAZIONE PARLAMENTARE PRESSO ASSEMBLEA INTERNAZIONALE",
+        "ruolo": "Supplente",
+        "dal": "2023-01-12",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3941",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUL FEMMINICIDIO, NONCHE' SU OGNI FORMA DI VIOLENZA DI GENERE",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-07-03",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "XIII COMMISSIONE (AGRICOLTURA)",
+        "dal": "2022-11-09",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "XIII COMMISSIONE (AGRICOLTURA)",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307573",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307573",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307573_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307573#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/90178211-eee9-40b0-a574-adae5a29c49c"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/dae6bb4e-25a5-4093-9c4e-bf34b68f9aa4"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/6295f926-a96f-497c-89eb-8838bd134dcd"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/a4da75f0-adb4-4efe-a81b-6b0b18fdad99"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/67262816-fa18-4ee7-a7a7-f44a55a3ab9e"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/CARETTA_MARIA_CRISTINA.pdf?t=1751725941"
+}

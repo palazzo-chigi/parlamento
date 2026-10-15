@@ -1,0 +1,167 @@
+{
+  "id": "camera_307376",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Massimiliano",
+    "cognome": "Panizzut",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307376.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307376&legislatura=19",
+    "data_nascita": "1968-12-10",
+    "luogo_nascita": "Milano",
+    "titolo_studio": "Diploma di istituto tecnico industriale",
+    "professione": "Collaboratore"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "FRIULI-VENEZIA GIULIA - P01",
+    "collegio": "FRIULI-VENEZIA GIULIA - U03",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4132",
+      "nome": "LEGA - SALVINI PREMIER",
+      "sigla": "LEGA",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4132",
+        "nome": "LEGA - SALVINI PREMIER",
+        "sigla": "LEGA",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-19",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3512",
+        "nome": "XII COMMISSIONE (AFFARI SOCIALI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2025-01-14"
+      },
+      {
+        "organo_id": "o19_3509",
+        "nome": "IX COMMISSIONE (TRASPORTI, POSTE E TELECOMUNICAZIONI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-01-14",
+        "al": "2026-02-23"
+      },
+      {
+        "organo_id": "o19_3507",
+        "nome": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2026-02-23",
+        "al": "2026-06-09"
+      },
+      {
+        "organo_id": "o19_3621",
+        "nome": "GIUNTA DELLE ELEZIONI",
+        "tipo_organo": "GIUNTA PER LE ELEZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4082",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA MORTE DI DAVID ROSSI",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-11-08",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4201",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA SCOMPARSA DI EMANUELA ORLANDI E DI MIRELLA GREGORI",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2024-03-05",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3501",
+        "nome": "I COMMISSIONE (AFFARI COSTITUZIONALI, DELLA PRESIDENZA DEL CONSIGLIO E INTERNI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2026-06-09",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "XII COMMISSIONE (AFFARI SOCIALI)",
+        "dal": "2022-11-09",
+        "al": "2024-07-15"
+      },
+      {
+        "carica": "DELEGATO D'AULA",
+        "organo": "Gruppo LEGA",
+        "dal": "2026-03-31",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307376",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307376",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307376_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307376#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/d25d1b99-a2b9-4055-adf2-f685946fe05c"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/8421b1df-7bb4-4e43-91e5-4da6c03943f7"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/adf33b16-21de-4bac-9413-b70c636e5d46"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/20aed9c5-faf3-4e4c-b7d4-af55af976e5e"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/ae2dd85e-4a6d-4d7a-936a-fc2ea59a7c81"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/PANIZZUT_MASSIMILIANO.pdf?t=1751726066"
+}

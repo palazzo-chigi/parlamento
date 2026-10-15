@@ -1,0 +1,143 @@
+{
+  "id": "camera_35980",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Luciano",
+    "cognome": "Ciocchetti",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d35980.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=35980&legislatura=19",
+    "data_nascita": "1958-03-03",
+    "luogo_nascita": "Roma",
+    "titolo_studio": "Diploma di liceo scientifico, Laurea in scienze politiche e delle relazioni internazionali",
+    "professione": "Giornalista"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "LAZIO 1 - P03",
+    "collegio": "LAZIO 1 - U06",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-05",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-10-05",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 12,
+        "camera": "Camera",
+        "dal": "1994-04-03",
+        "al": "1996-05-08"
+      },
+      {
+        "legislatura": 15,
+        "camera": "Camera",
+        "dal": "2006-04-28",
+        "al": "2008-04-28"
+      },
+      {
+        "legislatura": 16,
+        "camera": "Camera",
+        "dal": "2008-04-29",
+        "al": "2010-09-15"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3543",
+        "nome": "COMMISSIONE SPECIALE ISTITUITA IL 19 OTTOBRE 2022, AI SENSI DELL'ARTICOLO 22, COMMA 2, DEL REGOLAMENTO",
+        "tipo_organo": "COMMISSIONE SPECIALE",
+        "ruolo": "Titolare",
+        "dal": "2022-10-21",
+        "al": "2022-11-09"
+      },
+      {
+        "organo_id": "o19_3512",
+        "nome": "XII COMMISSIONE (AFFARI SOCIALI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4201",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA SCOMPARSA DI EMANUELA ORLANDI E DI MIRELLA GREGORI",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2024-03-05",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "XII COMMISSIONE (AFFARI SOCIALI)",
+        "dal": "2022-11-09",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "XII COMMISSIONE (AFFARI SOCIALI)",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-35980",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;35980",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d35980_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-35980#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/9912aa52-2fef-4e6e-8f30-a6f973b62d6b"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/c24e9480-a990-429e-87de-7f0efc809e01"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/4b2a1e80-6992-49af-b39e-06ce1a44da41"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/300c9fab-061d-47d9-b33c-ef66add79a4b"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/CIOCCHETTI_LUCIANO.pdf?t=1751725942"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "camera_308816",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Elisabetta",
+    "cognome": "Piccolotti",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308816.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308816&legislatura=19",
+    "data_nascita": "1982-02-10",
+    "luogo_nascita": "Camerino",
+    "titolo_studio": "Laurea in comunicazione nella società della globalizzazione",
+    "professione": "Consulente Senior per la comunicazione"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "PUGLIA - P04",
+    "collegio": null,
+    "lista": "ALLEANZA VERDI E SINISTRA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": null,
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4154",
+      "nome": "ALLEANZA VERDI E SINISTRA",
+      "sigla": "AVS",
+      "dal": "2022-10-27",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4111",
+        "nome": "MISTO",
+        "sigla": "MISTO",
+        "dal": "2022-10-18",
+        "al": "2022-10-27",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4154",
+        "nome": "ALLEANZA VERDI E SINISTRA",
+        "sigla": "AVS",
+        "dal": "2022-10-27",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 1,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3507",
+        "nome": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3783",
+        "nome": "COMITATO DI VIGILANZA SULL'ATTIVITA' DI DOCUMENTAZIONE",
+        "tipo_organo": "COMITATI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2023-02-23",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3881",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUL FENOMENO DELLE MAFIE E SULLE ALTRE ASSOCIAZIONI CRIMINALI, ANCHE STRANIERE",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-05-18",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUL FENOMENO DELLE MAFIE E SULLE ALTRE ASSOCIAZIONI CRIMINALI, ANCHE STRANIERE",
+        "dal": "2023-05-25",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308816",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308816",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308816_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308816#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/cdb9fb61-15ac-4eb5-89c9-4ae862249ccf"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/19f663ab-b080-4537-9aae-022afeb85ccf"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/65ee3134-eefb-46f3-b43c-1730035b18dc"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/350c3b18-7157-4e33-96cd-a6460a64aa84"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/a2fa6859-d82a-437f-b1bc-f6c58d66d2d1"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/PICCOLOTTI_ELISABETTA.pdf?t=1751726076"
+}

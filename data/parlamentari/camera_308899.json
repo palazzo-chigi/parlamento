@@ -1,0 +1,140 @@
+{
+  "id": "camera_308899",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Paolo Emilio",
+    "cognome": "Russo",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308899.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308899&legislatura=19",
+    "data_nascita": "1977-06-06",
+    "luogo_nascita": "Como",
+    "titolo_studio": "Laurea in scienze politiche e delle relazioni internazionali, Master in Scienze elettorali e del governo",
+    "professione": "Giornalista parlamentare"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "SICILIA 2 - P02",
+    "collegio": null,
+    "lista": "FORZA ITALIA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4134",
+      "nome": "FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE",
+      "sigla": "FI-PPE",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4134",
+        "nome": "FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE",
+        "sigla": "FI-PPE",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3501",
+        "nome": "I COMMISSIONE (AFFARI COSTITUZIONALI, DELLA PRESIDENZA DEL CONSIGLIO E INTERNI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3781",
+        "nome": "COMITATO PER LA COMUNICAZIONE E L'INFORMAZIONE ESTERNA",
+        "tipo_organo": "COMITATI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4201",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA SCOMPARSA DI EMANUELA ORLANDI E DI MIRELLA GREGORI",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2024-03-05",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "TESORIERE",
+        "organo": "Gruppo FI-PPE",
+        "dal": "2023-01-31",
+        "al": "2023-04-04"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "I COMMISSIONE (AFFARI COSTITUZIONALI, DELLA PRESIDENZA DEL CONSIGLIO E INTERNI)",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA SCOMPARSA DI EMANUELA ORLANDI E DI MIRELLA GREGORI",
+        "dal": "2024-03-05",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "I COMMISSIONE (AFFARI COSTITUZIONALI, DELLA PRESIDENZA DEL CONSIGLIO E INTERNI)",
+        "dal": "2025-07-01",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308899",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308899",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308899_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308899#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/455a8984-95d8-40f3-9d95-1c482a9cae4f"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/a5b33507-ec80-4ef8-9654-642b755d7a24"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/ccaa99b8-0ce4-4883-addf-af8eb34fe1eb"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/3a996583-50de-4bf0-9f5f-ae2777d9aa16"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/4e617594-5019-431c-869f-5d363d44c763"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/RUSSO_PAOLO_EMILIO.pdf?t=1751726077"
+}

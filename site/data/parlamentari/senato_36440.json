@@ -1,0 +1,151 @@
+{
+  "id": "senato_36440",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Domenico",
+    "cognome": "Matera",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Domenico%20Matera%20XIX.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00036440.jpg",
+    "data_nascita": "1965-05-19",
+    "luogo_nascita": "BENEVENTO, Benevento",
+    "titolo_studio": null,
+    "professione": "Amministratore locale"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Campania",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "85",
+      "nome": "Fratelli d'Italia",
+      "sigla": "FdI",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "85",
+        "nome": "Fratelli d'Italia",
+        "sigla": "FdI",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-149",
+        "nome": "Comitato per la legislazione",
+        "tipo_organo": "Comitati",
+        "ruolo": "Membro",
+        "dal": "2022-11-17",
+        "al": "2023-01-16"
+      },
+      {
+        "organo_id": "0-149",
+        "nome": "Comitato per la legislazione",
+        "tipo_organo": "Comitati",
+        "ruolo": "Presidente",
+        "dal": "2023-01-17",
+        "al": "2024-02-28"
+      },
+      {
+        "organo_id": "4-226",
+        "nome": "Commissione parlamentare di inchiesta sulla gestione dell'emergenza sanitaria causata dalla diffusione epidemica del virus SARS-CoV-2 e sulle misure adottate per prevenire e affrontare l'emergenza epidemiologica da SARS-CoV-2 Commissione di inchiesta su emergenza sanitaria epidemiologica da SARS-CoV-2",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-10-01",
+        "al": "2024-10-08"
+      },
+      {
+        "organo_id": "0-14",
+        "nome": "4ª Commissione permanente Politiche dell'Unione europea",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2026-04-01"
+      },
+      {
+        "organo_id": "0-149",
+        "nome": "Comitato per la legislazione",
+        "tipo_organo": "Comitati",
+        "ruolo": "Membro",
+        "dal": "2024-02-29",
+        "al": null
+      },
+      {
+        "organo_id": "4-225",
+        "nome": "Commissione parlamentare di inchiesta sulla scomparsa di Emanuela Orlandi e di Mirella Gregori Commissione di inchiesta scomparsa Orlandi e Gregori",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-03-12",
+        "al": null
+      },
+      {
+        "organo_id": "4-134",
+        "nome": "Commissione parlamentare per la semplificazione",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-03-19",
+        "al": null
+      },
+      {
+        "organo_id": "0-146",
+        "nome": "8ª Commissione permanente Ambiente, transizione ecologica, energia, lavori pubblici, comunicazioni, innovazione tecnologica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2026-04-01",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Presidente",
+        "organo": "Comitato per la legislazione",
+        "dal": "2023-01-17",
+        "al": "2024-02-28"
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Matera_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Matera_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00036440.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/36440",
+    "wikidata": "http://www.wikidata.org/entity/Q115628030",
+    "aggiornato_il": "2026-10-14"
+  }
+}

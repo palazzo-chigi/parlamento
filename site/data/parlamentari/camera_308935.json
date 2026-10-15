@@ -1,0 +1,130 @@
+{
+  "id": "camera_308935",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Daniela",
+    "cognome": "Dondi",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308935.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308935&legislatura=19",
+    "data_nascita": "1962-01-12",
+    "luogo_nascita": "Modena",
+    "titolo_studio": "Laurea in giurisprudenza",
+    "professione": "Avvocato civilista"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "EMILIA-ROMAGNA - P02",
+    "collegio": "EMILIA-ROMAGNA - U04",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3502",
+        "nome": "II COMMISSIONE (GIUSTIZIA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3520",
+        "nome": "GIUNTA PER LE AUTORIZZAZIONI",
+        "tipo_organo": "GIUNTA PER LE AUTORIZZAZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3681",
+        "nome": "COMITATO PARLAMENTARE PER I PROCEDIMENTI DI ACCUSA",
+        "tipo_organo": "COMITATO PER I PROCEDIMENTI DI ACCUSA",
+        "ruolo": "Titolare",
+        "dal": "2022-11-16",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4022",
+        "nome": "COMMISSIONE PARLAMENTARE DI CONTROLLO SULL'ATTIVITA' DEGLI ENTI GESTORI DI FORME OBBLIGATORIE DI PREVIDENZA E ASSISTENZA SOCIALE",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI INDIRIZZO, VIGILANZA E CONTROLLO",
+        "ruolo": "Titolare",
+        "dal": "2023-09-07",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMMISSIONE PARLAMENTARE DI CONTROLLO SULL'ATTIVITA' DEGLI ENTI GESTORI DI FORME OBBLIGATORIE DI PREVIDENZA E ASSISTENZA SOCIALE",
+        "dal": "2023-09-13",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308935",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308935",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308935_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308935#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/d2e2b637-d53b-422f-89ba-4198dd8da067"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/493ef3b8-e9a9-49df-b7dd-8499279f9e85"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/5c0615ee-11c3-4ed4-9d92-cdb4dd75c28c"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/9225a2e8-ae56-466d-bbaa-be5900665a0d"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/a2897444-b8d1-4aa7-9581-da435d3da6f2"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/DONDI_DANIELA.pdf?t=1751725954"
+}

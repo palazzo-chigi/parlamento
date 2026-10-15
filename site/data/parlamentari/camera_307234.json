@@ -1,0 +1,163 @@
+{
+  "id": "camera_307234",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Daniela",
+    "cognome": "Torto",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307234.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307234&legislatura=19",
+    "data_nascita": "1985-08-18",
+    "luogo_nascita": "Chieti",
+    "titolo_studio": "Laurea in conservatorio (pianoforte)",
+    "professione": "Insegnante di musica"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "ABRUZZO - P01",
+    "collegio": null,
+    "lista": "MOVIMENTO 5 STELLE",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4131",
+      "nome": "MOVIMENTO 5 STELLE",
+      "sigla": "M5S",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4131",
+        "nome": "MOVIMENTO 5 STELLE",
+        "sigla": "M5S",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-19",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3543",
+        "nome": "COMMISSIONE SPECIALE ISTITUITA IL 19 OTTOBRE 2022, AI SENSI DELL'ARTICOLO 22, COMMA 2, DEL REGOLAMENTO",
+        "tipo_organo": "COMMISSIONE SPECIALE",
+        "ruolo": "Titolare",
+        "dal": "2022-10-21",
+        "al": "2022-11-09"
+      },
+      {
+        "organo_id": "o19_3505",
+        "nome": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4023",
+        "nome": "COMMISSIONE PARLAMENTARE PER LE QUESTIONI REGIONALI",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI RANGO COSTITUZIONALE",
+        "ruolo": "Titolare",
+        "dal": "2023-09-07",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3520",
+        "nome": "GIUNTA PER LE AUTORIZZAZIONI",
+        "tipo_organo": "GIUNTA PER LE AUTORIZZAZIONI",
+        "ruolo": "Titolare",
+        "dal": "2025-04-02",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3681",
+        "nome": "COMITATO PARLAMENTARE PER I PROCEDIMENTI DI ACCUSA",
+        "tipo_organo": "COMITATO PER I PROCEDIMENTI DI ACCUSA",
+        "ruolo": "Titolare",
+        "dal": "2025-04-02",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMMISSIONE SPECIALE ISTITUITA IL 19 OTTOBRE 2022, AI SENSI DELL'ARTICOLO 22, COMMA 2, DEL REGOLAMENTO",
+        "dal": "2022-10-24",
+        "al": "2022-11-09"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMITATO PARLAMENTARE PER I PROCEDIMENTI DI ACCUSA",
+        "dal": "2025-07-16",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "GIUNTA PER LE AUTORIZZAZIONI",
+        "dal": "2025-07-16",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307234",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307234",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307234_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307234#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/3c1dd44e-7fb6-4956-bd72-a9cdb70fc997"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/e96950c7-c919-4082-97f8-ca4443e1794d"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/5b9a5681-726d-4c61-b7eb-35fc8623d99c"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/78e8a605-74cc-49e7-87c2-ad8d55b98d59"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/0b2c52ca-bde2-4219-a374-802fa6a722ed"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/TORTO_DANIELA.pdf?t=1751726109"
+}

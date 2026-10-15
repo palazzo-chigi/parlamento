@@ -1,0 +1,193 @@
+{
+  "id": "camera_305553",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Maria Chiara",
+    "cognome": "Gadda",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d305553.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=305553&legislatura=19",
+    "data_nascita": "1980-02-06",
+    "luogo_nascita": "Tradate",
+    "titolo_studio": "Laurea in ingegneria gestionale",
+    "professione": "Dipendente di azienda privata"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "LOMBARDIA 2 - P02",
+    "collegio": null,
+    "lista": "AZIONE - ITALIA VIVA - CALENDA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-10",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-10",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4211",
+      "nome": "ITALIA VIVA-CASA RIFORMISTA",
+      "sigla": "IV-CR",
+      "dal": "2023-11-20",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4135",
+        "nome": "AZIONE-POPOLARI EUROPEISTI RIFORMATORI-RENEW EUROPE",
+        "sigla": "AZ-PER-RE",
+        "dal": "2022-10-18",
+        "al": "2023-11-20",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4211",
+        "nome": "ITALIA VIVA-CASA RIFORMISTA",
+        "sigla": "IV-CR",
+        "dal": "2023-11-20",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 1,
+    "legislature_precedenti": [
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-05",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-19",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_4002",
+        "nome": "COMITATO PARLAMENTARE DI CONTROLLO SULL'ATTUAZIONE DELL'ACCORDO DI SCHENGEN, DI VIGILANZA SULL'ATTIVITA' DI EUROPOL, DI CONTROLLO E VIGILANZA IN MATERIA DI IMMIGRAZIONE",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI INDIRIZZO, VIGILANZA E CONTROLLO",
+        "ruolo": "Titolare",
+        "dal": "2023-08-04",
+        "al": "2024-12-18"
+      },
+      {
+        "organo_id": "o19_4021",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE ATTIVITA' ILLECITE CONNESSE AL CICLO DEI RIFIUTI E SU ALTRI ILLECITI AMBIENTALI E AGROALIMENTARI",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-09-07",
+        "al": "2024-12-18"
+      },
+      {
+        "organo_id": "o19_3513",
+        "nome": "XIII COMMISSIONE (AGRICOLTURA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4301",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUGLI EFFETTI ECONOMICI E SOCIALI DERIVANTI DALLA TRANSIZIONE DEMOGRAFICA IN ATTO",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2025-01-16",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "DELEGATO D'AULA",
+        "organo": "Gruppo AZ-PER-RE",
+        "dal": "2022-10-19",
+        "al": "2023-11-20"
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "Gruppo AZ-PER-RE",
+        "dal": "2022-10-19",
+        "al": "2023-11-20"
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "XIII COMMISSIONE (AGRICOLTURA)",
+        "dal": "2022-11-09",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "VICEPRES. VICARIO",
+        "organo": "Gruppo IV-CR",
+        "dal": "2023-11-20",
+        "al": null
+      },
+      {
+        "carica": "DELEGATO D'AULA",
+        "organo": "Gruppo IV-CR",
+        "dal": "2023-11-20",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "XIII COMMISSIONE (AGRICOLTURA)",
+        "dal": "2023-11-23",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUGLI EFFETTI ECONOMICI E SOCIALI DERIVANTI DALLA TRANSIZIONE DEMOGRAFICA IN ATTO",
+        "dal": "2025-02-17",
+        "al": null
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "XIII COMMISSIONE (AGRICOLTURA)",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-305553",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;305553",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d305553_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-305553#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/22830b5b-29a7-47cc-bdd2-01f4ed86a59f"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/bfe187be-b1cb-46e3-be60-85856ec828be"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/d807057e-fa2a-48ea-8dc6-4a4ddce85fea"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/061bdb21-d46e-41b4-8db0-65899d1aa07f"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/d984d529-abf2-4b18-8a9f-6a993fa08e01"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/GADDA_MARIA_CHIARA.pdf?t=1751726040"
+}

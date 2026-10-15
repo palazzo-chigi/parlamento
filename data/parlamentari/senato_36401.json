@@ -1,0 +1,142 @@
+{
+  "id": "senato_36401",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Nicola",
+    "cognome": "Irto",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicola%20Irto%20XIX.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00036401.jpg",
+    "data_nascita": "1982-01-05",
+    "luogo_nascita": "Reggio di Calabria",
+    "titolo_studio": null,
+    "professione": "Dirigente"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Calabria",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "49",
+      "nome": "Partito Democratico - Italia Democratica e Progressista",
+      "sigla": "PD-IDP",
+      "carica": "Segretario d'Aula",
+      "dal": "2022-10-25",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": "2022-10-24",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Segretario d'Aula",
+        "dal": "2022-10-25",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "4-71",
+        "nome": "Parlamentari membri della Commissione di vigilanza sulla Cassa Depositi e Prestiti Commissione di vigilanza Cassa Depositi e Prestiti",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-02-13",
+        "al": "2024-05-14"
+      },
+      {
+        "organo_id": "0-146",
+        "nome": "8ª Commissione permanente Ambiente, transizione ecologica, energia, lavori pubblici, comunicazioni, innovazione tecnologica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-40",
+        "nome": "Commissione parlamentare per le questioni regionali Commissione parlamentare questioni regionali",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-09-07",
+        "al": null
+      },
+      {
+        "organo_id": "4-128",
+        "nome": "Commissione parlamentare di inchiesta sulle attività illecite connesse al ciclo dei rifiuti e su altri illeciti ambientali e agroalimentari Commissione di inchiesta sul ciclo dei rifiuti e illeciti ambientali e agroalimentari",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-09-07",
+        "al": null
+      },
+      {
+        "organo_id": "4-71",
+        "nome": "Parlamentari membri della Commissione di vigilanza sulla Cassa Depositi e Prestiti Commissione di vigilanza Cassa Depositi e Prestiti",
+        "tipo_organo": null,
+        "ruolo": "Vicepresidente",
+        "dal": "2024-05-15",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Segretario d'Aula",
+        "organo": "Gruppo PD-IDP",
+        "dal": "2022-10-25",
+        "al": null
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "Parlamentari membri della Commissione di vigilanza sulla Cassa Depositi e Prestiti Commissione di vigilanza Cassa Depositi e Prestiti",
+        "dal": "2024-05-15",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Irto_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Irto_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00036401.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/36401",
+    "wikidata": "http://www.wikidata.org/entity/Q114644596",
+    "aggiornato_il": "2026-10-14"
+  }
+}

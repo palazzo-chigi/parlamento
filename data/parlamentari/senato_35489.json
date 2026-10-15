@@ -1,0 +1,116 @@
+{
+  "id": "senato_35489",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Cinzia",
+    "cognome": "Pellegrino",
+    "genere": "F",
+    "foto": null,
+    "foto_fonte": null,
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00035489.jpg",
+    "data_nascita": "1975-07-17",
+    "luogo_nascita": "Poggiardo, Lecce",
+    "titolo_studio": null,
+    "professione": "Consulente"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Lazio",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2023-05-09",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2023-05-09",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "85",
+      "nome": "Fratelli d'Italia",
+      "sigla": "FdI",
+      "carica": "Membro",
+      "dal": "2023-05-09",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "85",
+        "nome": "Fratelli d'Italia",
+        "sigla": "FdI",
+        "carica": "Membro",
+        "dal": "2023-05-09",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-14",
+        "nome": "4ª Commissione permanente Politiche dell'Unione europea",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2023-05-09",
+        "al": null
+      },
+      {
+        "organo_id": "0-75",
+        "nome": "Commissione straordinaria per la tutela e la promozione dei diritti umani Commissione straordinaria diritti umani",
+        "tipo_organo": "Commissioni straordinarie",
+        "ruolo": "Membro",
+        "dal": "2023-06-12",
+        "al": null
+      },
+      {
+        "organo_id": "4-134",
+        "nome": "Commissione parlamentare per la semplificazione",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-03-19",
+        "al": null
+      },
+      {
+        "organo_id": "4-220",
+        "nome": "Commissione parlamentare di inchiesta sui fatti accaduti presso la comunità \"Il Forteto\" Commissione di inchiesta su \"Il Forteto\"",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-07-17",
+        "al": null
+      },
+      {
+        "organo_id": "0-1",
+        "nome": "1ª Commissione permanente Affari Costituzionali",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2026-04-23",
+        "al": null
+      }
+    ],
+    "incarichi": []
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Pellegrino_2023_2.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00035489.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/35489",
+    "wikidata": null,
+    "aggiornato_il": "2026-10-14"
+  }
+}

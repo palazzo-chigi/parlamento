@@ -1,0 +1,122 @@
+{
+  "id": "camera_308768",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Gianni",
+    "cognome": "Lampis",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308768.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308768&legislatura=19",
+    "data_nascita": "1988-05-31",
+    "luogo_nascita": "Cagliari",
+    "titolo_studio": "Laurea in scienze dei servizi giuridici",
+    "professione": "Impiegato amministrativo contabile"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "SARDEGNA - P01",
+    "collegio": "SARDEGNA - U02",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3508",
+        "nome": "VIII COMMISSIONE (AMBIENTE, TERRITORIO E LAVORI PUBBLICI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4023",
+        "nome": "COMMISSIONE PARLAMENTARE PER LE QUESTIONI REGIONALI",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI RANGO COSTITUZIONALE",
+        "ruolo": "Titolare",
+        "dal": "2023-09-07",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4021",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE ATTIVITA' ILLECITE CONNESSE AL CICLO DEI RIFIUTI E SU ALTRI ILLECITI AMBIENTALI E AGROALIMENTARI",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-09-07",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE PER LE QUESTIONI REGIONALI",
+        "dal": "2023-09-20",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308768",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308768",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308768_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308768#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/93d1ce69-f848-453b-9e3f-1c91e4f048c3"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/5b37caaf-1bda-4cac-936d-1fe1faa1d82f"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/fcff11ec-99d2-4dde-840c-c29b3fcae8a6"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/8cef8202-5fa3-4e4b-9974-a80a98e2f74d"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/f71eaa3d-5a3f-4a22-9359-bd2322b2b998"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/LAMPIS_GIANNI.pdf?t=1751726046"
+}

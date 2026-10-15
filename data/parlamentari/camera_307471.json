@@ -1,0 +1,211 @@
+{
+  "id": "camera_307471",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Alessandro Manuel",
+    "cognome": "Benvenuto",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307471.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307471&legislatura=19",
+    "data_nascita": "1986-07-23",
+    "luogo_nascita": "Venaria Reale",
+    "titolo_studio": "Laurea in scienze politiche",
+    "professione": "Parlamentare; già Consigliere regionale del Piemonte; già Consigliere comunale città di Venaria Reale"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "PIEMONTE 1 - P02",
+    "collegio": null,
+    "lista": "LEGA PER SALVINI PREMIER",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4132",
+      "nome": "LEGA - SALVINI PREMIER",
+      "sigla": "LEGA",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4132",
+        "nome": "LEGA - SALVINI PREMIER",
+        "sigla": "LEGA",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-19",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3508",
+        "nome": "VIII COMMISSIONE (AMBIENTE, TERRITORIO E LAVORI PUBBLICI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2025-06-10"
+      },
+      {
+        "organo_id": "o19_3514",
+        "nome": "XIV COMMISSIONE (POLITICHE DELL'UNIONE EUROPEA)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-06-10",
+        "al": "2025-06-11"
+      },
+      {
+        "organo_id": "o19_3508",
+        "nome": "VIII COMMISSIONE (AMBIENTE, TERRITORIO E LAVORI PUBBLICI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-06-11",
+        "al": "2026-10-09"
+      },
+      {
+        "organo_id": "o19_3541",
+        "nome": "UFFICIO DI PRESIDENZA",
+        "tipo_organo": "ORGANO DELLA PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2022-10-19",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3542",
+        "nome": "COLLEGIO DEI QUESTORI",
+        "tipo_organo": "COLLEGIO DEI QUESTORI",
+        "ruolo": "Titolare",
+        "dal": "2022-10-19",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3782",
+        "nome": "COMITATO PER GLI AFFARI DEL PERSONALE",
+        "tipo_organo": "COMITATI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3784",
+        "nome": "COMITATO PER LA SICUREZZA",
+        "tipo_organo": "COMITATI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3781",
+        "nome": "COMITATO PER LA COMUNICAZIONE E L'INFORMAZIONE ESTERNA",
+        "tipo_organo": "COMITATI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3783",
+        "nome": "COMITATO DI VIGILANZA SULL'ATTIVITA' DI DOCUMENTAZIONE",
+        "tipo_organo": "COMITATI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2023-02-23",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3509",
+        "nome": "IX COMMISSIONE (TRASPORTI, POSTE E TELECOMUNICAZIONI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2026-10-09",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "QUESTORE",
+        "organo": "COLLEGIO DEI QUESTORI",
+        "dal": "2022-10-19",
+        "al": null
+      },
+      {
+        "carica": "QUESTORE",
+        "organo": "UFFICIO DI PRESIDENZA",
+        "dal": "2022-10-19",
+        "al": null
+      },
+      {
+        "carica": "QUESTORE",
+        "organo": "COMITATO PER GLI AFFARI DEL PERSONALE",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "carica": "QUESTORE",
+        "organo": "COMITATO PER LA SICUREZZA",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "carica": "QUESTORE",
+        "organo": "COMITATO PER LA COMUNICAZIONE E L'INFORMAZIONE ESTERNA",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "carica": "QUESTORE",
+        "organo": "COMITATO DI VIGILANZA SULL'ATTIVITA' DI DOCUMENTAZIONE",
+        "dal": "2023-02-23",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307471",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307471",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307471_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307471#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/70c84da7-f9f5-4205-912f-56cdb7c7e3f8"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/5a09716a-0401-4e80-9283-7d336d913dc1"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/20aafcf0-6651-4150-ab64-a119023142af"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/e5493c2c-d9b9-4470-a2b0-831c15833710"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/BENVENUTO_ALESSANDRO_MANUEL.pdf?t=1751725876"
+}

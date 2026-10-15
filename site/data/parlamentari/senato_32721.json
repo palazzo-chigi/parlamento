@@ -1,0 +1,198 @@
+{
+  "id": "senato_32721",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Elena",
+    "cognome": "Testor",
+    "genere": "F",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Elena%20Testor%20datisenato%202018.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00032721.jpg",
+    "data_nascita": "1973-07-20",
+    "luogo_nascita": "Cavalese, Trento",
+    "titolo_studio": null,
+    "professione": "Imprenditore"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "Trentino-Alto Adige",
+    "collegio": "TRENTINO-ALTO ADIGE/SÜDTIROL - U03 (PERGINE VALSUGANA)",
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto uninominale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "33",
+      "nome": "Lega Salvini Premier - Partito Sardo d'Azione",
+      "sigla": "LSP-PSd'Az",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "33",
+        "nome": "Lega Salvini Premier - Partito Sardo d'Azione",
+        "sigla": "LSP-PSd'Az",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Senato",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-5",
+        "nome": "5ª Commissione permanente Bilancio",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2022-11-09"
+      },
+      {
+        "organo_id": "0-74",
+        "nome": "Commissione speciale per l'esame degli atti urgenti presentati dal Governo Commissione speciale su atti urgenti del Governo",
+        "tipo_organo": "Commissioni speciali e Commissioni di inchiesta monocamerali",
+        "ruolo": "Membro",
+        "dal": "2022-10-25",
+        "al": "2022-11-10"
+      },
+      {
+        "organo_id": "0-5",
+        "nome": "5ª Commissione permanente Bilancio",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Segretario",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "4-26",
+        "nome": "Comitato parlamentare di controllo sull'attuazione dell'Accordo di Schengen, di vigilanza sull'attività di Europol, di controllo e vigilanza in materia di immigrazione Comitato parlamentare Schengen, Europol e immigrazione",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2026-05-11",
+        "al": "2026-05-26"
+      },
+      {
+        "organo_id": "0-75",
+        "nome": "Commissione straordinaria per la tutela e la promozione dei diritti umani Commissione straordinaria diritti umani",
+        "tipo_organo": "Commissioni straordinarie",
+        "ruolo": "Membro",
+        "dal": "2023-06-12",
+        "al": null
+      },
+      {
+        "organo_id": "4-223",
+        "nome": "Commissione parlamentare di inchiesta sul femminicidio, nonché su ogni forma di violenza di genere Commissione di inchiesta femminicidio e violenza di genere",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-06-29",
+        "al": null
+      },
+      {
+        "organo_id": "0-150",
+        "nome": "Commissione parlamentare di inchiesta sul sistema bancario, finanziario e assicurativo Commissione parlamentare di inchiesta sistema bancario, finanziario e assicurativo",
+        "tipo_organo": "Commissioni di inchiesta monocamerali",
+        "ruolo": "Membro",
+        "dal": "2025-02-25",
+        "al": null
+      },
+      {
+        "organo_id": "0-5",
+        "nome": "5ª Commissione permanente Bilancio",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Segretario",
+        "dal": "2025-06-10",
+        "al": null
+      },
+      {
+        "organo_id": "4-26",
+        "nome": "Comitato parlamentare di controllo sull'attuazione dell'Accordo di Schengen, di vigilanza sull'attività di Europol, di controllo e vigilanza in materia di immigrazione Comitato parlamentare Schengen, Europol e immigrazione",
+        "tipo_organo": null,
+        "ruolo": "Vicepresidente",
+        "dal": "2026-05-27",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Segretario",
+        "organo": "5ª Commissione permanente Bilancio",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "Segretario",
+        "organo": "5ª Commissione permanente Bilancio",
+        "dal": "2025-06-10",
+        "al": null
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "Comitato parlamentare di controllo sull'attuazione dell'Accordo di Schengen, di vigilanza sull'attività di Europol, di controllo e vigilanza in materia di immigrazione Comitato parlamentare Schengen, Europol e immigrazione",
+        "dal": "2026-05-27",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2018,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2018/Testor_2018.pdf"
+    },
+    {
+      "anno": 2019,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2019/Testor_2019.pdf"
+    },
+    {
+      "anno": 2020,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2020/Testor_2020.pdf"
+    },
+    {
+      "anno": 2021,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2021/Testor_2021.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2022/Testor_2022.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Testor_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Testor_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00032721.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/32721",
+    "wikidata": "http://www.wikidata.org/entity/Q50876247",
+    "aggiornato_il": "2026-10-14"
+  }
+}

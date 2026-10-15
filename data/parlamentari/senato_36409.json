@@ -1,0 +1,215 @@
+{
+  "id": "senato_36409",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Dafne",
+    "cognome": "Musolino",
+    "genere": "F",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Dafne%20Musolino.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00036409.jpg",
+    "data_nascita": "1974-12-04",
+    "luogo_nascita": "Messina",
+    "titolo_studio": null,
+    "professione": "Avvocato"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "Sicilia",
+    "collegio": "SICILIA - U06 (MESSINA)",
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto uninominale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "91",
+      "nome": "Italia Viva - Casa Riformista",
+      "sigla": "IV-CR",
+      "carica": "Vicepresidente",
+      "dal": "2025-06-04",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "69",
+        "nome": "Per le Autonomie (SVP-PATT, Campobase)",
+        "sigla": "Aut (SVP-PATT, Cb)",
+        "carica": "Vicepresidente",
+        "dal": "2022-10-18",
+        "al": "2023-10-04",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "91",
+        "nome": "Italia Viva - Casa Riformista",
+        "sigla": "IV-CR",
+        "carica": "Membro",
+        "dal": "2023-10-05",
+        "al": "2025-06-03",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "91",
+        "nome": "Italia Viva - Casa Riformista",
+        "sigla": "IV-CR",
+        "carica": "Vicepresidente",
+        "dal": "2025-06-04",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 1,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-143",
+        "nome": "Commissione straordinaria per il contrasto dei fenomeni di intolleranza, razzismo, antisemitismo e istigazione all'odio e alla violenza Commissione straordinaria intolleranza, razzismo, antisemitismo, istigazione all'odio e alla violenza",
+        "tipo_organo": "Commissioni straordinarie",
+        "ruolo": "Membro",
+        "dal": "2023-04-21",
+        "al": "2023-09-14"
+      },
+      {
+        "organo_id": "0-148",
+        "nome": "10ª Commissione permanente Affari sociali, sanità, lavoro pubblico e privato, previdenza sociale",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2023-10-09"
+      },
+      {
+        "organo_id": "0-147",
+        "nome": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2023-10-31"
+      },
+      {
+        "organo_id": "0-147",
+        "nome": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2023-11-10",
+        "al": "2023-11-22"
+      },
+      {
+        "organo_id": "4-134",
+        "nome": "Commissione parlamentare per la semplificazione",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-03-28",
+        "al": "2025-01-09"
+      },
+      {
+        "organo_id": "4-60",
+        "nome": "Commissione parlamentare per l'indirizzo generale e la vigilanza dei servizi radiotelevisivi Commissione di vigilanza servizi radiotelevisivi",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-03-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-53",
+        "nome": "Commissione parlamentare di inchiesta sul fenomeno delle mafie e sulle altre associazioni criminali, anche straniere Commissione d'inchiesta sul fenomeno delle mafie",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-05-17",
+        "al": null
+      },
+      {
+        "organo_id": "4-61",
+        "nome": "Sottocommissione permanente per l'accesso Sottocommissione permanente RAI per l' accesso",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-07-06",
+        "al": null
+      },
+      {
+        "organo_id": "4-224",
+        "nome": "Commissione parlamentare per il contrasto degli svantaggi derivanti dall'insularità",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-07-06",
+        "al": null
+      },
+      {
+        "organo_id": "0-1",
+        "nome": "1ª Commissione permanente Affari Costituzionali",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2023-10-31",
+        "al": null
+      },
+      {
+        "organo_id": "0-6",
+        "nome": "6ª Commissione permanente Finanze e tesoro",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2023-11-22",
+        "al": null
+      },
+      {
+        "organo_id": "4-40",
+        "nome": "Commissione parlamentare per le questioni regionali Commissione parlamentare questioni regionali",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2025-01-09",
+        "al": null
+      },
+      {
+        "organo_id": "0-150",
+        "nome": "Commissione parlamentare di inchiesta sul sistema bancario, finanziario e assicurativo Commissione parlamentare di inchiesta sistema bancario, finanziario e assicurativo",
+        "tipo_organo": "Commissioni di inchiesta monocamerali",
+        "ruolo": "Membro",
+        "dal": "2025-02-25",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Vicepresidente",
+        "organo": "Gruppo Aut (SVP-PATT, Cb)",
+        "dal": "2022-10-18",
+        "al": "2023-10-04"
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "Gruppo IV-CR",
+        "dal": "2025-06-04",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Musolino_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Musolino_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00036409.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/36409",
+    "wikidata": "http://www.wikidata.org/entity/Q114641975",
+    "aggiornato_il": "2026-10-14"
+  }
+}

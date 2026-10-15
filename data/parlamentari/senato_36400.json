@@ -1,0 +1,128 @@
+{
+  "id": "senato_36400",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Silvio",
+    "cognome": "Franceschelli",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Silvio%20Franceschelli%20XIX.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00036400.jpg",
+    "data_nascita": "1970-08-16",
+    "luogo_nascita": "Pistoia",
+    "titolo_studio": null,
+    "professione": "Avvocato"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Toscana",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "49",
+      "nome": "Partito Democratico - Italia Democratica e Progressista",
+      "sigla": "PD-IDP",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "4-220",
+        "nome": "Commissione parlamentare di inchiesta sui fatti accaduti presso la comunità \"Il Forteto\" Commissione di inchiesta su \"Il Forteto\"",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-07-17",
+        "al": "2024-09-18"
+      },
+      {
+        "organo_id": "0-147",
+        "nome": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "0-58",
+        "nome": "Consiglio di garanzia",
+        "tipo_organo": "Organismi interni e di garanzia",
+        "ruolo": "Membro",
+        "dal": "2023-07-05",
+        "al": null
+      },
+      {
+        "organo_id": "4-134",
+        "nome": "Commissione parlamentare per la semplificazione",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-03-19",
+        "al": null
+      },
+      {
+        "organo_id": "0-142",
+        "nome": "Commissione parlamentare di inchiesta sulle condizioni di lavoro in Italia, sullo sfruttamento e sulla sicurezza nei luoghi di lavoro Commissione parlamentare di inchiesta condizioni di lavoro in Italia, sfruttamento e sicurezza luoghi di lavoro",
+        "tipo_organo": "Commissioni di inchiesta monocamerali",
+        "ruolo": "Membro",
+        "dal": "2025-01-17",
+        "al": null
+      },
+      {
+        "organo_id": "0-150",
+        "nome": "Commissione parlamentare di inchiesta sul sistema bancario, finanziario e assicurativo Commissione parlamentare di inchiesta sistema bancario, finanziario e assicurativo",
+        "tipo_organo": "Commissioni di inchiesta monocamerali",
+        "ruolo": "Membro",
+        "dal": "2025-02-25",
+        "al": null
+      }
+    ],
+    "incarichi": []
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Franceschelli_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Franceschelli_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00036400.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/36400",
+    "wikidata": "http://www.wikidata.org/entity/Q73678594",
+    "aggiornato_il": "2026-10-14"
+  }
+}

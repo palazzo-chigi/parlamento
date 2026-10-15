@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="it" data-bs-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <script>
+    // stile grafico: ?theme=ep|hud nell'URL, altrimenti l'ultima scelta salvata (vedi js/theme.js)
+    (() => {
+      let t = new URLSearchParams(location.search).get('theme');
+      try { if (t === 'ep' || t === 'hud') localStorage.setItem('emiciclo-theme', t); else t = localStorage.getItem('emiciclo-theme'); } catch {}
+      if (t === 'ep') { document.documentElement.dataset.theme = 'ep'; document.documentElement.setAttribute('data-bs-theme', 'light'); }
+    })();
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Statistiche — Emiciclo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Open+Sans:wght@400;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+  <link href="css/theme-ep.css" rel="stylesheet">
+</head>
+<body>
+
+<nav class="navbar border-bottom">
+  <div class="container-fluid gap-3">
+    <a class="brand text-decoration-none" href="index.html"><span class="dot"></span>Emiciclo <small>/ statistiche</small></a>
+
+    <div class="btn-group" role="group" aria-label="Camera o Senato">
+      <input type="radio" class="btn-check" name="scope" id="scope-all" value="all" checked>
+      <label class="btn btn-outline-secondary btn-sm" for="scope-all">Parlamento</label>
+      <input type="radio" class="btn-check" name="scope" id="scope-camera" value="Camera">
+      <label class="btn btn-outline-secondary btn-sm" for="scope-camera">Camera</label>
+      <input type="radio" class="btn-check" name="scope" id="scope-senato" value="Senato">
+      <label class="btn btn-outline-secondary btn-sm" for="scope-senato">Senato</label>
+    </div>
+
+    <a class="btn btn-outline-secondary btn-sm ms-auto" href="index.html">← Aula 3D</a>
+    <div class="btn-group theme-switch" role="group" aria-label="Stile grafico">
+      <input type="radio" class="btn-check" name="theme" id="theme-hud" value="hud" checked>
+      <label class="btn btn-outline-secondary btn-sm" for="theme-hud" title="Stile HUD scuro">HUD</label>
+      <input type="radio" class="btn-check" name="theme" id="theme-ep" value="ep">
+      <label class="btn btn-outline-secondary btn-sm" for="theme-ep" title="Stile istituzionale ispirato al Parlamento europeo">Europarl</label>
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid py-3">
+  <p class="hint mb-3">
+    Solo parlamentari <strong>in carica</strong>. Tutti i dati vengono dagli endpoint SPARQL ufficiali
+    (<a href="https://dati.camera.it/sparql" target="_blank" rel="noopener">dati.camera.it</a>,
+    <a href="https://dati.senato.it/sparql" target="_blank" rel="noopener">dati.senato.it</a>), aggiornati il <span id="updated-at">—</span>.
+    Ogni grafico spiega cosa mostra e da dove viene il dato.
+  </p>
+
+  <div class="row row-cols-2 row-cols-md-3 row-cols-xl-6 g-2 mb-3" id="stat-cards"></div>
+
+  <div class="row g-3" id="charts"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script type="module" src="js/theme.js"></script>
+<script type="module" src="js/stats.js"></script>
+</body>
+</html>

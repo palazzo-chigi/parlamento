@@ -1,0 +1,168 @@
+{
+  "id": "camera_308872",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Enrica",
+    "cognome": "Alifano",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308872.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308872&legislatura=19",
+    "data_nascita": "1967-01-31",
+    "luogo_nascita": "Caserta",
+    "titolo_studio": "Dottorato di ricerca",
+    "professione": "Avvocato penalista"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "CAMPANIA 2 - P01",
+    "collegio": null,
+    "lista": "MOVIMENTO 5 STELLE",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4131",
+      "nome": "MOVIMENTO 5 STELLE",
+      "sigla": "M5S",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4131",
+        "nome": "MOVIMENTO 5 STELLE",
+        "sigla": "M5S",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3506",
+        "nome": "VI COMMISSIONE (FINANZE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2024-01-30"
+      },
+      {
+        "organo_id": "o19_3501",
+        "nome": "I COMMISSIONE (AFFARI COSTITUZIONALI, DELLA PRESIDENZA DEL CONSIGLIO E INTERNI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2024-01-30",
+        "al": "2025-06-10"
+      },
+      {
+        "organo_id": "o19_3520",
+        "nome": "GIUNTA PER LE AUTORIZZAZIONI",
+        "tipo_organo": "GIUNTA PER LE AUTORIZZAZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3681",
+        "nome": "COMITATO PARLAMENTARE PER I PROCEDIMENTI DI ACCUSA",
+        "tipo_organo": "COMITATO PER I PROCEDIMENTI DI ACCUSA",
+        "ruolo": "Titolare",
+        "dal": "2022-11-16",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4001",
+        "nome": "COMMISSIONE PARLAMENTARE PER L'ATTUAZIONE DEL FEDERALISMO FISCALE",
+        "tipo_organo": "COMMISSIONE BICAMERALE CONSULTIVA",
+        "ruolo": "Titolare",
+        "dal": "2023-07-31",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4301",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUGLI EFFETTI ECONOMICI E SOCIALI DERIVANTI DALLA TRANSIZIONE DEMOGRAFICA IN ATTO",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2025-01-16",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3506",
+        "nome": "VI COMMISSIONE (FINANZE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "DELEGATO D'AULA",
+        "organo": "Gruppo M5S",
+        "dal": "2025-01-21",
+        "al": null
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "Gruppo M5S",
+        "dal": "2025-01-21",
+        "al": null
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUGLI EFFETTI ECONOMICI E SOCIALI DERIVANTI DALLA TRANSIZIONE DEMOGRAFICA IN ATTO",
+        "dal": "2025-02-11",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "VI COMMISSIONE (FINANZE)",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308872",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308872",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308872_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308872#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/f653da58-d3e2-4434-ab56-f6b647917c45"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/a68a5048-8705-4319-8b9b-5971201b8d0e"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/ea3fc4fc-9137-420c-8acc-1d704ef116f5"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/71b5f434-227b-466c-874f-719c2dd000e0"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/ALIFANO_ENRICA.pdf?t=1751725875"
+}

@@ -1,0 +1,215 @@
+{
+  "id": "camera_300480",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Roberto",
+    "cognome": "Giachetti",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d300480.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=300480&legislatura=19",
+    "data_nascita": "1961-04-24",
+    "luogo_nascita": "Roma",
+    "titolo_studio": "Diploma di liceo scientifico",
+    "professione": "Giornalista professionista"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "LAZIO 1 - P01",
+    "collegio": null,
+    "lista": "AZIONE - ITALIA VIVA - CALENDA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4211",
+      "nome": "ITALIA VIVA-CASA RIFORMISTA",
+      "sigla": "IV-CR",
+      "dal": "2023-11-20",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4135",
+        "nome": "AZIONE-POPOLARI EUROPEISTI RIFORMATORI-RENEW EUROPE",
+        "sigla": "AZ-PER-RE",
+        "dal": "2022-10-18",
+        "al": "2023-11-20",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4211",
+        "nome": "ITALIA VIVA-CASA RIFORMISTA",
+        "sigla": "IV-CR",
+        "dal": "2023-11-20",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 1,
+    "legislature_precedenti": [
+      {
+        "legislatura": 14,
+        "camera": "Camera",
+        "dal": "2001-05-30",
+        "al": "2006-04-27"
+      },
+      {
+        "legislatura": 15,
+        "camera": "Camera",
+        "dal": "2006-04-21",
+        "al": "2008-04-28"
+      },
+      {
+        "legislatura": 16,
+        "camera": "Camera",
+        "dal": "2008-04-22",
+        "al": "2013-03-14"
+      },
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-05",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-09",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3761",
+        "nome": "COMMISSIONE D'INDAGINE SERRACCHIANI, LAI, ORLANDO-DONZELLI",
+        "tipo_organo": "COMMISSIONE D'INDAGINE EX ARTICOLO 58 (GIURI' D'ONORE)",
+        "ruolo": "Titolare",
+        "dal": "2023-02-03",
+        "al": "2023-03-15"
+      },
+      {
+        "organo_id": "o19_3501",
+        "nome": "I COMMISSIONE (AFFARI COSTITUZIONALI, DELLA PRESIDENZA DEL CONSIGLIO E INTERNI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2023-06-23"
+      },
+      {
+        "organo_id": "o19_3541",
+        "nome": "UFFICIO DI PRESIDENZA",
+        "tipo_organo": "ORGANO DELLA PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2022-10-26",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3783",
+        "nome": "COMITATO DI VIGILANZA SULL'ATTIVITA' DI DOCUMENTAZIONE",
+        "tipo_organo": "COMITATI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2023-02-23",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3507",
+        "nome": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-06-23",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4082",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA MORTE DI DAVID ROSSI",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-11-08",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "I COMMISSIONE (AFFARI COSTITUZIONALI, DELLA PRESIDENZA DEL CONSIGLIO E INTERNI)",
+        "dal": "2022-11-09",
+        "al": "2023-06-23"
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "UFFICIO DI PRESIDENZA",
+        "dal": "2022-10-26",
+        "al": null
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMITATO DI VIGILANZA SULL'ATTIVITA' DI DOCUMENTAZIONE",
+        "dal": "2023-02-23",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "dal": "2023-06-23",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA MORTE DI DAVID ROSSI",
+        "dal": "2024-03-05",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA MORTE DI DAVID ROSSI",
+        "dal": "2024-03-11",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-300480",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;300480",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d300480_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-300480#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/b9c8f3bf-e5b1-43e7-97bd-ec26ae756a45"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/38f7cfce-bc6d-4577-9e71-5c9b9d7e2a55"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/a53b76c3-2d5b-42fc-9be4-fd690b8fde08"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/eea7c298-b7d1-4abb-a10d-94718c59d238"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/74f5944e-a089-40b5-91ae-a05c2c2789cb"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/GIACHETTI_ROBERTO.pdf?t=1774512408"
+}

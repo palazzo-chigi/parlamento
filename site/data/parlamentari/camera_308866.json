@@ -1,0 +1,124 @@
+{
+  "id": "camera_308866",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Guerino",
+    "cognome": "Testa",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308866.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308866&legislatura=19",
+    "data_nascita": "1970-03-16",
+    "luogo_nascita": "Pescara",
+    "titolo_studio": "Laurea in economia e commercio",
+    "professione": "Commercialista"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "ABRUZZO - P01",
+    "collegio": "ABRUZZO - U02",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3506",
+        "nome": "VI COMMISSIONE (FINANZE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4022",
+        "nome": "COMMISSIONE PARLAMENTARE DI CONTROLLO SULL'ATTIVITA' DEGLI ENTI GESTORI DI FORME OBBLIGATORIE DI PREVIDENZA E ASSISTENZA SOCIALE",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI INDIRIZZO, VIGILANZA E CONTROLLO",
+        "ruolo": "Titolare",
+        "dal": "2023-09-07",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4321",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUL RISCHIO IDROGEOLOGICO E SISMICO DEL TERRITORIO ITALIANO, SULL'ATTUAZIONE DELLE NORME DI PREVENZIONE E SICUREZZA E SUGLI INTERVENTI DI EMERGENZA E DI RICOSTRUZIONE A SEGUITO DEGLI EVENTI CALAMITOSI VERIFICATISI DALL'ANNO 2019",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2025-03-05",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "SEGRETARIO",
+        "organo": "VI COMMISSIONE (FINANZE)",
+        "dal": "2022-11-09",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "VI COMMISSIONE (FINANZE)",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308866",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308866",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308866_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308866#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/933daba7-0ad0-421f-8ee9-9207cac37298"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/998655ab-10cf-4627-be1f-6a307c34ec6a"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/87c00515-1152-41a2-902c-d664b9851e12"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/0e1c73ac-600b-4b9b-8a19-3c4a74776f1b"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/TESTA_GUERINO.pdf?t=1772212638"
+}

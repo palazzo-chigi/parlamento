@@ -1,0 +1,144 @@
+{
+  "id": "senato_36404",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Ada",
+    "cognome": "Lopreiato",
+    "genere": "F",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Ada%20Lopreiato%20XIX.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00036404.jpg",
+    "data_nascita": "1971-09-06",
+    "luogo_nascita": "Napoli",
+    "titolo_studio": null,
+    "professione": "Avvocato"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "Campania",
+    "collegio": "CAMPANIA - U04 (NAPOLI: QUARTIERE 19 - FUORIGROTTA)",
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto uninominale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "71",
+      "nome": "MoVimento 5 Stelle",
+      "sigla": "M5S",
+      "carica": "Segretario",
+      "dal": "2026-02-26",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "71",
+        "nome": "MoVimento 5 Stelle",
+        "sigla": "M5S",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": "2026-02-25",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "71",
+        "nome": "MoVimento 5 Stelle",
+        "sigla": "M5S",
+        "carica": "Segretario",
+        "dal": "2026-02-26",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-2",
+        "nome": "2ª Commissione permanente Giustizia",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-43",
+        "nome": "Comitato parlamentare per i procedimenti di accusa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-03-09",
+        "al": null
+      },
+      {
+        "organo_id": "0-21",
+        "nome": "Giunta delle elezioni e delle immunita' parlamentari",
+        "tipo_organo": "Giunte",
+        "ruolo": "Membro",
+        "dal": "2023-03-09",
+        "al": null
+      },
+      {
+        "organo_id": "0-143",
+        "nome": "Commissione straordinaria per il contrasto dei fenomeni di intolleranza, razzismo, antisemitismo e istigazione all'odio e alla violenza Commissione straordinaria intolleranza, razzismo, antisemitismo, istigazione all'odio e alla violenza",
+        "tipo_organo": "Commissioni straordinarie",
+        "ruolo": "Membro",
+        "dal": "2023-04-21",
+        "al": null
+      },
+      {
+        "organo_id": "4-227",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea Parlamentare del Mediterraneo (PAM) Delegazione italiana Assemblea Parlamentare del Mediterraneo (PAM)",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-05-23",
+        "al": null
+      },
+      {
+        "organo_id": "0-57",
+        "nome": "Commissione contenziosa",
+        "tipo_organo": "Organismi interni e di garanzia",
+        "ruolo": "Membro",
+        "dal": "2023-07-05",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Segretario",
+        "organo": "Gruppo M5S",
+        "dal": "2026-02-26",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Lopreiato_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Lopreiato_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00036404.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/36404",
+    "wikidata": "http://www.wikidata.org/entity/Q114735603",
+    "aggiornato_il": "2026-10-14"
+  }
+}

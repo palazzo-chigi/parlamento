@@ -1,0 +1,195 @@
+{
+  "id": "camera_308001",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Valentina",
+    "cognome": "Barzotti",
+    "genere": "F",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308001.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308001&legislatura=19",
+    "data_nascita": "1986-02-05",
+    "luogo_nascita": "Milano",
+    "titolo_studio": "Laurea in giurisprudenza, Laurea in Management of human resoruces and labour studies",
+    "professione": "Avvocato"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "LOMBARDIA 4 - P01",
+    "collegio": null,
+    "lista": "MOVIMENTO 5 STELLE",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-10",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-10",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4131",
+      "nome": "MOVIMENTO 5 STELLE",
+      "sigla": "M5S",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4131",
+        "nome": "MOVIMENTO 5 STELLE",
+        "sigla": "M5S",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-09-11",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3511",
+        "nome": "XI COMMISSIONE (LAVORO PUBBLICO E PRIVATO)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2023-06-20"
+      },
+      {
+        "organo_id": "o19_3507",
+        "nome": "VII COMMISSIONE (CULTURA, SCIENZA E ISTRUZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-06-20",
+        "al": "2023-07-12"
+      },
+      {
+        "organo_id": "o19_3721",
+        "nome": "CONFERENZA DEI PRESIDENTI DELLE COMMISSIONI PERMANENTI",
+        "tipo_organo": "CONFERENZA DEI PRESIDENTI DELLE COMMISSIONI PERMANENTI",
+        "ruolo": "Titolare",
+        "dal": "2025-05-10",
+        "al": "2026-03-09"
+      },
+      {
+        "organo_id": "o19_3511",
+        "nome": "XI COMMISSIONE (LAVORO PUBBLICO E PRIVATO)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-12",
+        "al": "2026-05-12"
+      },
+      {
+        "organo_id": "o19_3517",
+        "nome": "COMITATO PER LA LEGISLAZIONE",
+        "tipo_organo": "COMITATO PER LA LEGISLAZIONE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3921",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CONDIZIONI DI LAVORO IN ITALIA, SULLO SFRUTTAMENTO E SULLA TUTELA DELLA SALUTE E DELLA SICUREZZA NEI LUOGHI DI LAVORO PUBBLICI E PRIVATI",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2023-06-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4042",
+        "nome": "COMMISSIONE GIURISDIZIONALE PER IL PERSONALE",
+        "tipo_organo": "ORGANI GIURISDIZIONALI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2023-08-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3509",
+        "nome": "IX COMMISSIONE (TRASPORTI, POSTE E TELECOMUNICAZIONI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2026-05-12",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "XI COMMISSIONE (LAVORO PUBBLICO E PRIVATO)",
+        "dal": "2023-03-29",
+        "al": "2023-06-20"
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMITATO PER LA LEGISLAZIONE",
+        "dal": "2022-11-10",
+        "al": "2024-07-08"
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "COMITATO PER LA LEGISLAZIONE",
+        "dal": "2024-07-09",
+        "al": "2025-05-09"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "XI COMMISSIONE (LAVORO PUBBLICO E PRIVATO)",
+        "dal": "2023-07-12",
+        "al": "2025-07-23"
+      },
+      {
+        "carica": "PRESIDENTE",
+        "organo": "COMITATO PER LA LEGISLAZIONE",
+        "dal": "2025-05-10",
+        "al": "2026-03-09"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CONDIZIONI DI LAVORO IN ITALIA, SULLO SFRUTTAMENTO E SULLA TUTELA DELLA SALUTE E DELLA SICUREZZA NEI LUOGHI DI LAVORO PUBBLICI E PRIVATI",
+        "dal": "2023-06-22",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308001",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308001",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308001_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308001#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/1329b114-7543-4427-9171-326fa7a7138d"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/7d49c77f-ed6e-47d8-aa91-78b46bb254fa"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/b0f9ec44-6a94-4ac9-bfe8-167592ba2940"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/918de98f-c938-4e57-8273-2463a57f73b9"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/BARZOTTI_VALENTINA.pdf?t=1772209902"
+}

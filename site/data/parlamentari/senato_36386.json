@@ -1,0 +1,159 @@
+{
+  "id": "senato_36386",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Mara",
+    "cognome": "Bizzotto",
+    "genere": "F",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Mara%20Bizzotto%20-%20Ritratto%20Ufficiale%2C%202022%20-%20Senato.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00036386.jpg",
+    "data_nascita": "1972-06-03",
+    "luogo_nascita": "Bassano Del Grappa, Vicenza",
+    "titolo_studio": null,
+    "professione": null
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "Veneto",
+    "collegio": "VENETO - U04 (VICENZA)",
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto uninominale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "33",
+      "nome": "Lega Salvini Premier - Partito Sardo d'Azione",
+      "sigla": "LSP-PSd'Az",
+      "carica": "Membro",
+      "dal": "2026-06-30",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "33",
+        "nome": "Lega Salvini Premier - Partito Sardo d'Azione",
+        "sigla": "LSP-PSd'Az",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": "2022-11-07",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "33",
+        "nome": "Lega Salvini Premier - Partito Sardo d'Azione",
+        "sigla": "LSP-PSd'Az",
+        "carica": "Vicepresidente Vicario",
+        "dal": "2022-11-08",
+        "al": "2026-06-29",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "33",
+        "nome": "Lega Salvini Premier - Partito Sardo d'Azione",
+        "sigla": "LSP-PSd'Az",
+        "carica": "Membro",
+        "dal": "2026-06-30",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "4-26",
+        "nome": "Comitato parlamentare di controllo sull'attuazione dell'Accordo di Schengen, di vigilanza sull'attività di Europol, di controllo e vigilanza in materia di immigrazione Comitato parlamentare Schengen, Europol e immigrazione",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-08-02",
+        "al": "2023-09-11"
+      },
+      {
+        "organo_id": "4-146",
+        "nome": "Commissione parlamentare per l'attuazione del federalismo fiscale",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2023-07-27",
+        "al": "2026-04-23"
+      },
+      {
+        "organo_id": "4-128",
+        "nome": "Commissione parlamentare di inchiesta sulle attività illecite connesse al ciclo dei rifiuti e su altri illeciti ambientali e agroalimentari Commissione di inchiesta sul ciclo dei rifiuti e illeciti ambientali e agroalimentari",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-09-07",
+        "al": "2026-04-23"
+      },
+      {
+        "organo_id": "4-225",
+        "nome": "Commissione parlamentare di inchiesta sulla scomparsa di Emanuela Orlandi e di Mirella Gregori Commissione di inchiesta scomparsa Orlandi e Gregori",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-03-12",
+        "al": "2026-04-23"
+      },
+      {
+        "organo_id": "4-26",
+        "nome": "Comitato parlamentare di controllo sull'attuazione dell'Accordo di Schengen, di vigilanza sull'attività di Europol, di controllo e vigilanza in materia di immigrazione Comitato parlamentare Schengen, Europol e immigrazione",
+        "tipo_organo": null,
+        "ruolo": "Vicepresidente",
+        "dal": "2023-09-12",
+        "al": "2026-05-11"
+      },
+      {
+        "organo_id": "0-147",
+        "nome": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Vicepresidente",
+        "organo": "Comitato parlamentare di controllo sull'attuazione dell'Accordo di Schengen, di vigilanza sull'attività di Europol, di controllo e vigilanza in materia di immigrazione Comitato parlamentare Schengen, Europol e immigrazione",
+        "dal": "2023-09-12",
+        "al": "2026-05-11"
+      },
+      {
+        "carica": "Vicepresidente Vicario",
+        "organo": "Gruppo LSP-PSd'Az",
+        "dal": "2022-11-08",
+        "al": "2026-06-29"
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Bizzotto_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Bizzotto_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00036386.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/36386",
+    "wikidata": "http://www.wikidata.org/entity/Q583545",
+    "aggiornato_il": "2026-10-14"
+  }
+}

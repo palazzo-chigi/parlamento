@@ -1,0 +1,218 @@
+{
+  "id": "camera_308782",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Franco",
+    "cognome": "Tirelli",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d308782.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=308782&legislatura=19",
+    "data_nascita": "1965-10-10",
+    "luogo_nascita": "Rosario",
+    "titolo_studio": "Laurea in giurisprudenza",
+    "professione": "Avvocato civilista"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "AMERICA MERIDIONALE",
+    "collegio": null,
+    "lista": "MOVIMENTO ASSOCIATIVO ITALIANI ALL'ESTERO - MAIE",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-04",
+    "data_convalida": "2026-02-18",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-04",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4152",
+      "nome": "NOI MODERATI",
+      "sigla": "NM(N-C-U-I)M-CP",
+      "dal": "2022-10-27",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4111",
+        "nome": "MISTO",
+        "sigla": "MISTO",
+        "dal": "2022-10-18",
+        "al": "2022-10-27",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4152",
+        "nome": "NOI MODERATI",
+        "sigla": "NM(N-C-U-I)M-CP",
+        "dal": "2022-10-27",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 1,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3503",
+        "nome": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2025-02-27"
+      },
+      {
+        "organo_id": "o19_3983",
+        "nome": "COMITATO PERMANENTE SUGLI ITALIANI NEL MONDO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-27",
+        "al": "2025-02-27"
+      },
+      {
+        "organo_id": "o19_3985",
+        "nome": "COMITATO PERMANENTE SULLA TUTELA DELLA LIBERTA' RELIGIOSA NELLA SFERA INTERNAZIONALE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-27",
+        "al": "2025-02-27"
+      },
+      {
+        "organo_id": "o19_3986",
+        "nome": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER IL MEDITERRANEO E PER L'AFRICA",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-02-27"
+      },
+      {
+        "organo_id": "o19_3982",
+        "nome": "COMITATO PERMANENTE SUI DIRITTI UMANI NEL MONDO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-02-27"
+      },
+      {
+        "organo_id": "o19_3987",
+        "nome": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'INDO-PACIFICO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-02-27"
+      },
+      {
+        "organo_id": "o19_3981",
+        "nome": "COMITATO PERMANENTE SULL'ATTUAZIONE DELL'AGENDA 2030 E LO SVILUPPO SOSTENIBILE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-02-27"
+      },
+      {
+        "organo_id": "o19_3984",
+        "nome": "COMITATO PERMANENTE SUL COMMERCIO INTERNAZIONALE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-02-27"
+      },
+      {
+        "organo_id": "o19_4182",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CAUSE DEL DISASTRO DELLA NAVE \"MOBY PRINCE\"",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2024-02-29",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4301",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUGLI EFFETTI ECONOMICI E SOCIALI DERIVANTI DALLA TRANSIZIONE DEMOGRAFICA IN ATTO",
+        "tipo_organo": "COMMISSIONE MONOCAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2025-01-16",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3509",
+        "nome": "IX COMMISSIONE (TRASPORTI, POSTE E TELECOMUNICAZIONI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-02-27",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "dal": "2022-11-09",
+        "al": "2025-02-27"
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "COMITATO PERMANENTE SUGLI ITALIANI NEL MONDO",
+        "dal": "2023-07-27",
+        "al": "2025-02-27"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLE CAUSE DEL DISASTRO DELLA NAVE \"MOBY PRINCE\"",
+        "dal": "2024-03-20",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE DI INCHIESTA SUGLI EFFETTI ECONOMICI E SOCIALI DERIVANTI DALLA TRANSIZIONE DEMOGRAFICA IN ATTO",
+        "dal": "2025-02-17",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "IX COMMISSIONE (TRASPORTI, POSTE E TELECOMUNICAZIONI)",
+        "dal": "2025-02-27",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-308782",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;308782",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d308782_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-308782#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/ae9685d7-b922-4cd5-9468-3363d88fb842"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/12266912-0c4e-4ace-93c1-f338b1759962"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/6c35bf1e-6cf8-4b6c-948e-84990479d7ee"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/b98473d4-9dc2-4cec-b2aa-9c4e4dfa0ac8"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/a52f5caa-0037-4dd5-9fd0-8f01632429df"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/TIRELLI_FRANCO.pdf?t=1772212704"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "senato_36436",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Marco",
+    "cognome": "Lombardo",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Marco%20Lombardo%20XIX.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00036436.jpg",
+    "data_nascita": "1981-01-02",
+    "luogo_nascita": "LOCRI, Reggio di Calabria",
+    "titolo_studio": null,
+    "professione": "Docente universitario"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Lombardia",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "9",
+      "nome": "Misto",
+      "sigla": "Misto",
+      "carica": "Membro",
+      "dal": "2023-11-09",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "91",
+        "nome": "Italia Viva - Casa Riformista",
+        "sigla": "IV-CR",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": "2022-10-18",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "91",
+        "nome": "Italia Viva - Casa Riformista",
+        "sigla": "IV-CR",
+        "carica": "Segretario",
+        "dal": "2022-10-19",
+        "al": "2023-11-08",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "9",
+        "nome": "Misto",
+        "sigla": "Misto",
+        "carica": "Membro",
+        "dal": "2023-11-09",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 1,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-14",
+        "nome": "4ª Commissione permanente Politiche dell'Unione europea",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2022-11-09"
+      },
+      {
+        "organo_id": "0-5",
+        "nome": "5ª Commissione permanente Bilancio",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2023-05-10"
+      },
+      {
+        "organo_id": "0-14",
+        "nome": "4ª Commissione permanente Politiche dell'Unione europea",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Segretario",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "0-142",
+        "nome": "Commissione parlamentare di inchiesta sulle condizioni di lavoro in Italia, sullo sfruttamento e sulla sicurezza nei luoghi di lavoro Commissione parlamentare di inchiesta condizioni di lavoro in Italia, sfruttamento e sicurezza luoghi di lavoro",
+        "tipo_organo": "Commissioni di inchiesta monocamerali",
+        "ruolo": "Membro",
+        "dal": "2023-06-01",
+        "al": null
+      },
+      {
+        "organo_id": "0-75",
+        "nome": "Commissione straordinaria per la tutela e la promozione dei diritti umani Commissione straordinaria diritti umani",
+        "tipo_organo": "Commissioni straordinarie",
+        "ruolo": "Membro",
+        "dal": "2023-06-12",
+        "al": null
+      },
+      {
+        "organo_id": "4-134",
+        "nome": "Commissione parlamentare per la semplificazione",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-03-19",
+        "al": null
+      },
+      {
+        "organo_id": "0-14",
+        "nome": "4ª Commissione permanente Politiche dell'Unione europea",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Segretario",
+        "organo": "Gruppo IV-CR",
+        "dal": "2022-10-19",
+        "al": "2023-11-08"
+      },
+      {
+        "carica": "Segretario",
+        "organo": "4ª Commissione permanente Politiche dell'Unione europea",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Lombardo_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Lombardo_2023_2.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00036436.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/36436",
+    "wikidata": "http://www.wikidata.org/entity/Q114741592",
+    "aggiornato_il": "2026-10-14"
+  }
+}

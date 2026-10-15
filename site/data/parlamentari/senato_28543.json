@@ -1,0 +1,143 @@
+{
+  "id": "senato_28543",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Mario",
+    "cognome": "Monti",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Monti%20portrait%20november%202011.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00028543.jpg",
+    "data_nascita": "1943-03-19",
+    "luogo_nascita": "Varese",
+    "titolo_studio": null,
+    "professione": "Docente universitario"
+  },
+  "elezione": {
+    "tipo": null,
+    "circoscrizione": null,
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": null
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "a vita, di nomina del Presidente della Repubblica"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "9",
+      "nome": "Misto",
+      "sigla": "Misto",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "9",
+        "nome": "Misto",
+        "sigla": "Misto",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 16,
+        "camera": "Senato",
+        "dal": "2011-11-09",
+        "al": "2013-03-14"
+      },
+      {
+        "legislatura": 17,
+        "camera": "Senato",
+        "dal": "2013-03-15",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Senato",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-145",
+        "nome": "3ª Commissione permanente Affari esteri e difesa",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      }
+    ],
+    "incarichi": []
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2013,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/MONTI_2013.pdf"
+    },
+    {
+      "anno": 2014,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2014/Monti_2014.pdf"
+    },
+    {
+      "anno": 2015,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2015/Monti_2015.pdf"
+    },
+    {
+      "anno": 2016,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2016/Monti_2016.pdf"
+    },
+    {
+      "anno": 2017,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2017/Monti_2017.pdf"
+    },
+    {
+      "anno": 2018,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2018/Monti_2018.pdf"
+    },
+    {
+      "anno": 2019,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2019/Monti_2019.pdf"
+    },
+    {
+      "anno": 2020,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2020/Monti_2020.pdf"
+    },
+    {
+      "anno": 2021,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2021/Monti_2021.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2022/Monti_2022.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Monti_2022.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00028543.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/28543",
+    "wikidata": "http://www.wikidata.org/entity/Q47904",
+    "aggiornato_il": "2026-10-14"
+  }
+}

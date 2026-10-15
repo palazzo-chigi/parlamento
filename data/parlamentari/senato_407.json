@@ -1,0 +1,153 @@
+{
+  "id": "senato_407",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Alessio",
+    "cognome": "Butti",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Alessio%20Butti%20daticamera%202018.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00000407.jpg",
+    "data_nascita": "1964-10-15",
+    "luogo_nascita": "Como",
+    "titolo_studio": null,
+    "professione": "Consulente"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Lombardia",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "85",
+      "nome": "Fratelli d'Italia",
+      "sigla": "FdI",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "85",
+        "nome": "Fratelli d'Italia",
+        "sigla": "FdI",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 11,
+        "camera": "Camera",
+        "dal": "1992-04-23",
+        "al": "1994-04-14"
+      },
+      {
+        "legislatura": 13,
+        "camera": "Camera",
+        "dal": "1996-05-09",
+        "al": "2001-05-29"
+      },
+      {
+        "legislatura": 14,
+        "camera": "Camera",
+        "dal": "2001-05-30",
+        "al": "2006-04-27"
+      },
+      {
+        "legislatura": 15,
+        "camera": "Senato",
+        "dal": "2006-04-28",
+        "al": "2008-04-28"
+      },
+      {
+        "legislatura": 16,
+        "camera": "Senato",
+        "dal": "2008-04-29",
+        "al": "2013-03-14"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-6",
+        "nome": "6ª Commissione permanente Finanze e tesoro",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2023-07-17"
+      },
+      {
+        "organo_id": "0-7",
+        "nome": "7ª Commissione permanente Cultura e patrimonio culturale, istruzione pubblica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2023-07-18",
+        "al": null
+      }
+    ],
+    "incarichi": []
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2008,
+      "url": "http://www.senato.it/documenti/repository/documentazione/BUTTI%202008.pdf"
+    },
+    {
+      "anno": 2009,
+      "url": "http://www.senato.it/documenti/repository/documentazione/BUTTI%202009.pdf"
+    },
+    {
+      "anno": 2010,
+      "url": "http://www.senato.it/documenti/repository/documentazione/BUTTI%202010.pdf"
+    },
+    {
+      "anno": 2011,
+      "url": "http://www.senato.it/documenti/repository/documentazione/BUTTI%202011.pdf"
+    },
+    {
+      "anno": 2012,
+      "url": "http://www.senato.it/documenti/repository/commissioni/giunta%20elezioni%20e%20immunit/BUTTI%202012.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Butti_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Butti_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00000407.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/407",
+    "wikidata": "http://www.wikidata.org/entity/Q3610479",
+    "aggiornato_il": "2026-10-14"
+  }
+}

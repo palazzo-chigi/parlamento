@@ -1,0 +1,139 @@
+{
+  "id": "senato_24016",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Sandra",
+    "cognome": "Zampa",
+    "genere": "F",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandra%20Zampa%20daticamera.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00024016.jpg",
+    "data_nascita": "1956-05-16",
+    "luogo_nascita": "Mercato Saraceno, Forli'-Cesena",
+    "titolo_studio": null,
+    "professione": "Giornalista"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Emilia-Romagna",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "49",
+      "nome": "Partito Democratico - Italia Democratica e Progressista",
+      "sigla": "PD-IDP",
+      "carica": "Segretario",
+      "dal": "2022-10-25",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": "2022-10-24",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Segretario",
+        "dal": "2022-10-25",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 16,
+        "camera": "Camera",
+        "dal": "2008-04-29",
+        "al": "2013-03-14"
+      },
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-15",
+        "al": "2018-03-22"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "4-90",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea del Consiglio d'Europa Delegazione italiana presso l'Assemblea Consiglio d'Europa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-01-11",
+        "al": "2023-04-12"
+      },
+      {
+        "organo_id": "0-148",
+        "nome": "10ª Commissione permanente Affari sociali, sanità, lavoro pubblico e privato, previdenza sociale",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-90",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea del Consiglio d'Europa Delegazione italiana presso l'Assemblea Consiglio d'Europa",
+        "tipo_organo": null,
+        "ruolo": "Vicepresidente",
+        "dal": "2023-04-13",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Segretario",
+        "organo": "Gruppo PD-IDP",
+        "dal": "2022-10-25",
+        "al": null
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "Delegazione parlamentare italiana presso l'Assemblea del Consiglio d'Europa Delegazione italiana presso l'Assemblea Consiglio d'Europa",
+        "dal": "2023-04-13",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Zampa_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Zampa_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00024016.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/24016",
+    "wikidata": "http://www.wikidata.org/entity/Q3948177",
+    "aggiornato_il": "2026-10-14"
+  }
+}

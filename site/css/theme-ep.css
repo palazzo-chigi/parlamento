@@ -1,0 +1,215 @@
+/* ==========================================================================
+   Stile "Europarl": istituzionale, chiaro, ispirato all'identità visiva del
+   Parlamento europeo (blu UE, oro delle stelle, Open Sans, superfici piatte).
+   Si attiva con <html data-theme="ep">; lo stile HUD resta in style.css.
+   ========================================================================== */
+
+:root[data-theme="ep"] {
+  --bg: #f3f5f8;
+  --panel: #ffffff;
+  --line: #dde2e9;
+  --line-strong: #b9c3d1;
+  --accent: #003399;
+  --accent-2: #0b5ed7;
+  --gold: #ffcc00;
+  --text: #1f2933;
+  --muted: #5d6b7c;
+  --mono: 'Open Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --sans: 'Open Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+[data-theme="ep"] body { background-image: none; font-size: 0.95rem; }
+
+/* ---------- navbar: barra blu istituzionale ---------- */
+[data-theme="ep"] .navbar {
+  background: var(--accent) !important;
+  backdrop-filter: none;
+  border-bottom: 4px solid var(--gold) !important;
+}
+[data-theme="ep"] .brand,
+[data-theme="ep"] .brand:hover {
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: none;
+  font-size: 1.1rem;
+}
+[data-theme="ep"] .brand .dot {
+  width: 22px; height: 22px;
+  background: none; box-shadow: none; animation: none;
+  /* cerchio di stelle stilizzato */
+  background-image: radial-gradient(circle, var(--gold) 0 1.6px, transparent 2px);
+  background-size: 7px 7px;
+  border-radius: 50%;
+  border: 2px dotted var(--gold);
+}
+[data-theme="ep"] .brand small { color: rgba(255, 255, 255, 0.75); font-size: 0.8rem; letter-spacing: 0; }
+
+[data-theme="ep"] .btn-outline-secondary {
+  font-family: var(--sans);
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-radius: 3px;
+}
+[data-theme="ep"] .navbar .btn-outline-secondary { color: #fff; border-color: rgba(255, 255, 255, 0.55); }
+[data-theme="ep"] .navbar .btn-check:checked + .btn-outline-secondary,
+[data-theme="ep"] .navbar .btn-outline-secondary:hover {
+  background: #fff; color: var(--accent); border-color: #fff; box-shadow: none;
+}
+[data-theme="ep"] .btn-check:checked + .btn-outline-secondary,
+[data-theme="ep"] .btn-outline-secondary:hover {
+  background: var(--accent); color: #fff; border-color: var(--accent); box-shadow: none;
+}
+
+[data-theme="ep"] .form-control,
+[data-theme="ep"] .form-select {
+  background-color: #fff;
+  border: 1px solid var(--line-strong);
+  color: var(--text);
+  font-size: 0.85rem;
+  border-radius: 3px;
+}
+[data-theme="ep"] .form-control:focus,
+[data-theme="ep"] .form-select:focus {
+  background-color: #fff;
+  color: var(--text);
+  border-color: var(--accent-2);
+  box-shadow: 0 0 0 0.2rem rgba(0, 51, 153, 0.18);
+}
+[data-theme="ep"] .navbar .form-control { border-color: #fff; }
+
+/* ---------- scena ---------- */
+[data-theme="ep"] #scene {
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(16, 24, 40, 0.08);
+}
+[data-theme="ep"] #scene::before, [data-theme="ep"] #scene::after,
+[data-theme="ep"] .hud-frame::before, [data-theme="ep"] .hud-frame::after,
+[data-theme="ep"] #scene .overlay { display: none; }
+
+[data-theme="ep"] #scene .hud-label {
+  text-transform: none; letter-spacing: 0; font-size: 0.8rem; font-weight: 600;
+  color: var(--accent); opacity: 1;
+}
+[data-theme="ep"] #scene .hud-label.bl { color: var(--muted); font-weight: 400; font-size: 0.72rem; }
+[data-theme="ep"] #scene .hud-btn {
+  background: #fff; border: 1px solid var(--line-strong); color: var(--accent);
+  text-transform: none; letter-spacing: 0; font-size: 0.75rem; font-weight: 600; border-radius: 3px;
+}
+[data-theme="ep"] #scene .hud-btn:hover { background: var(--accent); color: #fff; box-shadow: none; }
+
+[data-theme="ep"] .hint { font-size: 0.8rem; letter-spacing: 0; }
+
+/* tag al passaggio del mouse */
+[data-theme="ep"] .seat-tag .t-line { background: linear-gradient(to top, var(--accent), transparent); }
+[data-theme="ep"] .seat-tag .t-box {
+  background: #fff; border: 1px solid var(--line); border-left: 3px solid var(--accent);
+  border-radius: 3px; box-shadow: 0 4px 14px rgba(16, 24, 40, 0.15);
+}
+[data-theme="ep"] .seat-tag .t-box span { text-transform: none; letter-spacing: 0; font-size: 0.72rem; }
+
+/* dossier sul seggio */
+[data-theme="ep"] .dossier .d-line { box-shadow: none; background: var(--accent); }
+[data-theme="ep"] .dossier .d-line::before { background: var(--accent); box-shadow: 0 0 0 3px #fff; }
+[data-theme="ep"] .dossier .d-card {
+  background: #fff; border: 1px solid var(--line); border-top: 4px solid var(--g);
+  border-radius: 4px; box-shadow: 0 10px 30px rgba(16, 24, 40, 0.18);
+}
+[data-theme="ep"] .dossier .d-card::before, [data-theme="ep"] .dossier .d-card::after,
+[data-theme="ep"] .dossier .d-scan { display: none; }
+[data-theme="ep"] .dossier .d-head {
+  border-bottom: 1px solid var(--line); background: #f7f9fc;
+  letter-spacing: 0.04em; font-size: 0.7rem; font-weight: 600;
+}
+[data-theme="ep"] .dossier .d-close { border-color: var(--line); border-radius: 3px; }
+[data-theme="ep"] .dossier .d-photo { border-color: var(--line); background: #e9edf3; filter: none; border-radius: 2px; }
+[data-theme="ep"] .dossier .d-role { text-transform: none; letter-spacing: 0; font-size: 0.72rem; }
+[data-theme="ep"] .dossier .d-name { color: var(--accent); text-shadow: none; font-weight: 700; }
+[data-theme="ep"] .dossier dt { text-transform: none; letter-spacing: 0; font-size: 0.7rem; font-weight: 600; }
+[data-theme="ep"] .dossier .d-foot { border-top: 1px solid var(--line); background: #f7f9fc; }
+[data-theme="ep"] .dossier .d-status { color: #1b7f4b; letter-spacing: 0.04em; font-weight: 600; }
+[data-theme="ep"] .dossier .d-status i { box-shadow: none; animation: none; }
+[data-theme="ep"] .dossier .d-open {
+  background: var(--accent); border-color: var(--accent); color: #fff;
+  text-transform: none; letter-spacing: 0; font-size: 0.75rem; font-weight: 600; border-radius: 3px;
+}
+[data-theme="ep"] .dossier .d-open:hover { background: var(--accent-2); border-color: var(--accent-2); box-shadow: none; color: #fff; }
+
+/* ---------- pannelli ---------- */
+[data-theme="ep"] .card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  backdrop-filter: none;
+  box-shadow: 0 1px 3px rgba(16, 24, 40, 0.06);
+}
+[data-theme="ep"] .card-header {
+  border-bottom: 2px solid var(--accent) !important;
+  text-transform: none; letter-spacing: 0;
+  font-size: 0.9rem; font-weight: 700; color: var(--accent);
+}
+[data-theme="ep"] .card-footer { font-size: 0.75rem; background: #f7f9fc !important; }
+[data-theme="ep"] .card-footer a, [data-theme="ep"] #panel a { color: var(--accent-2); }
+
+[data-theme="ep"] .stat-card { border-top: 3px solid var(--gold); }
+[data-theme="ep"] .stat-card .value { color: var(--accent); text-shadow: none; font-weight: 700; }
+[data-theme="ep"] .stat-card .label { text-transform: none; letter-spacing: 0; font-size: 0.72rem; }
+
+[data-theme="ep"] .list-group-item { font-size: 0.85rem; }
+[data-theme="ep"] .list-group-item:hover { background: #eef3fb; }
+[data-theme="ep"] .list-group-item.active-group { background: #e6edf9; border-left: 3px solid var(--accent); }
+[data-theme="ep"] .list-group-item .badge,
+[data-theme="ep"] #panel .badge {
+  background: #e6edf9 !important; border: none !important; color: var(--accent) !important;
+  font-weight: 600; border-radius: 10px;
+}
+[data-theme="ep"] .swatch { box-shadow: none !important; border-radius: 50%; }
+
+[data-theme="ep"] .btn-link { color: var(--accent-2); text-transform: none; letter-spacing: 0; font-size: 0.75rem; font-weight: 600; }
+
+/* ---------- votazioni ---------- */
+[data-theme="ep"] #vote-result .v-kicker { text-transform: none; letter-spacing: 0; font-size: 0.74rem; font-weight: 700; color: var(--muted); }
+[data-theme="ep"] #vote-result .v-law { color: var(--accent); font-size: 1rem; }
+[data-theme="ep"] #vote-result .v-law a:hover { color: var(--accent-2); }
+[data-theme="ep"] #vote-result .v-sub a { color: var(--accent-2); }
+[data-theme="ep"] #vote-result .v-obj { background: #f3f6fb; border-left-color: var(--accent); }
+[data-theme="ep"] #vote-result .v-obj b { color: var(--accent); text-transform: none; letter-spacing: 0; font-size: 0.74rem; }
+[data-theme="ep"] #vote-result .v-esito { border-radius: 3px; font-weight: 700; letter-spacing: 0.06em; }
+[data-theme="ep"] #vote-result .v-esito.approvato { color: #1b7f4b; box-shadow: none; background: #e7f5ee; }
+[data-theme="ep"] #vote-result .v-esito.respinto { color: #c0392b; box-shadow: none; background: #fbeceb; }
+[data-theme="ep"] #vote-result .v-counts b { color: var(--text); }
+[data-theme="ep"] .v-bar { background: #e6e9ee; border-radius: 2px; }
+[data-theme="ep"] .seat-tag .t-vote { text-transform: none; letter-spacing: 0; font-weight: 600; }
+
+/* ---------- calendario presenze ---------- */
+[data-theme="ep"] .cal-label { text-transform: none; letter-spacing: 0; }
+[data-theme="ep"] .cal-cell { background: #e6e9ee; }
+[data-theme="ep"] .cal-cell.p4 { background: #1b7f4b; box-shadow: none; }
+[data-theme="ep"] .cal-cell.p3 { background: #3c9a68; }
+[data-theme="ep"] .cal-cell.p2 { background: #7cbf98; }
+[data-theme="ep"] .cal-cell.p1 { background: #b9dcc7; }
+[data-theme="ep"] .cal-cell.abs { background: #c0392b; opacity: 0.8; }
+[data-theme="ep"] .cal-cell.miss { background: #6c5ce7; }
+
+/* ---------- statistiche ---------- */
+[data-theme="ep"] .chart-text code, [data-theme="ep"] .chart-card .card-footer code { color: var(--accent); }
+
+/* ---------- scheda laterale ---------- */
+[data-theme="ep"] .offcanvas {
+  background: #fff;
+  border-left: 1px solid var(--line) !important;
+  box-shadow: -10px 0 40px rgba(16, 24, 40, 0.15);
+}
+[data-theme="ep"] .offcanvas-header { background: var(--accent); border-bottom: 4px solid var(--gold) !important; }
+[data-theme="ep"] .offcanvas-title { color: #fff; text-transform: none; letter-spacing: 0; font-size: 1rem; font-weight: 700; }
+[data-theme="ep"] .btn-close { filter: invert(1) grayscale(1) brightness(2); }
+[data-theme="ep"] #panel h4 { color: var(--accent); font-weight: 700; }
+[data-theme="ep"] #panel .section-title {
+  text-transform: none; letter-spacing: 0; font-size: 0.85rem; font-weight: 700;
+  border-bottom: 2px solid var(--accent);
+}
+[data-theme="ep"] #panel .photo { border-color: var(--line); background: #e9edf3; box-shadow: none; border-radius: 2px; }
+[data-theme="ep"] #panel table td:first-child { font-size: 0.78rem; }

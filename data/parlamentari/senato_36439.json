@@ -1,0 +1,112 @@
+{
+  "id": "senato_36439",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Paolo",
+    "cognome": "Marcheschi",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Marcheschi%20XIX.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00036439.jpg",
+    "data_nascita": "1961-03-23",
+    "luogo_nascita": "FIRENZE, Firenze",
+    "titolo_studio": null,
+    "professione": "Agente di assicurazione"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Toscana",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "85",
+      "nome": "Fratelli d'Italia",
+      "sigla": "FdI",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "85",
+        "nome": "Fratelli d'Italia",
+        "sigla": "FdI",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-7",
+        "nome": "7ª Commissione permanente Cultura e patrimonio culturale, istruzione pubblica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-60",
+        "nome": "Commissione parlamentare per l'indirizzo generale e la vigilanza dei servizi radiotelevisivi Commissione di vigilanza servizi radiotelevisivi",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-03-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-93",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea parlamentare della NATO Delegazione italiana presso l'Assemblea NATO",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-05-04",
+        "al": null
+      },
+      {
+        "organo_id": "4-220",
+        "nome": "Commissione parlamentare di inchiesta sui fatti accaduti presso la comunità \"Il Forteto\" Commissione di inchiesta su \"Il Forteto\"",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-07-17",
+        "al": null
+      }
+    ],
+    "incarichi": []
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Marcheschi_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Marcheschi_2023_2.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00036439.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/36439",
+    "wikidata": "http://www.wikidata.org/entity/Q113001217",
+    "aggiornato_il": "2026-10-14"
+  }
+}

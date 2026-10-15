@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="it" data-bs-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <script>
+    // stile grafico: ?theme=ep|hud nell'URL, altrimenti l'ultima scelta salvata (vedi js/theme.js)
+    (() => {
+      let t = new URLSearchParams(location.search).get('theme');
+      try { if (t === 'ep' || t === 'hud') localStorage.setItem('emiciclo-theme', t); else t = localStorage.getItem('emiciclo-theme'); } catch {}
+      if (t === 'ep') { document.documentElement.dataset.theme = 'ep'; document.documentElement.setAttribute('data-bs-theme', 'light'); }
+    })();
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Emiciclo — il Parlamento italiano spiegato ai cittadini</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Open+Sans:wght@400;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+  <link href="css/theme-ep.css" rel="stylesheet">
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+      }
+    }
+  </script>
+</head>
+<body>
+
+<nav class="navbar border-bottom">
+  <div class="container-fluid gap-3">
+    <span class="brand"><span class="dot"></span>Emiciclo <small>/ XIX legislatura</small></span>
+
+    <div class="btn-group" role="group" aria-label="Camera o Senato">
+      <input type="radio" class="btn-check" name="chamber" id="chamber-camera" value="Camera" checked>
+      <label class="btn btn-outline-secondary btn-sm" for="chamber-camera">Camera dei Deputati</label>
+      <input type="radio" class="btn-check" name="chamber" id="chamber-senato" value="Senato">
+      <label class="btn btn-outline-secondary btn-sm" for="chamber-senato">Senato della Repubblica</label>
+    </div>
+
+    <input id="search" class="form-control form-control-sm ms-auto" style="max-width: 320px"
+           list="search-list" placeholder="Cerca un parlamentare…" autocomplete="off">
+    <datalist id="search-list"></datalist>
+    <a class="btn btn-outline-secondary btn-sm" href="statistiche.html">Statistiche →</a>
+    <div class="btn-group theme-switch" role="group" aria-label="Stile grafico">
+      <input type="radio" class="btn-check" name="theme" id="theme-hud" value="hud" checked>
+      <label class="btn btn-outline-secondary btn-sm" for="theme-hud" title="Stile HUD scuro">HUD</label>
+      <input type="radio" class="btn-check" name="theme" id="theme-ep" value="ep">
+      <label class="btn btn-outline-secondary btn-sm" for="theme-ep" title="Stile istituzionale ispirato al Parlamento europeo">Europarl</label>
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid py-3 main-grid">
+  <div class="row g-3">
+    <div class="col-lg-9 scene-col">
+      <div class="hud-frame">
+        <div id="scene">
+          <div class="overlay"></div>
+          <div class="hud-label tl" id="hud-chamber">Camera dei Deputati</div>
+          <div class="hud-label tr" id="hud-count">—</div>
+          <div class="hud-label bl">dati.camera.it · dati.senato.it · SPARQL</div>
+          <button class="hud-btn br" id="reset-view" title="Torna alla vista iniziale">⟲ vista iniziale</button>
+        </div>
+      </div>
+      <p class="hint mt-2 mb-0">
+        Ogni blocco è un seggio: passa il mouse per vedere chi è, clicca per aprire il dossier sul seggio
+        (<strong>Esc</strong> per chiuderlo e tornare alla vista iniziale, “Fascicolo completo” per tutti i dati).
+        I seggi sono raggruppati per gruppo parlamentare e <strong>non</strong> corrispondono alla posizione reale in aula.
+        Trascina per ruotare, rotella sulla scena per lo zoom.
+      </p>
+    </div>
+
+    <div class="col-lg-3 side-col">
+      <div class="card mb-3" id="vote-card">
+        <div class="card-header d-flex justify-content-between align-items-center">
+          <span>Ultime votazioni</span>
+          <button id="vote-exit" class="btn btn-link btn-sm p-0 d-none">torna ai gruppi</button>
+        </div>
+        <div class="card-body p-2">
+          <p class="v-intro" id="vote-intro"></p>
+          <select id="law-select" class="form-select form-select-sm mb-2" aria-label="Legge">
+            <option value="">— scegli una legge —</option>
+          </select>
+          <select id="vote-select" class="form-select form-select-sm d-none" aria-label="Votazione">
+            <option value="">— scegli una votazione da riprodurre —</option>
+          </select>
+          <div id="vote-result" class="d-none mt-2"></div>
+        </div>
+        <div class="card-footer d-none" id="vote-source"></div>
+      </div>
+
+      <div class="row row-cols-2 g-2 mb-3" id="stat-cards"></div>
+
+      <div class="card">
+        <div class="card-header d-flex justify-content-between align-items-center">
+          <span>Gruppi parlamentari</span>
+          <button id="clear-filter" class="btn btn-link btn-sm p-0 d-none">mostra tutti</button>
+        </div>
+        <ul class="list-group list-group-flush" id="legend"></ul>
+        <div class="card-footer">
+          Fonte: <a id="legend-source" href="#" target="_blank" rel="noopener">endpoint SPARQL</a>,
+          aggiornato il <span id="updated-at">—</span>.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="offcanvas offcanvas-end" tabindex="-1" id="panel" style="width: 520px"
+     data-bs-backdrop="false" data-bs-scroll="true">
+  <div class="offcanvas-header border-bottom">
+    <h5 class="offcanvas-title" id="panel-title">Scheda</h5>
+    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Chiudi"></button>
+  </div>
+  <div class="offcanvas-body" id="panel-body"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script type="module" src="js/theme.js"></script>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

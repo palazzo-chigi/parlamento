@@ -1,0 +1,197 @@
+{
+  "id": "senato_1672",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Giorgio",
+    "cognome": "Napolitano",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Presidente%20Napolitano.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00001672.jpg",
+    "data_nascita": "1925-06-29",
+    "luogo_nascita": "Napoli",
+    "titolo_studio": null,
+    "professione": null
+  },
+  "elezione": {
+    "tipo": null,
+    "circoscrizione": null,
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": null
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": "2023-09-22",
+    "motivo_fine": null,
+    "in_carica": false,
+    "tipo": "di diritto e a vita, Presidente emerito della Repubblica"
+  },
+  "politica": {
+    "gruppo_attuale": null,
+    "storico_gruppi": [
+      {
+        "gruppo_id": "69",
+        "nome": "Per le Autonomie (SVP-PATT, Campobase)",
+        "sigla": "Aut (SVP-PATT, Cb)",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": "2023-09-22",
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 2,
+        "camera": "Camera",
+        "dal": "1953-06-25",
+        "al": "1958-06-11"
+      },
+      {
+        "legislatura": 3,
+        "camera": "Camera",
+        "dal": "1958-06-12",
+        "al": "1963-05-15"
+      },
+      {
+        "legislatura": 5,
+        "camera": "Camera",
+        "dal": "1968-06-05",
+        "al": "1972-05-24"
+      },
+      {
+        "legislatura": 6,
+        "camera": "Camera",
+        "dal": "1972-05-25",
+        "al": "1976-07-04"
+      },
+      {
+        "legislatura": 7,
+        "camera": "Camera",
+        "dal": "1976-07-05",
+        "al": "1979-06-19"
+      },
+      {
+        "legislatura": 8,
+        "camera": "Camera",
+        "dal": "1979-06-20",
+        "al": "1983-07-11"
+      },
+      {
+        "legislatura": 9,
+        "camera": "Camera",
+        "dal": "1983-07-12",
+        "al": "1987-07-01"
+      },
+      {
+        "legislatura": 10,
+        "camera": "Camera",
+        "dal": "1987-07-02",
+        "al": "1992-04-22"
+      },
+      {
+        "legislatura": 11,
+        "camera": "Camera",
+        "dal": "1992-04-23",
+        "al": "1994-04-14"
+      },
+      {
+        "legislatura": 12,
+        "camera": "Camera",
+        "dal": "1994-04-15",
+        "al": "1996-05-08"
+      },
+      {
+        "legislatura": 14,
+        "camera": "Senato",
+        "dal": "2005-09-23",
+        "al": "2006-04-27"
+      },
+      {
+        "legislatura": 15,
+        "camera": "Senato",
+        "dal": "2006-04-28",
+        "al": "2006-05-15"
+      },
+      {
+        "legislatura": 17,
+        "camera": "Senato",
+        "dal": "2015-01-14",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Senato",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-14",
+        "nome": "4ª Commissione permanente Politiche dell'Unione europea",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2023-09-22"
+      }
+    ],
+    "incarichi": []
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2014,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2014/NAPOLITANO_2014.pdf"
+    },
+    {
+      "anno": 2015,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2015/NAPOLITANO_GIORGIO_2015.pdf"
+    },
+    {
+      "anno": 2016,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2016/Napolitano_2016.pdf"
+    },
+    {
+      "anno": 2017,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2017/NAPOLITANO_2017.pdf"
+    },
+    {
+      "anno": 2018,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2018/Napolitano_2018.pdf"
+    },
+    {
+      "anno": 2019,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2019/Napolitano_2019.pdf"
+    },
+    {
+      "anno": 2020,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2020/Napolitano_2020.pdf"
+    },
+    {
+      "anno": 2021,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2021/Napolitano_2021.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2022/Napolitano_2022.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Napolitano_2022.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00001672.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/1672",
+    "wikidata": "http://www.wikidata.org/entity/Q1220",
+    "aggiornato_il": "2026-10-14"
+  }
+}

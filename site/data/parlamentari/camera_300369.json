@@ -1,0 +1,185 @@
+{
+  "id": "camera_300369",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Francesco Saverio",
+    "cognome": "Romano",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d300369.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=300369&legislatura=19",
+    "data_nascita": "1964-12-24",
+    "luogo_nascita": "Palermo",
+    "titolo_studio": "Laurea in giurisprudenza",
+    "professione": "Avvocato"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "SICILIA 1 - P01",
+    "collegio": "SICILIA 1 - U03",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4152",
+      "nome": "NOI MODERATI",
+      "sigla": "NM(N-C-U-I)M-CP",
+      "dal": "2022-10-27",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4111",
+        "nome": "MISTO",
+        "sigla": "MISTO",
+        "dal": "2022-10-18",
+        "al": "2022-10-27",
+        "motivo_fine": "Cessazione"
+      },
+      {
+        "gruppo_id": "gr4152",
+        "nome": "NOI MODERATI",
+        "sigla": "NM(N-C-U-I)M-CP",
+        "dal": "2022-10-27",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 1,
+    "legislature_precedenti": [
+      {
+        "legislatura": 14,
+        "camera": "Camera",
+        "dal": "2001-05-19",
+        "al": "2006-04-27"
+      },
+      {
+        "legislatura": 15,
+        "camera": "Camera",
+        "dal": "2006-04-21",
+        "al": "2008-04-28"
+      },
+      {
+        "legislatura": 16,
+        "camera": "Camera",
+        "dal": "2008-04-23",
+        "al": "2013-03-14"
+      },
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-05",
+        "al": "2018-03-22"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3505",
+        "nome": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3520",
+        "nome": "GIUNTA PER LE AUTORIZZAZIONI",
+        "tipo_organo": "GIUNTA PER LE AUTORIZZAZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3681",
+        "nome": "COMITATO PARLAMENTARE PER I PROCEDIMENTI DI ACCUSA",
+        "tipo_organo": "COMITATO PER I PROCEDIMENTI DI ACCUSA",
+        "ruolo": "Titolare",
+        "dal": "2022-11-16",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4161",
+        "nome": "COMMISSIONE PARLAMENTARE DI VIGILANZA SULLA CASSA DEPOSITI E PRESTITI",
+        "tipo_organo": "COMMISSIONE MISTA",
+        "ruolo": "Titolare",
+        "dal": "2024-02-14",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4221",
+        "nome": "COMMISSIONE PARLAMENTARE PER LA SEMPLIFICAZIONE",
+        "tipo_organo": "COMMISSIONE BICAMERALE CONSULTIVA",
+        "ruolo": "Titolare",
+        "dal": "2024-03-19",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "GIUNTA PER LE AUTORIZZAZIONI",
+        "dal": "2022-11-18",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMITATO PARLAMENTARE PER I PROCEDIMENTI DI ACCUSA",
+        "dal": "2022-11-18",
+        "al": null
+      },
+      {
+        "carica": "PRESIDENTE",
+        "organo": "COMMISSIONE PARLAMENTARE PER LA SEMPLIFICAZIONE",
+        "dal": "2024-03-26",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-300369",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;300369",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d300369_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-300369#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/f376be91-0f1c-4b90-af44-a9740773b7a1"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/8a1e3f7c-1f9c-4f7e-a9a9-b42391c92f80"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/ec531240-41d4-4369-9a21-7dc93216e8dc"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/81f3caf1-bb11-4137-ad24-12a51767feee"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/ROMANO_FRANCESCO_SAVERIO.pdf?t=1751726076"
+}

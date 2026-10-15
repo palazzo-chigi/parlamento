@@ -1,0 +1,240 @@
+{
+  "id": "senato_4512",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Adriano",
+    "cognome": "Paroli",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Adriano%20Paroli%20datisenato%202018.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00004512.jpg",
+    "data_nascita": "1962-03-30",
+    "luogo_nascita": "Brescia",
+    "titolo_studio": null,
+    "professione": "Avvocato"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Lombardia",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "56",
+      "nome": "Forza Italia - Berlusconi Presidente - PPE",
+      "sigla": "FI-BP-PPE",
+      "carica": "Vicepresidente",
+      "dal": "2026-03-31",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "56",
+        "nome": "Forza Italia - Berlusconi Presidente - PPE",
+        "sigla": "FI-BP-PPE",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": "2022-11-07",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "56",
+        "nome": "Forza Italia - Berlusconi Presidente - PPE",
+        "sigla": "FI-BP-PPE",
+        "carica": "Vicepresidente Vicario",
+        "dal": "2022-11-08",
+        "al": "2026-03-30",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "56",
+        "nome": "Forza Italia - Berlusconi Presidente - PPE",
+        "sigla": "FI-BP-PPE",
+        "carica": "Vicepresidente",
+        "dal": "2026-03-31",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 13,
+        "camera": "Camera",
+        "dal": "1996-05-09",
+        "al": "2001-05-29"
+      },
+      {
+        "legislatura": 14,
+        "camera": "Camera",
+        "dal": "2001-05-30",
+        "al": "2006-04-27"
+      },
+      {
+        "legislatura": 15,
+        "camera": "Camera",
+        "dal": "2006-04-28",
+        "al": "2008-04-28"
+      },
+      {
+        "legislatura": 16,
+        "camera": "Camera",
+        "dal": "2008-04-29",
+        "al": "2012-01-17"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Senato",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-58",
+        "nome": "Consiglio di garanzia",
+        "tipo_organo": "Organismi interni e di garanzia",
+        "ruolo": "Membro",
+        "dal": "2023-07-05",
+        "al": "2023-07-10"
+      },
+      {
+        "organo_id": "4-40",
+        "nome": "Commissione parlamentare per le questioni regionali Commissione parlamentare questioni regionali",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-09-07",
+        "al": "2023-09-13"
+      },
+      {
+        "organo_id": "0-147",
+        "nome": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "0-21",
+        "nome": "Giunta delle elezioni e delle immunita' parlamentari",
+        "tipo_organo": "Giunte",
+        "ruolo": "Membro",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "4-43",
+        "nome": "Comitato parlamentare per i procedimenti di accusa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "4-93",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea parlamentare della NATO Delegazione italiana presso l'Assemblea NATO",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-05-04",
+        "al": null
+      },
+      {
+        "organo_id": "0-58",
+        "nome": "Consiglio di garanzia",
+        "tipo_organo": "Organismi interni e di garanzia",
+        "ruolo": "Presidente",
+        "dal": "2023-07-11",
+        "al": null
+      },
+      {
+        "organo_id": "4-128",
+        "nome": "Commissione parlamentare di inchiesta sulle attività illecite connesse al ciclo dei rifiuti e su altri illeciti ambientali e agroalimentari Commissione di inchiesta sul ciclo dei rifiuti e illeciti ambientali e agroalimentari",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-09-14",
+        "al": null
+      },
+      {
+        "organo_id": "4-225",
+        "nome": "Commissione parlamentare di inchiesta sulla scomparsa di Emanuela Orlandi e di Mirella Gregori Commissione di inchiesta scomparsa Orlandi e Gregori",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-03-12",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Vicepresidente Vicario",
+        "organo": "Gruppo FI-BP-PPE",
+        "dal": "2022-11-08",
+        "al": "2026-03-30"
+      },
+      {
+        "carica": "Presidente",
+        "organo": "Consiglio di garanzia",
+        "dal": "2023-07-11",
+        "al": null
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "Gruppo FI-BP-PPE",
+        "dal": "2026-03-31",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2018,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2018/Paroli_2018.pdf"
+    },
+    {
+      "anno": 2019,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2019/Paroli_2019.pdf"
+    },
+    {
+      "anno": 2020,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2020/Paroli_2020.pdf"
+    },
+    {
+      "anno": 2021,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2021/Paroli_2021.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2022/Paroli_2022.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Paroli_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Paroli_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00004512.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/4512",
+    "wikidata": "http://www.wikidata.org/entity/Q3605758",
+    "aggiornato_il": "2026-10-14"
+  }
+}

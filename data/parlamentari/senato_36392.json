@@ -1,0 +1,135 @@
+{
+  "id": "senato_36392",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Susanna Lina Giulia",
+    "cognome": "Camusso",
+    "genere": "F",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Susanna%20Camusso%20-%20Festival%20Economia%202013.JPG?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00036392.jpg",
+    "data_nascita": "1955-08-14",
+    "luogo_nascita": "Milano",
+    "titolo_studio": null,
+    "professione": "Sindacalista"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Campania",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "49",
+      "nome": "Partito Democratico - Italia Democratica e Progressista",
+      "sigla": "PD-IDP",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-142",
+        "nome": "Commissione parlamentare di inchiesta sulle condizioni di lavoro in Italia, sullo sfruttamento e sulla sicurezza nei luoghi di lavoro Commissione parlamentare di inchiesta condizioni di lavoro in Italia, sfruttamento e sicurezza luoghi di lavoro",
+        "tipo_organo": "Commissioni di inchiesta monocamerali",
+        "ruolo": "Membro",
+        "dal": "2023-06-01",
+        "al": "2023-06-21"
+      },
+      {
+        "organo_id": "0-148",
+        "nome": "10ª Commissione permanente Affari sociali, sanità, lavoro pubblico e privato, previdenza sociale",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-90",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea del Consiglio d'Europa Delegazione italiana presso l'Assemblea Consiglio d'Europa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-01-11",
+        "al": null
+      },
+      {
+        "organo_id": "0-75",
+        "nome": "Commissione straordinaria per la tutela e la promozione dei diritti umani Commissione straordinaria diritti umani",
+        "tipo_organo": "Commissioni straordinarie",
+        "ruolo": "Membro",
+        "dal": "2023-06-12",
+        "al": null
+      },
+      {
+        "organo_id": "0-142",
+        "nome": "Commissione parlamentare di inchiesta sulle condizioni di lavoro in Italia, sullo sfruttamento e sulla sicurezza nei luoghi di lavoro Commissione parlamentare di inchiesta condizioni di lavoro in Italia, sfruttamento e sicurezza luoghi di lavoro",
+        "tipo_organo": "Commissioni di inchiesta monocamerali",
+        "ruolo": "Vicepresidente",
+        "dal": "2023-06-22",
+        "al": null
+      },
+      {
+        "organo_id": "4-68",
+        "nome": "Commissione parlamentare per il controllo sull'attivita' degli enti gestori di forme obbligatorie di previdenza e assistenza sociale Commissione di controllo enti gestori previdenza assistenza",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-09-07",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Vicepresidente",
+        "organo": "Commissione parlamentare di inchiesta sulle condizioni di lavoro in Italia, sullo sfruttamento e sulla sicurezza nei luoghi di lavoro Commissione parlamentare di inchiesta condizioni di lavoro in Italia, sfruttamento e sicurezza luoghi di lavoro",
+        "dal": "2023-06-22",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Camusso_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Camusso_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00036392.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/36392",
+    "wikidata": "http://www.wikidata.org/entity/Q591009",
+    "aggiornato_il": "2026-10-14"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": "camera_50204",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Tommaso",
+    "cognome": "Foti",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d50204.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=50204&legislatura=19",
+    "data_nascita": "1960-04-28",
+    "luogo_nascita": "Piacenza",
+    "titolo_studio": "Diploma di liceo scientifico",
+    "professione": "Già dirigente di azienda privata"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "EMILIA-ROMAGNA - P01",
+    "collegio": "EMILIA-ROMAGNA - U01",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-09-30",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-09-30",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 13,
+        "camera": "Camera",
+        "dal": "1996-04-27",
+        "al": "2001-05-29"
+      },
+      {
+        "legislatura": 14,
+        "camera": "Camera",
+        "dal": "2001-05-18",
+        "al": "2006-04-27"
+      },
+      {
+        "legislatura": 15,
+        "camera": "Camera",
+        "dal": "2006-04-21",
+        "al": "2008-04-28"
+      },
+      {
+        "legislatura": 16,
+        "camera": "Camera",
+        "dal": "2008-04-22",
+        "al": "2013-03-14"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-19",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3561",
+        "nome": "COMITATO PARLAMENTARE PROVVISORIO PER LA SICUREZZA DELLA REPUBBLICA",
+        "tipo_organo": "COMMISSIONE BICAMERALE DI INDIRIZZO, VIGILANZA E CONTROLLO",
+        "ruolo": "Titolare",
+        "dal": "2022-10-26",
+        "al": "2022-11-29"
+      },
+      {
+        "organo_id": "o19_4201",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA SCOMPARSA DI EMANUELA ORLANDI E DI MIRELLA GREGORI",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2024-03-05",
+        "al": "2024-05-23"
+      },
+      {
+        "organo_id": "o19_3601",
+        "nome": "CONFERENZA DEI PRESIDENTI DI GRUPPO",
+        "tipo_organo": "CONFERENZA DEI PRESIDENTI DI GRUPPO",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2024-12-03"
+      },
+      {
+        "organo_id": "o19_3508",
+        "nome": "VIII COMMISSIONE (AMBIENTE, TERRITORIO E LAVORI PUBBLICI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "VICEPRES. VICARIO",
+        "organo": "Gruppo FDI",
+        "dal": "2022-10-18",
+        "al": "2022-11-09"
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "CONFERENZA DEI PRESIDENTI DI GRUPPO",
+        "dal": "2022-11-09",
+        "al": "2024-12-03"
+      },
+      {
+        "carica": "PRESIDENTE",
+        "organo": "Gruppo FDI",
+        "dal": "2022-11-09",
+        "al": "2024-12-03"
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-50204",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;50204",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d50204_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-50204#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/72596158-3677-4c4a-800c-fc68b5e8f123"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/ad7aece4-6e20-41d4-a71b-cb104ec5e768"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/e269717a-8723-4c3e-92c3-e3578e74145b"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/1e8ec102-093b-4580-969f-a96a7e82fbab"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/FOTI_TOMMASO.pdf?t=1751726039"
+}

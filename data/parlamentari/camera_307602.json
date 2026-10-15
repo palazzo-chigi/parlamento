@@ -1,0 +1,215 @@
+{
+  "id": "camera_307602",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Paolo",
+    "cognome": "Formentini",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307602.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307602&legislatura=19",
+    "data_nascita": "1980-04-30",
+    "luogo_nascita": "Desenzano Del Garda",
+    "titolo_studio": "Diploma di liceo classico",
+    "professione": null
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "LOMBARDIA 3 - P02",
+    "collegio": null,
+    "lista": "LEGA PER SALVINI PREMIER",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-10",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-10",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4132",
+      "nome": "LEGA - SALVINI PREMIER",
+      "sigla": "LEGA",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4132",
+        "nome": "LEGA - SALVINI PREMIER",
+        "sigla": "LEGA",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-13",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3987",
+        "nome": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'INDO-PACIFICO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3983",
+        "nome": "COMITATO PERMANENTE SUGLI ITALIANI NEL MONDO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3985",
+        "nome": "COMITATO PERMANENTE SULLA TUTELA DELLA LIBERTA' RELIGIOSA NELLA SFERA INTERNAZIONALE",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3982",
+        "nome": "COMITATO PERMANENTE SUI DIRITTI UMANI NEL MONDO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2023-07-28",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "o19_3503",
+        "nome": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3861",
+        "nome": "DELEGAZIONE ITALIANA PRESSO L'ASSEMBLEA PARLAMENTARE DELLA NATO",
+        "tipo_organo": "DELEGAZIONE PARLAMENTARE PRESSO ASSEMBLEA INTERNAZIONALE",
+        "ruolo": "Titolare",
+        "dal": "2023-05-04",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4343",
+        "nome": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'AREA INDO-MEDITERRANEA",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4342",
+        "nome": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'AFRICA",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4341",
+        "nome": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'ARTICO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4365",
+        "nome": "COMITATO PERMANENTE SUI DIRITTI UMANI NEL MONDO",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2025-09-18",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "dal": "2022-11-09",
+        "al": "2022-11-10"
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "dal": "2022-11-09",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "PRESIDENTE",
+        "organo": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'INDO-PACIFICO",
+        "dal": "2023-07-27",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "VICEPRESIDENTE",
+        "organo": "III COMMISSIONE (AFFARI ESTERI E COMUNITARI)",
+        "dal": "2025-06-10",
+        "al": null
+      },
+      {
+        "carica": "PRESIDENTE",
+        "organo": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'ARTICO",
+        "dal": "2025-09-18",
+        "al": null
+      },
+      {
+        "carica": "PRESIDENTE",
+        "organo": "COMITATO PERMANENTE SULLA POLITICA ESTERA PER L'ARTICO",
+        "dal": "2025-10-01",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307602",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307602",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307602_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307602#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/7450173b-3715-4704-9f3e-a53c01aff71e"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/b2c265ab-ed5f-44ea-8842-35a0a4af8f31"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/aae733ae-a301-4920-a742-dd93de189819"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/f3a2676e-e71e-46e0-aa52-d1b2cf7ab3f1"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/4b7f3120-3589-444d-9452-4c550098cc73"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/FORMENTINI_PAOLO.pdf?t=1751726039"
+}

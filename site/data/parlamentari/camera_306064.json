@@ -1,0 +1,187 @@
+{
+  "id": "camera_306064",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Giulio Cesare",
+    "cognome": "Sottanelli",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d306064.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=306064&legislatura=19",
+    "data_nascita": "1970-04-10",
+    "luogo_nascita": "Arbon",
+    "titolo_studio": "Laurea in scienze della comunicazione e dell'amministrazione",
+    "professione": "Agente di assicurazione"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "ABRUZZO - P01",
+    "collegio": null,
+    "lista": "AZIONE - ITALIA VIVA - CALENDA",
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-08",
+    "data_convalida": "2025-07-29",
+    "descrizione": "proporzionale"
+  },
+  "mandato": {
+    "inizio": "2022-10-08",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4135",
+      "nome": "AZIONE-POPOLARI EUROPEISTI RIFORMATORI-RENEW EUROPE",
+      "sigla": "AZ-PER-RE",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4135",
+        "nome": "AZIONE-POPOLARI EUROPEISTI RIFORMATORI-RENEW EUROPE",
+        "sigla": "AZ-PER-RE",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-05",
+        "al": "2018-03-22"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3505",
+        "nome": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": "2024-07-30"
+      },
+      {
+        "organo_id": "o19_3621",
+        "nome": "GIUNTA DELLE ELEZIONI",
+        "tipo_organo": "GIUNTA PER LE ELEZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3701",
+        "nome": "COMITATO PER LE INCOMPATIBILITA', LE INELEGGIBILITA' E LE DECADENZE",
+        "tipo_organo": "GIUNTA PER LE ELEZIONI",
+        "ruolo": "Titolare",
+        "dal": "2022-11-29",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3821",
+        "nome": "COMMISSIONE CONSULTIVA PER LA CONCESSIONE DI RICOMPENSE AL VALORE E AL MERITO CIVILE",
+        "tipo_organo": "COMMISSIONE MISTA",
+        "ruolo": "Titolare",
+        "dal": "2023-03-24",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4221",
+        "nome": "COMMISSIONE PARLAMENTARE PER LA SEMPLIFICAZIONE",
+        "tipo_organo": "COMMISSIONE BICAMERALE CONSULTIVA",
+        "ruolo": "Titolare",
+        "dal": "2024-03-19",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4161",
+        "nome": "COMMISSIONE PARLAMENTARE DI VIGILANZA SULLA CASSA DEPOSITI E PRESTITI",
+        "tipo_organo": "COMMISSIONE MISTA",
+        "ruolo": "Supplente",
+        "dal": "2024-05-15",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3506",
+        "nome": "VI COMMISSIONE (FINANZE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2024-07-30",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "dal": "2023-11-21",
+        "al": "2024-07-30"
+      },
+      {
+        "carica": "TESORIERE",
+        "organo": "Gruppo AZ-PER-RE",
+        "dal": "2022-10-19",
+        "al": null
+      },
+      {
+        "carica": "SEGRETARIO",
+        "organo": "GIUNTA DELLE ELEZIONI",
+        "dal": "2022-11-16",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "GIUNTA DELLE ELEZIONI",
+        "dal": "2022-11-18",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "COMMISSIONE PARLAMENTARE PER LA SEMPLIFICAZIONE",
+        "dal": "2024-04-03",
+        "al": null
+      },
+      {
+        "carica": "CAPOGRUPPO",
+        "organo": "VI COMMISSIONE (FINANZE)",
+        "dal": "2024-07-30",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-306064",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;306064",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d306064_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-306064#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/d4eb1057-607e-4557-b40f-1696314ac0a3"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/4deb7c91-30e2-4be2-a3aa-a0a48059f1bf"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/f68660f9-1079-48b5-a598-7bc6788b47b7"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/92449793-f5b2-4aba-9257-eb7d1c793733"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/SOTTANELLI_GIULIO_CESARE.pdf?t=1772212368"
+}

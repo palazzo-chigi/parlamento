@@ -1,0 +1,160 @@
+{
+  "id": "senato_36399",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Aurora",
+    "cognome": "Floridia",
+    "genere": "F",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Aurora%20Floridia%20senato%202022.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00036399.jpg",
+    "data_nascita": "1967-05-06",
+    "luogo_nascita": "Verona",
+    "titolo_studio": null,
+    "professione": "Altra professione intellettuale o scientifica"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Veneto",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "69",
+      "nome": "Per le Autonomie (SVP-PATT, Campobase)",
+      "sigla": "Aut (SVP-PATT, Cb)",
+      "carica": "Membro",
+      "dal": "2025-02-19",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "9",
+        "nome": "Misto",
+        "sigla": "Misto",
+        "carica": "Vicepresidente",
+        "dal": "2022-10-18",
+        "al": "2025-02-18",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "69",
+        "nome": "Per le Autonomie (SVP-PATT, Campobase)",
+        "sigla": "Aut (SVP-PATT, Cb)",
+        "carica": "Membro",
+        "dal": "2025-02-19",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 1,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "4-90",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea del Consiglio d'Europa Delegazione italiana presso l'Assemblea Consiglio d'Europa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-01-11",
+        "al": "2023-06-12"
+      },
+      {
+        "organo_id": "0-147",
+        "nome": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2023-11-10"
+      },
+      {
+        "organo_id": "0-146",
+        "nome": "8ª Commissione permanente Ambiente, transizione ecologica, energia, lavori pubblici, comunicazioni, innovazione tecnologica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2025-02-19"
+      },
+      {
+        "organo_id": "4-53",
+        "nome": "Commissione parlamentare di inchiesta sul fenomeno delle mafie e sulle altre associazioni criminali, anche straniere Commissione d'inchiesta sul fenomeno delle mafie",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-05-17",
+        "al": null
+      },
+      {
+        "organo_id": "4-90",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea del Consiglio d'Europa Delegazione italiana presso l'Assemblea Consiglio d'Europa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-06-13",
+        "al": null
+      },
+      {
+        "organo_id": "4-224",
+        "nome": "Commissione parlamentare per il contrasto degli svantaggi derivanti dall'insularità",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-07-06",
+        "al": null
+      },
+      {
+        "organo_id": "4-71",
+        "nome": "Parlamentari membri della Commissione di vigilanza sulla Cassa Depositi e Prestiti Commissione di vigilanza Cassa Depositi e Prestiti",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-02-13",
+        "al": null
+      },
+      {
+        "organo_id": "0-148",
+        "nome": "10ª Commissione permanente Affari sociali, sanità, lavoro pubblico e privato, previdenza sociale",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2025-02-19",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Vicepresidente",
+        "organo": "Gruppo Misto",
+        "dal": "2022-10-18",
+        "al": "2025-02-18"
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Floridia_Aurora_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Floridia_Aurora_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00036399.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/36399",
+    "wikidata": "http://www.wikidata.org/entity/Q114828220",
+    "aggiornato_il": "2026-10-14"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "id": "senato_22918",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Peppe",
+    "cognome": "De Cristofaro",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20De%20Cristofaro%20datisenato%202013.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00022918.jpg",
+    "data_nascita": "1971-06-26",
+    "luogo_nascita": "Napoli",
+    "titolo_studio": null,
+    "professione": "Impiegato"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Lazio",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "9",
+      "nome": "Misto",
+      "sigla": "Misto",
+      "carica": "Presidente",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "9",
+        "nome": "Misto",
+        "sigla": "Misto",
+        "carica": "Presidente",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 15,
+        "camera": "Camera",
+        "dal": "2006-04-28",
+        "al": "2008-04-28"
+      },
+      {
+        "legislatura": 17,
+        "camera": "Senato",
+        "dal": "2013-03-15",
+        "al": "2018-03-22"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "4-90",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea del Consiglio d'Europa Delegazione italiana presso l'Assemblea Consiglio d'Europa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-01-11",
+        "al": "2023-06-12"
+      },
+      {
+        "organo_id": "4-27",
+        "nome": "Commissione parlamentare per l'infanzia e l'adolescenza",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-07-06",
+        "al": "2023-07-13"
+      },
+      {
+        "organo_id": "4-226",
+        "nome": "Commissione parlamentare di inchiesta sulla gestione dell'emergenza sanitaria causata dalla diffusione epidemica del virus SARS-CoV-2 e sulle misure adottate per prevenire e affrontare l'emergenza epidemiologica da SARS-CoV-2 Commissione di inchiesta su emergenza sanitaria epidemiologica da SARS-CoV-2",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-08-06",
+        "al": "2025-02-19"
+      },
+      {
+        "organo_id": "0-146",
+        "nome": "8ª Commissione permanente Ambiente, transizione ecologica, energia, lavori pubblici, comunicazioni, innovazione tecnologica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2025-02-21",
+        "al": "2026-10-08"
+      },
+      {
+        "organo_id": "0-1",
+        "nome": "1ª Commissione permanente Affari Costituzionali",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-60",
+        "nome": "Commissione parlamentare per l'indirizzo generale e la vigilanza dei servizi radiotelevisivi Commissione di vigilanza servizi radiotelevisivi",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-03-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-93",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea parlamentare della NATO Delegazione italiana presso l'Assemblea NATO",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-05-04",
+        "al": null
+      },
+      {
+        "organo_id": "4-88",
+        "nome": "Delegazione italiana all'Assemblea parlamentare della Organizzazione per la sicurezza e la cooperazione in Europa (OSCE) Delegazione italiana presso l'Assemblea dell'OSCE",
+        "tipo_organo": "Comitati del Consiglio di Presidenza",
+        "ruolo": "Membro",
+        "dal": "2023-05-04",
+        "al": null
+      },
+      {
+        "organo_id": "4-90",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea del Consiglio d'Europa Delegazione italiana presso l'Assemblea Consiglio d'Europa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-06-13",
+        "al": null
+      },
+      {
+        "organo_id": "4-61",
+        "nome": "Sottocommissione permanente per l'accesso Sottocommissione permanente RAI per l' accesso",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-07-06",
+        "al": null
+      },
+      {
+        "organo_id": "4-146",
+        "nome": "Commissione parlamentare per l'attuazione del federalismo fiscale",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2023-07-27",
+        "al": null
+      },
+      {
+        "organo_id": "4-26",
+        "nome": "Comitato parlamentare di controllo sull'attuazione dell'Accordo di Schengen, di vigilanza sull'attività di Europol, di controllo e vigilanza in materia di immigrazione Comitato parlamentare Schengen, Europol e immigrazione",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-08-02",
+        "al": null
+      },
+      {
+        "organo_id": "4-40",
+        "nome": "Commissione parlamentare per le questioni regionali Commissione parlamentare questioni regionali",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-09-07",
+        "al": null
+      },
+      {
+        "organo_id": "4-226",
+        "nome": "Commissione parlamentare di inchiesta sulla gestione dell'emergenza sanitaria causata dalla diffusione epidemica del virus SARS-CoV-2 e sulle misure adottate per prevenire e affrontare l'emergenza epidemiologica da SARS-CoV-2 Commissione di inchiesta su emergenza sanitaria epidemiologica da SARS-CoV-2",
+        "tipo_organo": null,
+        "ruolo": "Segretario",
+        "dal": "2025-02-20",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Presidente",
+        "organo": "Gruppo Misto",
+        "dal": "2022-10-18",
+        "al": null
+      },
+      {
+        "carica": "Segretario",
+        "organo": "Commissione parlamentare di inchiesta sulla gestione dell'emergenza sanitaria causata dalla diffusione epidemica del virus SARS-CoV-2 e sulle misure adottate per prevenire e affrontare l'emergenza epidemiologica da SARS-CoV-2 Commissione di inchiesta su emergenza sanitaria epidemiologica da SARS-CoV-2",
+        "dal": "2025-02-20",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2013,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/DE_CRISTOFARO_2013.pdf"
+    },
+    {
+      "anno": 2014,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2014/De_Cristofaro_2014.pdf"
+    },
+    {
+      "anno": 2015,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2015/DE_CRISTOFARO_GIUSEPPE_2015.pdf"
+    },
+    {
+      "anno": 2016,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2016/DE_CRISTOFARO_2016.pdf"
+    },
+    {
+      "anno": 2017,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2017/DE_CRISTOFARO_2017.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/De_Cristofaro_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/De_Cristofaro_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00022918.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/22918",
+    "wikidata": "http://www.wikidata.org/entity/Q3770413",
+    "aggiornato_il": "2026-10-14"
+  }
+}

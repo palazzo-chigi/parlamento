@@ -1,0 +1,207 @@
+{
+  "id": "camera_307457",
+  "camera": "Camera",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Paolo",
+    "cognome": "Trancassini",
+    "genere": "M",
+    "foto": "https://documenti.camera.it/_dati/leg19/schededeputatinuovosito/fotoDefinitivo/big/d307457.jpg",
+    "foto_sparql": "http://documenti.camera.it/apps/nuovosito/deputato/getFoto.asp?id=307457&legislatura=19",
+    "data_nascita": "1963-06-29",
+    "luogo_nascita": "Roma",
+    "titolo_studio": "Laurea in giurisprudenza",
+    "professione": "Avvocato civilista"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "LAZIO 2 - P01",
+    "collegio": "LAZIO 2 - U02",
+    "lista": null,
+    "data_elezione": "2022-09-25",
+    "data_proclamazione": "2022-10-05",
+    "data_convalida": "2024-07-03",
+    "descrizione": "maggioritario"
+  },
+  "mandato": {
+    "inizio": "2022-10-05",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "gr4133",
+      "nome": "FRATELLI D'ITALIA",
+      "sigla": "FDI",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": ""
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "gr4133",
+        "nome": "FRATELLI D'ITALIA",
+        "sigla": "FDI",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": ""
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-12",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "o19_3543",
+        "nome": "COMMISSIONE SPECIALE ISTITUITA IL 19 OTTOBRE 2022, AI SENSI DELL'ARTICOLO 22, COMMA 2, DEL REGOLAMENTO",
+        "tipo_organo": "COMMISSIONE SPECIALE",
+        "ruolo": "Titolare",
+        "dal": "2022-10-21",
+        "al": "2022-11-09"
+      },
+      {
+        "organo_id": "o19_3541",
+        "nome": "UFFICIO DI PRESIDENZA",
+        "tipo_organo": "ORGANO DELLA PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2022-10-19",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3542",
+        "nome": "COLLEGIO DEI QUESTORI",
+        "tipo_organo": "COLLEGIO DEI QUESTORI",
+        "ruolo": "Titolare",
+        "dal": "2022-10-19",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3505",
+        "nome": "V COMMISSIONE (BILANCIO, TESORO E PROGRAMMAZIONE)",
+        "tipo_organo": "COMMISSIONE PERMANENTE",
+        "ruolo": "Titolare",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3781",
+        "nome": "COMITATO PER LA COMUNICAZIONE E L'INFORMAZIONE ESTERNA",
+        "tipo_organo": "COMITATI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3782",
+        "nome": "COMITATO PER GLI AFFARI DEL PERSONALE",
+        "tipo_organo": "COMITATI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3784",
+        "nome": "COMITATO PER LA SICUREZZA",
+        "tipo_organo": "COMITATI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "organo_id": "o19_3783",
+        "nome": "COMITATO DI VIGILANZA SULL'ATTIVITA' DI DOCUMENTAZIONE",
+        "tipo_organo": "COMITATI DELL'UFFICIO DI PRESIDENZA",
+        "ruolo": "Titolare",
+        "dal": "2023-02-23",
+        "al": null
+      },
+      {
+        "organo_id": "o19_4201",
+        "nome": "COMMISSIONE PARLAMENTARE DI INCHIESTA SULLA SCOMPARSA DI EMANUELA ORLANDI E DI MIRELLA GREGORI",
+        "tipo_organo": "COMMISSIONE BICAMERALE D'INCHIESTA",
+        "ruolo": "Titolare",
+        "dal": "2024-03-05",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "QUESTORE",
+        "organo": "COLLEGIO DEI QUESTORI",
+        "dal": "2022-10-19",
+        "al": null
+      },
+      {
+        "carica": "QUESTORE",
+        "organo": "UFFICIO DI PRESIDENZA",
+        "dal": "2022-10-19",
+        "al": null
+      },
+      {
+        "carica": "QUESTORE",
+        "organo": "COMITATO PER GLI AFFARI DEL PERSONALE",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "carica": "QUESTORE",
+        "organo": "COMITATO PER LA SICUREZZA",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "carica": "QUESTORE",
+        "organo": "COMITATO PER LA COMUNICAZIONE E L'INFORMAZIONE ESTERNA",
+        "dal": "2023-02-20",
+        "al": null
+      },
+      {
+        "carica": "QUESTORE",
+        "organo": "COMITATO DI VIGILANZA SULL'ATTIVITA' DI DOCUMENTAZIONE",
+        "dal": "2023-02-23",
+        "al": null
+      }
+    ]
+  },
+  "fonti": {
+    "scheda_ufficiale": "https://www.camera.it/deputati/elenco/19-307457",
+    "scheda_urn": "http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.personale:camera;19.legislatura;307457",
+    "sparql_endpoint": "https://dati.camera.it/sparql",
+    "uri_linked_data": "http://dati.camera.it/ocd/deputato.rdf/d307457_19",
+    "aggiornato_il": "2026-10-14",
+    "dichiarazioni": "https://www.camera.it/deputati/elenco/19-307457#patrimoniali"
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/44f7e5bc-c7c7-44d7-bc06-39494c1a300c"
+    },
+    {
+      "anno": 2023,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/6fa42aaa-6c49-427a-a5ec-737fa26989b8"
+    },
+    {
+      "anno": 2024,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/99d25eec-cbaf-4a41-a51e-3c9c34f25c26"
+    },
+    {
+      "anno": 2025,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/bf6185e2-e691-47a5-8e5e-551db088a796"
+    },
+    {
+      "anno": 2026,
+      "url": "https://gdppdf01.camera.it/alfresco/service/camera/sito/downloadDocumento/4f4bc9e2-d758-450a-a9a2-c939f88a8ec7"
+    }
+  ],
+  "dichiarazione_cariche": "https://documenti.camera.it/dichiarazioni_cariche_deputati/leg19/TRANCASSINI_PAOLO.pdf?t=1751726109"
+}

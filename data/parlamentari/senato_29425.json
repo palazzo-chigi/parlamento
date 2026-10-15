@@ -1,0 +1,156 @@
+{
+  "id": "senato_29425",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Andrea",
+    "cognome": "Giorgis",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Giorgis%20daticamera%202018.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00029425.jpg",
+    "data_nascita": "1965-04-12",
+    "luogo_nascita": "Torino",
+    "titolo_studio": null,
+    "professione": "Docente universitario"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "Piemonte",
+    "collegio": "PIEMONTE - U01 (TORINO: CIRCOSCRIZIONE 2 - SANTA RITA - MIRAFIORI NORD - MIRAFIORI SUD)",
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto uninominale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "49",
+      "nome": "Partito Democratico - Italia Democratica e Progressista",
+      "sigla": "PD-IDP",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-15",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-149",
+        "nome": "Comitato per la legislazione",
+        "tipo_organo": "Comitati",
+        "ruolo": "Membro",
+        "dal": "2022-11-17",
+        "al": "2024-02-28"
+      },
+      {
+        "organo_id": "0-149",
+        "nome": "Comitato per la legislazione",
+        "tipo_organo": "Comitati",
+        "ruolo": "Presidente",
+        "dal": "2024-02-29",
+        "al": "2025-06-10"
+      },
+      {
+        "organo_id": "0-1",
+        "nome": "1ª Commissione permanente Affari Costituzionali",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "0-20",
+        "nome": "Giunta per il Regolamento",
+        "tipo_organo": "Giunte",
+        "ruolo": "Membro",
+        "dal": "2022-11-17",
+        "al": null
+      },
+      {
+        "organo_id": "0-58",
+        "nome": "Consiglio di garanzia",
+        "tipo_organo": "Organismi interni e di garanzia",
+        "ruolo": "Membro",
+        "dal": "2023-07-05",
+        "al": null
+      },
+      {
+        "organo_id": "4-134",
+        "nome": "Commissione parlamentare per la semplificazione",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-03-19",
+        "al": null
+      },
+      {
+        "organo_id": "0-149",
+        "nome": "Comitato per la legislazione",
+        "tipo_organo": "Comitati",
+        "ruolo": "Membro",
+        "dal": "2025-06-11",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Presidente",
+        "organo": "Comitato per la legislazione",
+        "dal": "2024-02-29",
+        "al": "2025-06-10"
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Giorgis_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Giorgis_2023_2.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00029425.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/29425",
+    "wikidata": "http://www.wikidata.org/entity/Q16526279",
+    "aggiornato_il": "2026-10-14"
+  }
+}

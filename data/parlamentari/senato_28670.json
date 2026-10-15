@@ -1,0 +1,126 @@
+{
+  "id": "senato_28670",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Graziano",
+    "cognome": "Delrio",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Graziano%20Delrio%20daticamera%202018.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00028670.jpg",
+    "data_nascita": "1960-04-27",
+    "luogo_nascita": "Reggio Nell'Emilia, Reggio nell'Emilia",
+    "titolo_studio": null,
+    "professione": "Ricercatore"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Emilia-Romagna",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "49",
+      "nome": "Partito Democratico - Italia Democratica e Progressista",
+      "sigla": "PD-IDP",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "4-26",
+        "nome": "Comitato parlamentare di controllo sull'attuazione dell'Accordo di Schengen, di vigilanza sull'attività di Europol, di controllo e vigilanza in materia di immigrazione Comitato parlamentare Schengen, Europol e immigrazione",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-08-02",
+        "al": "2023-09-11"
+      },
+      {
+        "organo_id": "0-145",
+        "nome": "3ª Commissione permanente Affari esteri e difesa",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-27",
+        "nome": "Commissione parlamentare per l'infanzia e l'adolescenza",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-07-06",
+        "al": null
+      },
+      {
+        "organo_id": "4-26",
+        "nome": "Comitato parlamentare di controllo sull'attuazione dell'Accordo di Schengen, di vigilanza sull'attività di Europol, di controllo e vigilanza in materia di immigrazione Comitato parlamentare Schengen, Europol e immigrazione",
+        "tipo_organo": null,
+        "ruolo": "Presidente",
+        "dal": "2023-09-12",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Presidente",
+        "organo": "Comitato parlamentare di controllo sull'attuazione dell'Accordo di Schengen, di vigilanza sull'attività di Europol, di controllo e vigilanza in materia di immigrazione Comitato parlamentare Schengen, Europol e immigrazione",
+        "dal": "2023-09-12",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Delrio_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Delrio_2023_2.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00028670.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/28670",
+    "wikidata": "http://www.wikidata.org/entity/Q3776019",
+    "aggiornato_il": "2026-10-14"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "senato_33863",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Marco",
+    "cognome": "Scurria",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Marco%20Scurria%20%28Martin%20Rulsch%29%201.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00033863.jpg",
+    "data_nascita": "1967-05-18",
+    "luogo_nascita": "Roma",
+    "titolo_studio": null,
+    "professione": "Consulente"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Lazio",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "85",
+      "nome": "Fratelli d'Italia",
+      "sigla": "FdI",
+      "carica": "Vicepresidente",
+      "dal": "2024-05-08",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "85",
+        "nome": "Fratelli d'Italia",
+        "sigla": "FdI",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": "2024-05-07",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "85",
+        "nome": "Fratelli d'Italia",
+        "sigla": "FdI",
+        "carica": "Vicepresidente",
+        "dal": "2024-05-08",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-14",
+        "nome": "4ª Commissione permanente Politiche dell'Unione europea",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2022-11-09"
+      },
+      {
+        "organo_id": "4-225",
+        "nome": "Commissione parlamentare di inchiesta sulla scomparsa di Emanuela Orlandi e di Mirella Gregori Commissione di inchiesta scomparsa Orlandi e Gregori",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-03-12",
+        "al": "2024-03-13"
+      },
+      {
+        "organo_id": "0-14",
+        "nome": "4ª Commissione permanente Politiche dell'Unione europea",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Segretario",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "4-90",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea del Consiglio d'Europa Delegazione italiana presso l'Assemblea Consiglio d'Europa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-01-11",
+        "al": null
+      },
+      {
+        "organo_id": "0-143",
+        "nome": "Commissione straordinaria per il contrasto dei fenomeni di intolleranza, razzismo, antisemitismo e istigazione all'odio e alla violenza Commissione straordinaria intolleranza, razzismo, antisemitismo, istigazione all'odio e alla violenza",
+        "tipo_organo": "Commissioni straordinarie",
+        "ruolo": "Membro",
+        "dal": "2023-06-01",
+        "al": null
+      },
+      {
+        "organo_id": "4-225",
+        "nome": "Commissione parlamentare di inchiesta sulla scomparsa di Emanuela Orlandi e di Mirella Gregori Commissione di inchiesta scomparsa Orlandi e Gregori",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-03-20",
+        "al": null
+      },
+      {
+        "organo_id": "0-14",
+        "nome": "4ª Commissione permanente Politiche dell'Unione europea",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Segretario",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Segretario",
+        "organo": "4ª Commissione permanente Politiche dell'Unione europea",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "Gruppo FdI",
+        "dal": "2024-05-08",
+        "al": null
+      },
+      {
+        "carica": "Segretario",
+        "organo": "4ª Commissione permanente Politiche dell'Unione europea",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Scurria_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Scurria_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00033863.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/33863",
+    "wikidata": "http://www.wikidata.org/entity/Q3846483",
+    "aggiornato_il": "2026-10-14"
+  }
+}

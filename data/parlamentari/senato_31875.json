@@ -1,0 +1,149 @@
+{
+  "id": "senato_31875",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Cecilia",
+    "cognome": "D'Elia",
+    "genere": "F",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Cecilia%20D%27Elia.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00031875.jpg",
+    "data_nascita": "1963-07-31",
+    "luogo_nascita": "Potenza",
+    "titolo_studio": null,
+    "professione": "Consulente"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Lazio",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "49",
+      "nome": "Partito Democratico - Italia Democratica e Progressista",
+      "sigla": "PD-IDP",
+      "carica": "Segretario",
+      "dal": "2022-10-25",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": "2022-10-24",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "49",
+        "nome": "Partito Democratico - Italia Democratica e Progressista",
+        "sigla": "PD-IDP",
+        "carica": "Segretario",
+        "dal": "2022-10-25",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2022-01-19",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "4-223",
+        "nome": "Commissione parlamentare di inchiesta sul femminicidio, nonché su ogni forma di violenza di genere Commissione di inchiesta femminicidio e violenza di genere",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-06-29",
+        "al": "2023-07-25"
+      },
+      {
+        "organo_id": "0-7",
+        "nome": "7ª Commissione permanente Cultura e patrimonio culturale, istruzione pubblica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "0-75",
+        "nome": "Commissione straordinaria per la tutela e la promozione dei diritti umani Commissione straordinaria diritti umani",
+        "tipo_organo": "Commissioni straordinarie",
+        "ruolo": "Membro",
+        "dal": "2023-06-12",
+        "al": null
+      },
+      {
+        "organo_id": "4-27",
+        "nome": "Commissione parlamentare per l'infanzia e l'adolescenza",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-07-06",
+        "al": null
+      },
+      {
+        "organo_id": "4-223",
+        "nome": "Commissione parlamentare di inchiesta sul femminicidio, nonché su ogni forma di violenza di genere Commissione di inchiesta femminicidio e violenza di genere",
+        "tipo_organo": null,
+        "ruolo": "Vicepresidente",
+        "dal": "2023-07-26",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Segretario",
+        "organo": "Gruppo PD-IDP",
+        "dal": "2022-10-25",
+        "al": null
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "Commissione parlamentare di inchiesta sul femminicidio, nonché su ogni forma di violenza di genere Commissione di inchiesta femminicidio e violenza di genere",
+        "dal": "2023-07-26",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/DElia_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/DElia_2023_2.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00031875.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/31875",
+    "wikidata": "http://www.wikidata.org/entity/Q110597188",
+    "aggiornato_il": "2026-10-14"
+  }
+}

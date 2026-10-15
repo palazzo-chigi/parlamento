@@ -1,0 +1,157 @@
+{
+  "id": "senato_36390",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Ilaria",
+    "cognome": "Cucchi",
+    "genere": "F",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Ilaria%20Cucchi%20datisenato%202022.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00036390.jpg",
+    "data_nascita": "1974-06-22",
+    "luogo_nascita": "Roma",
+    "titolo_studio": null,
+    "professione": "Libero professionista"
+  },
+  "elezione": {
+    "tipo": "uninominale",
+    "circoscrizione": "Toscana",
+    "collegio": "TOSCANA - U04 (FIRENZE)",
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto uninominale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "9",
+      "nome": "Misto",
+      "sigla": "Misto",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "9",
+        "nome": "Misto",
+        "sigla": "Misto",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-2",
+        "nome": "2ª Commissione permanente Giustizia",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2022-11-09"
+      },
+      {
+        "organo_id": "0-14",
+        "nome": "4ª Commissione permanente Politiche dell'Unione europea",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2023-11-10"
+      },
+      {
+        "organo_id": "0-2",
+        "nome": "2ª Commissione permanente Giustizia",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Vicepresidente",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "0-21",
+        "nome": "Giunta delle elezioni e delle immunita' parlamentari",
+        "tipo_organo": "Giunte",
+        "ruolo": "Membro",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "4-43",
+        "nome": "Comitato parlamentare per i procedimenti di accusa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "4-223",
+        "nome": "Commissione parlamentare di inchiesta sul femminicidio, nonché su ogni forma di violenza di genere Commissione di inchiesta femminicidio e violenza di genere",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-06-29",
+        "al": null
+      },
+      {
+        "organo_id": "4-128",
+        "nome": "Commissione parlamentare di inchiesta sulle attività illecite connesse al ciclo dei rifiuti e su altri illeciti ambientali e agroalimentari Commissione di inchiesta sul ciclo dei rifiuti e illeciti ambientali e agroalimentari",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-09-07",
+        "al": null
+      },
+      {
+        "organo_id": "0-2",
+        "nome": "2ª Commissione permanente Giustizia",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Vicepresidente",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Vicepresidente",
+        "organo": "2ª Commissione permanente Giustizia",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "2ª Commissione permanente Giustizia",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Cucchi_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Cucchi_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00036390.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/36390",
+    "wikidata": "http://www.wikidata.org/entity/Q62018949",
+    "aggiornato_il": "2026-10-14"
+  }
+}

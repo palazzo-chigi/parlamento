@@ -1,0 +1,155 @@
+{
+  "id": "senato_36413",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Mario",
+    "cognome": "Occhiuto",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Occhiuto%20ritratto.JPG?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00036413.jpg",
+    "data_nascita": "1964-01-06",
+    "luogo_nascita": "Cosenza",
+    "titolo_studio": null,
+    "professione": "Architetto"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Calabria",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "56",
+      "nome": "Forza Italia - Berlusconi Presidente - PPE",
+      "sigla": "FI-BP-PPE",
+      "carica": "Membro",
+      "dal": "2022-10-18",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "56",
+        "nome": "Forza Italia - Berlusconi Presidente - PPE",
+        "sigla": "FI-BP-PPE",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": []
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-7",
+        "nome": "7ª Commissione permanente Cultura e patrimonio culturale, istruzione pubblica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2022-11-09"
+      },
+      {
+        "organo_id": "4-128",
+        "nome": "Commissione parlamentare di inchiesta sulle attività illecite connesse al ciclo dei rifiuti e su altri illeciti ambientali e agroalimentari Commissione di inchiesta sul ciclo dei rifiuti e illeciti ambientali e agroalimentari",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-09-07",
+        "al": "2023-09-14"
+      },
+      {
+        "organo_id": "0-7",
+        "nome": "7ª Commissione permanente Cultura e patrimonio culturale, istruzione pubblica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Segretario",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "organo_id": "0-1",
+        "nome": "1ª Commissione permanente Affari Costituzionali",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "0-142",
+        "nome": "Commissione parlamentare di inchiesta sulle condizioni di lavoro in Italia, sullo sfruttamento e sulla sicurezza nei luoghi di lavoro Commissione parlamentare di inchiesta condizioni di lavoro in Italia, sfruttamento e sicurezza luoghi di lavoro",
+        "tipo_organo": "Commissioni di inchiesta monocamerali",
+        "ruolo": "Membro",
+        "dal": "2023-06-01",
+        "al": null
+      },
+      {
+        "organo_id": "4-68",
+        "nome": "Commissione parlamentare per il controllo sull'attivita' degli enti gestori di forme obbligatorie di previdenza e assistenza sociale Commissione di controllo enti gestori previdenza assistenza",
+        "tipo_organo": null,
+        "ruolo": "Vicepresidente",
+        "dal": "2023-09-13",
+        "al": null
+      },
+      {
+        "organo_id": "0-7",
+        "nome": "7ª Commissione permanente Cultura e patrimonio culturale, istruzione pubblica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Segretario",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Segretario",
+        "organo": "7ª Commissione permanente Cultura e patrimonio culturale, istruzione pubblica",
+        "dal": "2022-11-10",
+        "al": "2025-06-09"
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "Commissione parlamentare per il controllo sull'attivita' degli enti gestori di forme obbligatorie di previdenza e assistenza sociale Commissione di controllo enti gestori previdenza assistenza",
+        "dal": "2023-09-13",
+        "al": null
+      },
+      {
+        "carica": "Segretario",
+        "organo": "7ª Commissione permanente Cultura e patrimonio culturale, istruzione pubblica",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Occhiuto_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Occhiuto_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00036413.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/36413",
+    "wikidata": "http://www.wikidata.org/entity/Q3848875",
+    "aggiornato_il": "2026-10-14"
+  }
+}

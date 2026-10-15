@@ -1,0 +1,295 @@
+{
+  "id": "senato_1407",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Lucio",
+    "cognome": "Malan",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucio-Malan.png?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00001407.jpg",
+    "data_nascita": "1960-07-30",
+    "luogo_nascita": "Luserna San Giovanni, Torino",
+    "titolo_studio": null,
+    "professione": "Insegnante"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Piemonte",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "85",
+      "nome": "Fratelli d'Italia",
+      "sigla": "FdI",
+      "carica": "Presidente",
+      "dal": "2022-11-09",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "85",
+        "nome": "Fratelli d'Italia",
+        "sigla": "FdI",
+        "carica": "Vicepresidente",
+        "dal": "2022-10-18",
+        "al": "2022-11-08",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "85",
+        "nome": "Fratelli d'Italia",
+        "sigla": "FdI",
+        "carica": "Presidente",
+        "dal": "2022-11-09",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 12,
+        "camera": "Camera",
+        "dal": "1994-04-15",
+        "al": "1996-05-08"
+      },
+      {
+        "legislatura": 14,
+        "camera": "Senato",
+        "dal": "2001-05-30",
+        "al": "2006-04-27"
+      },
+      {
+        "legislatura": 15,
+        "camera": "Senato",
+        "dal": "2006-04-28",
+        "al": "2008-04-28"
+      },
+      {
+        "legislatura": 16,
+        "camera": "Senato",
+        "dal": "2008-04-29",
+        "al": "2013-03-14"
+      },
+      {
+        "legislatura": 17,
+        "camera": "Senato",
+        "dal": "2013-03-15",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Senato",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-74",
+        "nome": "Commissione speciale per l'esame degli atti urgenti presentati dal Governo Commissione speciale su atti urgenti del Governo",
+        "tipo_organo": "Commissioni speciali e Commissioni di inchiesta monocamerali",
+        "ruolo": "Membro",
+        "dal": "2022-10-25",
+        "al": "2022-11-10"
+      },
+      {
+        "organo_id": "0-24",
+        "nome": "Giunta provvisoria per la verifica dei poteri",
+        "tipo_organo": "Giunte",
+        "ruolo": "Membro",
+        "dal": "2022-10-13",
+        "al": "2022-11-14"
+      },
+      {
+        "organo_id": "4-225",
+        "nome": "Commissione parlamentare di inchiesta sulla scomparsa di Emanuela Orlandi e di Mirella Gregori Commissione di inchiesta scomparsa Orlandi e Gregori",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-03-14",
+        "al": "2024-03-20"
+      },
+      {
+        "organo_id": "4-226",
+        "nome": "Commissione parlamentare di inchiesta sulla gestione dell'emergenza sanitaria causata dalla diffusione epidemica del virus SARS-CoV-2 e sulle misure adottate per prevenire e affrontare l'emergenza epidemiologica da SARS-CoV-2 Commissione di inchiesta su emergenza sanitaria epidemiologica da SARS-CoV-2",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-08-06",
+        "al": "2024-10-01"
+      },
+      {
+        "organo_id": "0-7",
+        "nome": "7ª Commissione permanente Cultura e patrimonio culturale, istruzione pubblica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2025-04-07",
+        "al": "2025-05-06"
+      },
+      {
+        "organo_id": "0-145",
+        "nome": "3ª Commissione permanente Affari esteri e difesa",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "0-20",
+        "nome": "Giunta per il Regolamento",
+        "tipo_organo": "Giunte",
+        "ruolo": "Membro",
+        "dal": "2022-11-17",
+        "al": null
+      },
+      {
+        "organo_id": "0-143",
+        "nome": "Commissione straordinaria per il contrasto dei fenomeni di intolleranza, razzismo, antisemitismo e istigazione all'odio e alla violenza Commissione straordinaria intolleranza, razzismo, antisemitismo, istigazione all'odio e alla violenza",
+        "tipo_organo": "Commissioni straordinarie",
+        "ruolo": "Membro",
+        "dal": "2023-04-21",
+        "al": null
+      },
+      {
+        "organo_id": "4-71",
+        "nome": "Parlamentari membri della Commissione di vigilanza sulla Cassa Depositi e Prestiti Commissione di vigilanza Cassa Depositi e Prestiti",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-02-13",
+        "al": null
+      },
+      {
+        "organo_id": "4-226",
+        "nome": "Commissione parlamentare di inchiesta sulla gestione dell'emergenza sanitaria causata dalla diffusione epidemica del virus SARS-CoV-2 e sulle misure adottate per prevenire e affrontare l'emergenza epidemiologica da SARS-CoV-2 Commissione di inchiesta su emergenza sanitaria epidemiologica da SARS-CoV-2",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-10-08",
+        "al": null
+      },
+      {
+        "organo_id": "0-21",
+        "nome": "Giunta delle elezioni e delle immunita' parlamentari",
+        "tipo_organo": "Giunte",
+        "ruolo": "Membro",
+        "dal": "2026-06-05",
+        "al": null
+      },
+      {
+        "organo_id": "4-43",
+        "nome": "Comitato parlamentare per i procedimenti di accusa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2026-06-05",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Vicepresidente",
+        "organo": "Gruppo FdI",
+        "dal": "2022-10-18",
+        "al": "2022-11-08"
+      },
+      {
+        "carica": "Presidente",
+        "organo": "Gruppo FdI",
+        "dal": "2022-11-09",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2008,
+      "url": "http://www.senato.it/documenti/repository/documentazione/MALAN%202008.pdf"
+    },
+    {
+      "anno": 2009,
+      "url": "http://www.senato.it/documenti/repository/documentazione/Malan%202009.pdf"
+    },
+    {
+      "anno": 2010,
+      "url": "http://www.senato.it/documenti/repository/documentazione/MALAN%202010.pdf"
+    },
+    {
+      "anno": 2011,
+      "url": "http://www.senato.it/documenti/repository/documentazione/MALAN%202011.pdf"
+    },
+    {
+      "anno": 2012,
+      "url": "http://www.senato.it/documenti/repository/commissioni/giunta%20elezioni%20e%20immunit/MALAN%202012.pdf"
+    },
+    {
+      "anno": 2013,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/Malan_2013.pdf"
+    },
+    {
+      "anno": 2014,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2014/Malan_2014.pdf"
+    },
+    {
+      "anno": 2015,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2015/MALAN_2015.pdf"
+    },
+    {
+      "anno": 2016,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2016/MALAN_2016.pdf"
+    },
+    {
+      "anno": 2017,
+      "url": "http://www.senato.it/application/xmanager/projects/leg17/file/repository/documentaz_patr_17/2017/Malan_2017.pdf"
+    },
+    {
+      "anno": 2018,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2018/Malan_2018.pdf"
+    },
+    {
+      "anno": 2019,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2019/Malan_2019.pdf"
+    },
+    {
+      "anno": 2020,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2020/Malan_2020.pdf"
+    },
+    {
+      "anno": 2021,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2021/Malan_2021.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg18/file/repository/documentaz_patr_17/2022/Malan_2022.pdf"
+    },
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Malan_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Malan_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00001407.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/1407",
+    "wikidata": "http://www.wikidata.org/entity/Q3838894",
+    "aggiornato_il": "2026-10-14"
+  }
+}

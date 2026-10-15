@@ -1,0 +1,224 @@
+{
+  "id": "senato_32779",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Roberto",
+    "cognome": "Rosso",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Roberto%20RossoDeputato.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00032779.jpg",
+    "data_nascita": "1967-08-16",
+    "luogo_nascita": "TORINO, Torino",
+    "titolo_studio": null,
+    "professione": "Agente o rappresentante"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Piemonte",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "56",
+      "nome": "Forza Italia - Berlusconi Presidente - PPE",
+      "sigla": "FI-BP-PPE",
+      "carica": "Vicepresidente Vicario",
+      "dal": "2026-03-31",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "56",
+        "nome": "Forza Italia - Berlusconi Presidente - PPE",
+        "sigla": "FI-BP-PPE",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": "2023-12-12",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "56",
+        "nome": "Forza Italia - Berlusconi Presidente - PPE",
+        "sigla": "FI-BP-PPE",
+        "carica": "Vicepresidente",
+        "dal": "2023-12-13",
+        "al": "2026-03-30",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "56",
+        "nome": "Forza Italia - Berlusconi Presidente - PPE",
+        "sigla": "FI-BP-PPE",
+        "carica": "Vicepresidente Vicario",
+        "dal": "2026-03-31",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-74",
+        "nome": "Commissione speciale per l'esame degli atti urgenti presentati dal Governo Commissione speciale su atti urgenti del Governo",
+        "tipo_organo": "Commissioni speciali e Commissioni di inchiesta monocamerali",
+        "ruolo": "Segretario",
+        "dal": "2022-10-25",
+        "al": "2022-11-10"
+      },
+      {
+        "organo_id": "0-146",
+        "nome": "8ª Commissione permanente Ambiente, transizione ecologica, energia, lavori pubblici, comunicazioni, innovazione tecnologica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2023-11-15"
+      },
+      {
+        "organo_id": "0-7",
+        "nome": "7ª Commissione permanente Cultura e patrimonio culturale, istruzione pubblica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": "2023-11-16"
+      },
+      {
+        "organo_id": "0-147",
+        "nome": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2023-11-16",
+        "al": "2023-11-28"
+      },
+      {
+        "organo_id": "0-147",
+        "nome": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Segretario",
+        "dal": "2023-11-29",
+        "al": "2025-06-10"
+      },
+      {
+        "organo_id": "0-20",
+        "nome": "Giunta per il Regolamento",
+        "tipo_organo": "Giunte",
+        "ruolo": "Membro",
+        "dal": "2022-11-17",
+        "al": null
+      },
+      {
+        "organo_id": "4-90",
+        "nome": "Delegazione parlamentare italiana presso l'Assemblea del Consiglio d'Europa Delegazione italiana presso l'Assemblea Consiglio d'Europa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-01-11",
+        "al": null
+      },
+      {
+        "organo_id": "4-60",
+        "nome": "Commissione parlamentare per l'indirizzo generale e la vigilanza dei servizi radiotelevisivi Commissione di vigilanza servizi radiotelevisivi",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-03-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-26",
+        "nome": "Comitato parlamentare di controllo sull'attuazione dell'Accordo di Schengen, di vigilanza sull'attività di Europol, di controllo e vigilanza in materia di immigrazione Comitato parlamentare Schengen, Europol e immigrazione",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2023-08-02",
+        "al": null
+      },
+      {
+        "organo_id": "0-146",
+        "nome": "8ª Commissione permanente Ambiente, transizione ecologica, energia, lavori pubblici, comunicazioni, innovazione tecnologica",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2023-11-16",
+        "al": null
+      },
+      {
+        "organo_id": "0-14",
+        "nome": "4ª Commissione permanente Politiche dell'Unione europea",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Vicepresidente",
+        "dal": "2025-06-10",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Segretario",
+        "organo": "Commissione speciale per l'esame degli atti urgenti presentati dal Governo Commissione speciale su atti urgenti del Governo",
+        "dal": "2022-10-25",
+        "al": "2022-11-10"
+      },
+      {
+        "carica": "Segretario",
+        "organo": "9ª Commissione permanente Industria, commercio, turismo, agricoltura e produzione agroalimentare",
+        "dal": "2023-11-29",
+        "al": "2025-06-10"
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "Gruppo FI-BP-PPE",
+        "dal": "2023-12-13",
+        "al": "2026-03-30"
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "4ª Commissione permanente Politiche dell'Unione europea",
+        "dal": "2025-06-10",
+        "al": null
+      },
+      {
+        "carica": "Vicepresidente Vicario",
+        "organo": "Gruppo FI-BP-PPE",
+        "dal": "2026-03-31",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Rosso_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Rosso_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00032779.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/32779",
+    "wikidata": "http://www.wikidata.org/entity/Q79383989",
+    "aggiornato_il": "2026-10-14"
+  }
+}

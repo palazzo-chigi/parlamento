@@ -1,0 +1,155 @@
+{
+  "id": "senato_29573",
+  "camera": "Senato",
+  "legislatura": 19,
+  "anagrafica": {
+    "nome": "Ivan",
+    "cognome": "Scalfarotto",
+    "genere": "M",
+    "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Scalfarotto%20daticamera%202018.jpg?width=300",
+    "foto_fonte": "Wikimedia Commons (via Wikidata P2549)",
+    "foto_senato": "http://www.senato.it/leg/19/Immagini/Senatori/00029573.jpg",
+    "data_nascita": "1965-08-16",
+    "luogo_nascita": "Pescara",
+    "titolo_studio": null,
+    "professione": "Direttore risorse umane"
+  },
+  "elezione": {
+    "tipo": "plurinominale",
+    "circoscrizione": "Piemonte",
+    "collegio": null,
+    "lista": null,
+    "data_elezione": null,
+    "data_proclamazione": "2022-10-13",
+    "data_convalida": null,
+    "descrizione": "Eletto proporzionale dalla XVIII legislatura"
+  },
+  "mandato": {
+    "inizio": "2022-10-13",
+    "fine": null,
+    "motivo_fine": null,
+    "in_carica": true,
+    "tipo": "elettivo"
+  },
+  "politica": {
+    "gruppo_attuale": {
+      "gruppo_id": "91",
+      "nome": "Italia Viva - Casa Riformista",
+      "sigla": "IV-CR",
+      "carica": "Tesoriere",
+      "dal": "2022-10-19",
+      "al": null,
+      "motivo_fine": null
+    },
+    "storico_gruppi": [
+      {
+        "gruppo_id": "91",
+        "nome": "Italia Viva - Casa Riformista",
+        "sigla": "IV-CR",
+        "carica": "Membro",
+        "dal": "2022-10-18",
+        "al": "2022-10-18",
+        "motivo_fine": null
+      },
+      {
+        "gruppo_id": "91",
+        "nome": "Italia Viva - Casa Riformista",
+        "sigla": "IV-CR",
+        "carica": "Tesoriere",
+        "dal": "2022-10-19",
+        "al": null,
+        "motivo_fine": null
+      }
+    ],
+    "cambi_di_gruppo": 0,
+    "legislature_precedenti": [
+      {
+        "legislatura": 17,
+        "camera": "Camera",
+        "dal": "2013-03-15",
+        "al": "2018-03-22"
+      },
+      {
+        "legislatura": 18,
+        "camera": "Camera",
+        "dal": "2018-03-23",
+        "al": "2022-10-12"
+      }
+    ]
+  },
+  "ruoli": {
+    "commissioni": [
+      {
+        "organo_id": "0-21",
+        "nome": "Giunta delle elezioni e delle immunita' parlamentari",
+        "tipo_organo": "Giunte",
+        "ruolo": "Membro",
+        "dal": "2022-11-10",
+        "al": "2022-11-14"
+      },
+      {
+        "organo_id": "0-2",
+        "nome": "2ª Commissione permanente Giustizia",
+        "tipo_organo": "Commissioni permanenti",
+        "ruolo": "Membro",
+        "dal": "2022-11-09",
+        "al": null
+      },
+      {
+        "organo_id": "4-43",
+        "nome": "Comitato parlamentare per i procedimenti di accusa",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2022-11-10",
+        "al": null
+      },
+      {
+        "organo_id": "0-21",
+        "nome": "Giunta delle elezioni e delle immunita' parlamentari",
+        "tipo_organo": "Giunte",
+        "ruolo": "Vicepresidente",
+        "dal": "2022-11-15",
+        "al": null
+      },
+      {
+        "organo_id": "4-220",
+        "nome": "Commissione parlamentare di inchiesta sui fatti accaduti presso la comunità \"Il Forteto\" Commissione di inchiesta su \"Il Forteto\"",
+        "tipo_organo": null,
+        "ruolo": "Membro",
+        "dal": "2024-07-17",
+        "al": null
+      }
+    ],
+    "incarichi": [
+      {
+        "carica": "Tesoriere",
+        "organo": "Gruppo IV-CR",
+        "dal": "2022-10-19",
+        "al": null
+      },
+      {
+        "carica": "Vicepresidente",
+        "organo": "Giunta delle elezioni e delle immunita' parlamentari",
+        "dal": "2022-11-15",
+        "al": null
+      }
+    ]
+  },
+  "documenti_patrimoniali": [
+    {
+      "anno": 2022,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2022_XIX/Scalfarotto_2022.pdf"
+    },
+    {
+      "anno": 2023,
+      "url": "http://www.senato.it/application/xmanager/projects/leg19/file/repository/documentaz_patr_17/2023/Scalfarotto_2023.pdf"
+    }
+  ],
+  "fonti": {
+    "scheda_ufficiale": "https://www.senato.it/leg/19/BGT/Schede/Attsen/00029573.htm",
+    "sparql_endpoint": "https://dati.senato.it/sparql",
+    "uri_linked_data": "http://dati.senato.it/senatore/29573",
+    "wikidata": "http://www.wikidata.org/entity/Q3804765",
+    "aggiornato_il": "2026-10-14"
+  }
+}
